@@ -47,25 +47,27 @@ for date in Date_rangeOI:
         data = match_data.find_all("dd")
         for el in data:
             results.append(el.get_text())
-            print(el.get_text())
+            #print(el.get_text())
         
         # Get data through html classes
         teamA = soup.find_all("th", {"class", "right"})[-1].get_text() 
         teamB = soup.find_all("th", {"class", "left"})[-1].get_text()
         results.append(teamA)
         results.append(teamB)
-        print(teamA, teamB)
+        #print(teamA, teamB)
         
 
         end_time = time.time()
         retrieval_duration = end_time - start_time
         results.append(retrieval_duration)
-        print('####'*10)
-        print('Time: ', retrieval_duration)
+        #print('Time: ', retrieval_duration)
+        #print('####'*10)
+        
         csv_writer.writerow(results)
         results = [date]
         # In case we need to slow down the process
         #time.sleep(5)
+    print('finished date: ', date)
 
 csv_file.close()
 
