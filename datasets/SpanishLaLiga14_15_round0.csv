@@ -1,0 +1,121 @@
+Round,Date,HomeTeam,HomeYellows,HomeReds,HomeSecondYellows,AwayTeam,AwayYellows,AwayReds,AwaySecondYellows,Referee,RefereeYellows,RefereeReds,Stadium,Location,Attendance
+Round 13,28/11/14,Real Sociedad,-1,-1,-1,Elche,-1,-1,-1,Carlos Velasco Carballo,5.42,0.29,Reale Arena,"San Sebastian, Spain",22928
+Round 13,29/11/14,Getafe,-1,-1,-1,Athletic Club,-1,-1,-1,Alfonso Alvarez Izquierdo,5.72,0.36,Coliseum Alfonso Pérez,"Getafe, Spain",6000
+Round 13,29/11/14,Espanyol,-1,-1,-1,Levante,-1,-1,-1,Carlos Del Cerro Grande,4.81,0.22,RCDE Stadium,"Cornella, Spain",12723
+Round 13,29/11/14,Málaga,-1,-1,-1,Real Madrid,-1,-1,-1,Inaki Vicandi Garrido,4.39,0.32,La Rosaleda,"Malaga, Spain",29025
+Round 13,29/11/14,Celta,-1,-1,-1,Eibar,-1,-1,-1,Pedro Jesus Perez Montero,5.26,0.25,Municipal de Balaidos,"Vigo, Spain",16799
+Round 13,30/11/14,Atl. Madrid,-1,-1,-1,Deportivo,-1,-1,-1,Jose Antonio Teixeira Vitienes,6.56,0.44,Vicente Calderón,"Madrid, Spain",45000
+Round 13,30/11/14,Sevilla,-1,-1,-1,Granada,-1,-1,-1,Eduardo Prieto Iglesias,4.81,0.21,Ramón Sánchez Pizjuán,"Seville, Spain",30347
+Round 13,30/11/14,Córdoba,-1,-1,-1,Villarreal,-1,-1,-1,Javier Estrada Fernandez,5.38,0.25,Estadio Nuevo Arcángel,"Cordoba, Spain",15998
+Round 13,30/11/14,Valencia,-1,-1,-1,Barcelona,-1,-1,-1,David Fernandez Borbalan,5.63,0.31,Mestalla,"Valencia, Spain",38000
+Round 13,01/12/14,Almería,4,0,0,Rayo Vallecano,4,0,0,Antonio Mateu Lahoz,5.18,0.22,Estadio del Mediterráneo,"Almeria, Spain",9121
+Round 12,21/11/14,Athletic Club,1,0,0,Espanyol,4,0,0,Mario Melero Lopez,5.52,0.21,San Mamés,"Bilbao, Spain",28000
+Round 12,22/11/14,Atl. Madrid,2,0,1,Málaga,4,0,1,Fernando Teixeira Vitienes,5.79,0.44,Vicente Calderón,"Madrid, Spain",44200
+Round 12,22/11/14,Eibar,4,0,0,Real Madrid,2,0,0,David Fernandez Borbalan,5.63,0.31,Ipurua Municipal Stadium,"Eibar, Spain",5859
+Round 12,22/11/14,Barcelona,1,0,0,Sevilla,2,0,0,Juan Martinez Munuera,4.9,0.19,Spotify Camp Nou,"Barcelona, Spain",78283
+Round 12,22/11/14,Deportivo,3,0,0,Real Sociedad,1,0,0,Eduardo Prieto Iglesias,4.81,0.21,Riazor,"La Coruna, Spain",18521
+Round 12,23/11/14,Rayo Vallecano,6,0,0,Celta,4,0,0,Jose Luis Gonzalez Gonzalez,4.82,0.22,Estadio de Vallecas,"Madrid, Spain",11321
+Round 12,23/11/14,Levante,2,0,0,Valencia,1,0,0,Inaki Vicandi Garrido,4.39,0.32,Ciudad de Valencia,"Valencia, Spain",22012
+Round 12,23/11/14,Elche,3,0,0,Córdoba,4,0,0,Alejandro Hernandez,5.52,0.27,Estadio Martínez Valero,"Elche, Spain",22636
+Round 12,23/11/14,Villarreal,3,0,0,Getafe,2,0,0,Santiago Jaime Latre,5.58,0.22,Estadio de la Ceramica,"Villarreal, Spain",19500
+Round 12,24/11/14,Granada,4,0,0,Almería,1,0,1,Ignacio Iglesias Villanueva,5.62,0.35,Estadio Nuevo Los Carmenes,"Granada, Spain",16957
+Round 11,07/11/14,Córdoba,4,0,0,Deportivo,1,0,1,Antonio Mateu Lahoz,5.18,0.22,Estadio Nuevo Arcángel,"Cordoba, Spain",15643
+Round 11,08/11/14,Almería,2,0,0,Barcelona,0,0,0,Alberto Undiano,4.53,0.14,Estadio del Mediterráneo,"Almeria, Spain",12606
+Round 11,08/11/14,Getafe,1,0,0,Elche,3,0,0,David Fernandez Borbalan,5.63,0.31,Coliseum Alfonso Pérez,"Getafe, Spain",6000
+Round 11,08/11/14,Real Madrid,0,0,0,Rayo Vallecano,4,0,0,Pedro Jesus Perez Montero,5.26,0.25,Santiago Bernabéu,"Madrid, Spain",76842
+Round 11,08/11/14,Celta,1,0,0,Granada,4,0,0,Javier Estrada Fernandez,5.38,0.25,Municipal de Balaidos,"Vigo, Spain",16963
+Round 11,08/11/14,Málaga,3,0,0,Eibar,3,0,1,Juan Martinez Munuera,4.9,0.19,La Rosaleda,"Malaga, Spain",22600
+Round 11,09/11/14,Sevilla,2,0,0,Levante,6,0,0,Carlos Velasco Carballo,5.42,0.29,Ramón Sánchez Pizjuán,"Seville, Spain",28500
+Round 11,09/11/14,Espanyol,3,0,0,Villarreal,3,0,0,Jesus Gil Manzano,5.28,0.26,RCDE Stadium,"Cornella, Spain",22000
+Round 11,09/11/14,Valencia,0,0,0,Athletic Club,2,0,0,Carlos Del Cerro Grande,4.81,0.22,Mestalla,"Valencia, Spain",39600
+Round 11,09/11/14,Real Sociedad,2,0,0,Atl. Madrid,7,0,1,Alfonso Alvarez Izquierdo,5.72,0.36,Reale Arena,"San Sebastian, Spain",22768
+Round 10,31/10/14,Deportivo,2,0,0,Getafe,1,0,0,Alejandro Hernandez,5.52,0.27,Riazor,"La Coruna, Spain",
+Round 10,01/11/14,Granada,1,0,0,Real Madrid,2,0,0,Jose Luis Gonzalez Gonzalez,4.82,0.22,Estadio Nuevo Los Carmenes,"Granada, Spain",18939
+Round 10,01/11/14,Atl. Madrid,0,0,0,Córdoba,2,0,0,Carlos Clos Gomez,5.33,0.3,Vicente Calderón,"Madrid, Spain",50081
+Round 10,01/11/14,Barcelona,1,0,0,Celta,2,0,0,Inaki Vicandi Garrido,4.39,0.32,Spotify Camp Nou,"Barcelona, Spain",71468
+Round 10,01/11/14,Real Sociedad,2,0,0,Málaga,5,0,0,Santiago Jaime Latre,5.58,0.22,Reale Arena,"San Sebastian, Spain",21086
+Round 10,02/11/14,Athletic Club,4,0,0,Sevilla,3,0,0,Javier Estrada Fernandez,5.38,0.25,San Mamés,"Bilbao, Spain",42000
+Round 10,02/11/14,Villarreal,2,0,0,Valencia,3,0,0,Pedro Jesus Perez Montero,5.26,0.25,Estadio de la Ceramica,"Villarreal, Spain",23000
+Round 10,02/11/14,Levante,3,0,0,Almería,2,0,0,Eduardo Prieto Iglesias,4.81,0.21,Ciudad de Valencia,"Valencia, Spain",
+Round 10,02/11/14,Elche,4,0,2,Espanyol,2,0,0,Jose Antonio Teixeira Vitienes,6.56,0.44,Estadio Martínez Valero,"Elche, Spain",21472
+Round 10,03/11/14,Rayo Vallecano,1,0,0,Eibar,2,0,0,Ignacio Iglesias Villanueva,5.62,0.35,Estadio de Vallecas,"Madrid, Spain",10625
+Round 9,24/10/14,Celta,0,0,0,Levante,3,0,0,Fernando Teixeira Vitienes,5.79,0.44,Municipal de Balaidos,"Vigo, Spain",19231
+Round 9,25/10/14,Almería,2,0,0,Athletic Club,1,0,0,Juan Martinez Munuera,4.9,0.19,Estadio del Mediterráneo,"Almeria, Spain",12000
+Round 9,25/10/14,Real Madrid,2,0,0,Barcelona,4,0,0,Jesus Gil Manzano,5.28,0.26,Santiago Bernabéu,"Madrid, Spain",85450
+Round 9,25/10/14,Valencia,0,0,0,Elche,2,0,0,Alberto Undiano,4.53,0.14,Mestalla,"Valencia, Spain",42783
+Round 9,25/10/14,Córdoba,3,0,0,Real Sociedad,2,0,0,Carlos Del Cerro Grande,4.81,0.22,Estadio Nuevo Arcángel,"Cordoba, Spain",15712
+Round 9,25/10/14,Eibar,3,0,0,Granada,4,0,0,Antonio Mateu Lahoz,5.18,0.22,Ipurua Municipal Stadium,"Eibar, Spain",4838
+Round 9,26/10/14,Málaga,1,0,0,Rayo Vallecano,4,0,0,Alfonso Alvarez Izquierdo,5.72,0.36,La Rosaleda,"Malaga, Spain",21800
+Round 9,26/10/14,Espanyol,2,0,0,Deportivo,4,0,0,Carlos Velasco Carballo,5.42,0.29,RCDE Stadium,"Cornella, Spain",22732
+Round 9,26/10/14,Sevilla,3,0,0,Villarreal,4,0,0,Alejandro Hernandez,5.52,0.27,Ramón Sánchez Pizjuán,"Seville, Spain",34304
+Round 9,26/10/14,Getafe,3,1,0,Atl. Madrid,3,0,0,Mario Melero Lopez,5.52,0.21,Coliseum Alfonso Pérez,"Getafe, Spain",9300
+Round 8,17/10/14,Granada,4,0,0,Rayo Vallecano,5,0,0,Santiago Jaime Latre,5.58,0.22,Estadio Nuevo Los Carmenes,"Granada, Spain",16415
+Round 8,18/10/14,Levante,4,0,0,Real Madrid,0,0,0,Ignacio Iglesias Villanueva,5.62,0.35,Ciudad de Valencia,"Valencia, Spain",23506
+Round 8,18/10/14,Athletic Club,3,0,0,Celta,2,0,0,David Fernandez Borbalan,5.63,0.31,San Mamés,"Bilbao, Spain",47000
+Round 8,18/10/14,Barcelona,2,0,0,Eibar,2,0,0,Jose Antonio Teixeira Vitienes,6.56,0.44,Spotify Camp Nou,"Barcelona, Spain",75546
+Round 8,18/10/14,Córdoba,2,0,0,Málaga,3,0,0,Jose Luis Gonzalez Gonzalez,4.82,0.22,Estadio Nuevo Arcángel,"Cordoba, Spain",16615
+Round 8,19/10/14,Atl. Madrid,0,0,0,Espanyol,0,0,0,Inaki Vicandi Garrido,4.39,0.32,Vicente Calderón,"Madrid, Spain",54069
+Round 8,19/10/14,Deportivo,4,0,0,Valencia,4,0,0,Javier Estrada Fernandez,5.38,0.25,Riazor,"La Coruna, Spain",21908
+Round 8,19/10/14,Elche,5,0,0,Sevilla,2,0,0,Eduardo Prieto Iglesias,4.81,0.21,Estadio Martínez Valero,"Elche, Spain",26059
+Round 8,19/10/14,Villarreal,5,0,0,Almería,2,0,0,Carlos Clos Gomez,5.33,0.3,Estadio de la Ceramica,"Villarreal, Spain",17000
+Round 8,20/10/14,Real Sociedad,1,0,0,Getafe,4,0,0,Pedro Jesus Perez Montero,5.26,0.25,Reale Arena,"San Sebastian, Spain",19098
+Round 7,03/10/14,Getafe,1,0,0,Córdoba,2,0,0,Juan Martinez Munuera,4.9,0.19,Coliseum Alfonso Pérez,"Getafe, Spain",
+Round 7,04/10/14,Valencia,4,0,0,Atl. Madrid,1,0,1,Fernando Teixeira Vitienes,5.79,0.44,Mestalla,"Valencia, Spain",44000
+Round 7,04/10/14,Rayo Vallecano,4,0,2,Barcelona,2,0,0,Antonio Mateu Lahoz,5.18,0.22,Estadio de Vallecas,"Madrid, Spain",14071
+Round 7,04/10/14,Eibar,3,0,0,Levante,1,0,0,Alberto Undiano,4.53,0.14,Ipurua Municipal Stadium,"Eibar, Spain",4265
+Round 7,04/10/14,Almería,2,0,0,Elche,5,0,1,Carlos Del Cerro Grande,4.81,0.22,Estadio del Mediterráneo,"Almeria, Spain",9833
+Round 7,04/10/14,Málaga,1,1,0,Granada,4,0,0,Carlos Velasco Carballo,5.42,0.29,La Rosaleda,"Malaga, Spain",20700
+Round 7,05/10/14,Sevilla,2,0,0,Deportivo,2,0,0,Jesus Gil Manzano,5.28,0.26,Ramón Sánchez Pizjuán,"Seville, Spain",33356
+Round 7,05/10/14,Celta,4,0,1,Villarreal,4,0,0,Alfonso Alvarez Izquierdo,5.72,0.36,Municipal de Balaidos,"Vigo, Spain",22242
+Round 7,05/10/14,Espanyol,6,0,0,Real Sociedad,2,0,0,Mario Melero Lopez,5.52,0.21,RCDE Stadium,"Cornella, Spain",18326
+Round 7,05/10/14,Real Madrid,1,0,0,Athletic Club,2,0,0,Alejandro Hernandez,5.52,0.27,Santiago Bernabéu,"Madrid, Spain",77987
+Round 6,26/09/14,Elche,4,0,0,Celta,2,0,0,Pedro Jesus Perez Montero,5.26,0.25,Estadio Martínez Valero,"Elche, Spain",20852
+Round 6,27/09/14,Villarreal,0,0,0,Real Madrid,1,0,0,Alberto Undiano,4.53,0.14,Estadio de la Ceramica,"Villarreal, Spain",22146
+Round 6,27/09/14,Barcelona,1,0,0,Granada,3,0,0,Juan Martinez Munuera,4.9,0.19,Spotify Camp Nou,"Barcelona, Spain",72596
+Round 6,27/09/14,Atl. Madrid,4,0,0,Sevilla,3,0,0,Jose Luis Gonzalez Gonzalez,4.82,0.22,Vicente Calderón,"Madrid, Spain",54000
+Round 6,27/09/14,Athletic Club,4,0,0,Eibar,6,0,0,Carlos Velasco Carballo,5.42,0.29,San Mamés,"Bilbao, Spain",48000
+Round 6,27/09/14,Levante,4,0,0,Rayo Vallecano,3,0,0,Javier Estrada Fernandez,5.38,0.25,Ciudad de Valencia,"Valencia, Spain",12106
+Round 6,28/09/14,Getafe,0,0,0,Málaga,4,0,1,Eduardo Prieto Iglesias,4.81,0.21,Coliseum Alfonso Pérez,"Getafe, Spain",4501
+Round 6,28/09/14,Deportivo,2,0,0,Almería,4,0,0,Jose Antonio Teixeira Vitienes,6.56,0.44,Riazor,"La Coruna, Spain",17000
+Round 6,28/09/14,Real Sociedad,3,0,0,Valencia,5,0,0,Ignacio Iglesias Villanueva,5.62,0.35,Reale Arena,"San Sebastian, Spain",
+Round 6,28/09/14,Córdoba,2,0,0,Espanyol,6,0,0,Santiago Jaime Latre,5.58,0.22,Estadio Nuevo Arcángel,"Cordoba, Spain",15880
+Round 4,19/09/14,Elche,2,0,0,Eibar,1,0,0,Santiago Jaime Latre,5.58,0.22,Estadio Martínez Valero,"Elche, Spain",22474
+Round 4,20/09/14,Deportivo,1,0,0,Real Madrid,1,0,0,Pedro Jesus Perez Montero,5.26,0.25,Riazor,"La Coruna, Spain",27685
+Round 4,20/09/14,Athletic Club,2,0,0,Granada,4,0,0,Jose Antonio Teixeira Vitienes,6.56,0.44,San Mamés,"Bilbao, Spain",48000
+Round 4,20/09/14,Atl. Madrid,1,0,0,Celta,3,0,0,Juan Martinez Munuera,4.9,0.19,Vicente Calderón,"Madrid, Spain",47000
+Round 4,20/09/14,Espanyol,3,0,0,Málaga,4,0,0,Ignacio Iglesias Villanueva,5.62,0.35,RCDE Stadium,"Cornella, Spain",
+Round 4,21/09/14,Real Sociedad,1,0,0,Almería,7,0,1,Javier Estrada Fernandez,5.38,0.25,Reale Arena,"San Sebastian, Spain",
+Round 4,21/09/14,Villarreal,2,0,0,Rayo Vallecano,2,0,0,Eduardo Prieto Iglesias,4.81,0.21,Estadio de la Ceramica,"Villarreal, Spain",15050
+Round 4,21/09/14,Córdoba,6,0,0,Sevilla,2,0,0,Carlos Velasco Carballo,5.42,0.29,Estadio Nuevo Arcángel,"Cordoba, Spain",17023
+Round 4,21/09/14,Levante,1,1,0,Barcelona,2,0,0,Jose Luis Gonzalez Gonzalez,4.82,0.22,Ciudad de Valencia,"Valencia, Spain",22177
+Round 4,22/09/14,Getafe,6,0,0,Valencia,2,0,1,Alberto Undiano,4.53,0.14,Coliseum Alfonso Pérez,"Getafe, Spain",6000
+Round 3,12/09/14,Almería,4,0,0,Córdoba,4,0,0,Fernando Teixeira Vitienes,5.79,0.44,Estadio del Mediterráneo,"Almeria, Spain",14500
+Round 3,13/09/14,Barcelona,1,0,0,Athletic Club,1,0,0,David Fernandez Borbalan,5.63,0.31,Spotify Camp Nou,"Barcelona, Spain",80181
+Round 3,13/09/14,Málaga,1,0,0,Levante,2,0,0,Jesus Gil Manzano,5.28,0.26,La Rosaleda,"Malaga, Spain",19210
+Round 3,13/09/14,Real Madrid,4,0,0,Atl. Madrid,7,0,0,Antonio Mateu Lahoz,5.18,0.22,Santiago Bernabéu,"Madrid, Spain",85253
+Round 3,13/09/14,Celta,1,0,0,Real Sociedad,5,0,0,Alejandro Hernandez,5.52,0.27,Municipal de Balaidos,"Vigo, Spain",19385
+Round 3,14/09/14,Rayo Vallecano,2,0,0,Elche,2,0,0,Inaki Vicandi Garrido,4.39,0.32,Estadio de Vallecas,"Madrid, Spain",9521
+Round 3,14/09/14,Valencia,1,0,0,Espanyol,1,0,0,Carlos Clos Gomez,5.33,0.3,Mestalla,"Valencia, Spain",42141
+Round 3,14/09/14,Sevilla,2,0,0,Getafe,6,0,0,Alfonso Alvarez Izquierdo,5.72,0.36,Ramón Sánchez Pizjuán,"Seville, Spain",32643
+Round 3,14/09/14,Granada,3,0,0,Villarreal,2,0,0,Carlos Del Cerro Grande,4.81,0.22,Estadio Nuevo Los Carmenes,"Granada, Spain",16272
+Round 3,15/09/14,Eibar,0,0,0,Deportivo,5,0,0,Mario Melero Lopez,5.52,0.21,Ipurua Municipal Stadium,"Eibar, Spain",4522
+Round 2,29/08/14,Getafe,3,0,0,Almería,2,0,0,Santiago Jaime Latre,5.58,0.22,Coliseum Alfonso Pérez,"Getafe, Spain",6000
+Round 2,29/08/14,Valencia,1,0,0,Málaga,2,1,0,Javier Estrada Fernandez,5.38,0.25,Mestalla,"Valencia, Spain",41550
+Round 2,30/08/14,Athletic Club,1,0,0,Levante,4,0,0,Pedro Jesus Perez Montero,5.26,0.25,San Mamés,"Bilbao, Spain",48300
+Round 2,30/08/14,Córdoba,1,0,0,Celta,4,0,0,Jose Antonio Teixeira Vitienes,6.56,0.44,Estadio Nuevo Arcángel,"Cordoba, Spain",15892
+Round 2,30/08/14,Atl. Madrid,3,0,0,Eibar,0,0,0,Eduardo Prieto Iglesias,4.81,0.21,Vicente Calderón,"Madrid, Spain",48000
+Round 2,31/08/14,Espanyol,4,0,0,Sevilla,2,0,0,Alberto Undiano,4.53,0.14,RCDE Stadium,"Cornella, Spain",16490
+Round 2,31/08/14,Villarreal,0,0,0,Barcelona,2,0,0,Carlos Velasco Carballo,5.42,0.29,Estadio de la Ceramica,"Villarreal, Spain",21200
+Round 2,31/08/14,Deportivo,4,0,0,Rayo Vallecano,6,0,0,Jose Luis Gonzalez Gonzalez,4.82,0.22,Riazor,"La Coruna, Spain",18453
+Round 2,31/08/14,Real Sociedad,1,0,0,Real Madrid,2,0,0,Juan Martinez Munuera,4.9,0.19,Reale Arena,"San Sebastian, Spain",27879
+Round 2,01/09/14,Elche,4,0,0,Granada,4,0,0,Ignacio Iglesias Villanueva,5.62,0.35,Estadio Martínez Valero,"Elche, Spain",20025
+Round 1,23/08/14,Málaga,3,2,0,Athletic Club,3,0,0,Antonio Mateu Lahoz,5.18,0.22,La Rosaleda,"Malaga, Spain",24035
+Round 1,23/08/14,Granada,1,0,0,Deportivo,3,0,0,Inaki Vicandi Garrido,4.39,0.32,Estadio Nuevo Los Carmenes,"Granada, Spain",
+Round 1,23/08/14,Sevilla,4,0,0,Valencia,2,1,0,Carlos Del Cerro Grande,4.81,0.22,Ramón Sánchez Pizjuán,"Seville, Spain",29352
+Round 1,24/08/14,Almería,3,0,0,Espanyol,3,0,1,Alejandro Hernandez,5.52,0.27,Estadio del Mediterráneo,"Almeria, Spain",9872
+Round 1,24/08/14,Eibar,4,0,0,Real Sociedad,1,0,0,Alfonso Alvarez Izquierdo,5.72,0.36,Ipurua Municipal Stadium,"Eibar, Spain",4600
+Round 1,24/08/14,Barcelona,0,1,0,Elche,1,0,0,Fernando Teixeira Vitienes,5.79,0.44,Spotify Camp Nou,"Barcelona, Spain",
+Round 1,24/08/14,Celta,4,0,0,Getafe,1,0,0,Mario Melero Lopez,5.52,0.21,Municipal de Balaidos,"Vigo, Spain",
+Round 1,25/08/14,Levante,1,0,0,Villarreal,3,0,0,David Fernandez Borbalan,5.63,0.31,Ciudad de Valencia,"Valencia, Spain",
+Round 1,25/08/14,Real Madrid,1,0,0,Córdoba,2,0,0,Jesus Gil Manzano,5.28,0.26,Santiago Bernabéu,"Madrid, Spain",70356
+Round 1,25/08/14,Rayo Vallecano,2,0,0,Atl. Madrid,2,0,0,Carlos Clos Gomez,5.33,0.3,Estadio de Vallecas,"Madrid, Spain",11070
