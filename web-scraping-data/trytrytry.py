@@ -6,6 +6,8 @@ from selenium import webdriver
 import time
 import csv
 
+
+START = time.time()
 # 
 url = "https://www.sofascore.com/tournament/football/spain/laliga/8"
 league_name = "Spanish La Liga"
@@ -16,7 +18,8 @@ options.page_load_strategy = 'eager'
 
 # TODO this line does not prevent the website from reloading after 30 mins. Find alternative
 profile = webdriver.FirefoxProfile()
-profile.set_preference("accessibility.blockautorefresh", True)
+#profile.set_preference("accessibility.blockautorefresh", True)
+profile.set_preference("dom.max_script_run_time", 0)
 
 driver = webdriver.Firefox(options=options, firefox_profile=profile)
 driver.maximize_window()
@@ -32,7 +35,7 @@ time.sleep(3)
 
 # Select year to extract through button click and scroll 
 # Here select N to define the season you want to scrape. N = 8 means start from season 14/15
-N = 5
+N = 1
 
 downshift = "downshift-1-item-"
 downshift_string = downshift + str(N)
@@ -67,7 +70,7 @@ time.sleep(3)
 # add comment
 csv_file = open(league_name.replace(" ","") + season + ".csv", "w", newline='')
 csv_writer = csv.writer(csv_file, delimiter=',')
-header = ["Round", "Date", "HomeTeam", "HomeYellows", "HomeReds", "HomeSecondYellows", "AwayTeam", "AwayYellows", "AwayReds", "AwaySecondYellows",
+header = ["Round", "Date", "HomeTeam", "HomeGoals", "HomeYellows", "HomeReds", "HomeSecondYellows", "AwayTeam", "AwayGoals", "AwayYellows", "AwayReds", "AwaySecondYellows",
           "Referee", "RefereeYellows", "RefereeReds", "Stadium", "Location", "Attendance"]
 csv_writer.writerow(header)
 
@@ -103,7 +106,14 @@ while True:
         # Get the data that u want
         infobox = driver.find_element_by_class_name("sc-hLBbgP.sc-hBxehG.ksVQpa.dIKVzc.ps.ps--active-y")
         
-        
+        # score
+        try:
+            score_class = driver.find_element_by_class_name("sc-hLBbgP.sc-eDvSVe.dCLqjZ.hryjgv")
+            home_goals = score_class.find_element_by_class_name("sc-hLBbgP.cCBwgI").text
+            away_goals = score_class.find_element_by_class_name("sc-hLBbgP.dGDGeM").text
+        except:
+            home_goals, away_goals = -1, -1
+            
         # cards
         try:
             moments_box = infobox.find_element_by_class_name("sc-hLBbgP.etIUTK")
@@ -154,8 +164,8 @@ while True:
         driver.execute_script("arguments[0].scrollIntoView(true);", referee_venue_box)
         
         #inner_referee_venue_box = referee_venue_box.find_elements_by_class_name("sc-hLBbgP.dRtNhU.sc-ca17568b-0.gHnyhj") # this class name seemed to changed during developing
-        inner_referee_venue_box = referee_venue_box.find_elements_by_class_name("sc-hLBbgP.dRtNhU.sc-5d1cf382-0.coeTae")
-        
+        #inner_referee_venue_box = referee_venue_box.find_elements_by_class_name("sc-hLBbgP.dRtNhU.sc-5d1cf382-0.coeTae")
+        inner_referee_venue_box = referee_venue_box.find_elements_by_class_name("sc-hLBbgP.dRtNhU.sc-3d2fb6ba-0.evjDou")
         
         # first info for referees
         try:
@@ -198,6 +208,7 @@ while True:
    
         print(f"Round: {current_round} - Date: {date}")
         print(f"Teams: {home_team} - {away_team}")
+        print(f"Score: {home_goals} - {away_goals}")
         print(f"Team: {home_team} received {home_yellow_cards} Yellow cards - {home_red_cards} Red cards and {home_second_yellow_cards} Second Yellows")
         print(f"Team: {away_team} received {away_yellow_cards} Yellow cards - {away_red_cards} Red cards and {away_second_yellow_cards} Second Yellows")
         print(f"Referee_name: {referee_name}")
@@ -206,7 +217,7 @@ while True:
         print(f"Attendance: {venue_attendance}")
         print("\n\n")
         
-        results = [current_round, date, home_team.strip(), home_yellow_cards, home_red_cards, home_second_yellow_cards, away_team.strip(), away_yellow_cards, away_red_cards, away_second_yellow_cards,
+        results = [current_round, date, home_team.strip(), home_goals, home_yellow_cards, home_red_cards, home_second_yellow_cards, away_team.strip(), away_goals, away_yellow_cards, away_red_cards, away_second_yellow_cards,
                    referee_name, referee_yellows, referee_reds, venue_name, venue_location, venue_attendance]
         csv_writer.writerow(results)
         
@@ -226,3 +237,4 @@ while True:
         print(f"The following error occured: {e}")
             
 
+print(f"Execution time for season {season} is {time.time() - START}")
