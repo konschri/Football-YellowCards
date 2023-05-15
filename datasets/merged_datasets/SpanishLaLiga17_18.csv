@@ -1,0 +1,381 @@
+Round,Date,HomeTeam,HomeGoals,HomeYellows,HomeReds,HomeSecondYellows,AwayTeam,AwayGoals,AwayYellows,AwayReds,AwaySecondYellows,Referee,RefereeYellows,RefereeReds,Stadium,Location,Attendance
+Round 38,19/05/18,Celta,4,1,0,0,Levante,2,3,0,0,Ricardo De Burgos Bengoetxea,4.96,0.17,Municipal de Balaidos,"Vigo, Spain",10851.0
+Round 38,19/05/18,Leganés,3,1,0,1,Betis,2,0,0,0,Jesus Gil Manzano,5.27,0.26,Estadio Municipal de Butarque,"Leganes, Spain",10813.0
+Round 38,19/05/18,Las Palmas,1,1,0,0,Girona,2,2,0,0,Santiago Jaime Latre,5.58,0.22,Gran Canaria,"Las Palmas de Gran Canaria, Spain",6362.0
+Round 38,19/05/18,Málaga,0,4,0,0,Getafe,1,1,0,0,Daniel Jesus Trujillo Suarez,4.75,0.26,La Rosaleda,"Malaga, Spain",9570.0
+Round 38,19/05/18,Sevilla,1,2,0,0,Alavés,0,2,0,0,Carlos Del Cerro Grande,4.81,0.22,Ramón Sánchez Pizjuán,"Seville, Spain",22513.0
+Round 38,19/05/18,Villarreal,2,4,0,0,Real Madrid,2,3,0,0,Jose Maria Sanchez Martinez,5.74,0.28,Estadio de la Ceramica,"Villarreal, Spain",18891.0
+Round 38,20/05/18,Valencia,2,0,0,0,Deportivo,1,0,0,0,David Medie Jimenez,4.94,0.31,Mestalla,"Valencia, Spain",35376.0
+Round 38,20/05/18,Athletic Club,0,0,0,0,Espanyol,1,1,0,0,David Fernandez Borbalan,5.63,0.31,San Mamés,"Bilbao, Spain",28492.0
+Round 38,20/05/18,Atl. Madrid,2,5,0,1,Eibar,2,2,0,0,Alfonso Alvarez Izquierdo,5.72,0.36,Cívitas Metropolitano,"Madrid, Spain",63229.0
+Round 38,20/05/18,Barcelona,1,3,0,0,Real Sociedad,0,2,0,0,José Luis Munuera Montero,4.75,0.37,Spotify Camp Nou,"Barcelona, Spain",84168.0
+Round 37,12/5/2018,Real Sociedad,3,1,0,0,Leganés,2,2,0,0,David Medie Jimenez,4.94,0.31,Reale Arena,"San Sebastian, Spain",19981.0
+Round 37,12/5/2018,Alavés,3,2,0,0,Athletic Club,1,5,0,0,Javier Estrada Fernandez,5.38,0.25,Estadio de Mendizorroza,"Vitoria-Gasteiz, Spain",19458.0
+Round 37,12/5/2018,Deportivo,2,3,0,0,Villarreal,4,0,0,0,Alejandro Hernandez,5.51,0.27,Riazor,"La Coruna, Spain",12789.0
+Round 37,12/5/2018,Eibar,1,3,0,0,Las Palmas,0,1,0,0,Antonio Mateu Lahoz,5.18,0.22,Ipurua Municipal Stadium,"Eibar, Spain",5107.0
+Round 37,12/5/2018,Getafe,0,3,0,0,Atl. Madrid,1,2,0,0,Javier Alberola Rojas,3.7,0.15,Coliseum Alfonso Pérez,"Getafe, Spain",12187.0
+Round 37,12/5/2018,Girona,0,2,0,0,Valencia,1,3,0,0,Ignacio Iglesias Villanueva,5.62,0.35,Estadi Montilivi,"Girona, Spain",10850.0
+Round 37,12/5/2018,Betis,2,1,0,0,Sevilla,2,4,0,0,Alfonso Alvarez Izquierdo,5.72,0.36,Benito Villamarin,"Seville, Spain",55588.0
+Round 37,12/5/2018,Real Madrid,6,0,0,0,Celta,0,1,0,0,Pablo Gonzales Fuertes,5.91,0.37,Santiago Bernabéu,"Madrid, Spain",56474.0
+Round 37,13/05/18,Espanyol,4,0,0,0,Málaga,1,2,0,0,Juan Martinez Munuera,4.9,0.19,RCDE Stadium,"Cornella, Spain",15004.0
+Round 37,13/05/18,Levante,5,6,0,0,Barcelona,4,7,0,0,Mario Melero Lopez,5.55,0.21,Ciudad de Valencia,"Valencia, Spain",22383.0
+Round 36,4/5/2018,Sevilla,1,4,0,0,Real Sociedad,0,2,0,0,Santiago Jaime Latre,5.58,0.22,Ramón Sánchez Pizjuán,"Seville, Spain",34733.0
+Round 36,5/5/2018,Girona,1,2,0,0,Eibar,4,5,0,0,Daniel Jesus Trujillo Suarez,4.75,0.26,Estadi Montilivi,"Girona, Spain",9706.0
+Round 36,5/5/2018,Athletic Club,2,0,0,0,Betis,0,2,0,0,Javier Alberola Rojas,3.7,0.15,San Mamés,"Bilbao, Spain",34491.0
+Round 36,5/5/2018,Celta,1,4,0,0,Deportivo,1,2,0,0,Carlos Del Cerro Grande,4.81,0.22,Municipal de Balaidos,"Vigo, Spain",20816.0
+Round 36,5/5/2018,Villarreal,1,5,0,0,Valencia,0,3,0,0,Jesus Gil Manzano,5.27,0.26,Estadio de la Ceramica,"Villarreal, Spain",19079.0
+Round 36,6/5/2018,Málaga,0,2,0,0,Alavés,3,1,0,0,Jose Luis Gonzalez Gonzalez,4.82,0.22,La Rosaleda,"Malaga, Spain",14024.0
+Round 36,6/5/2018,Atl. Madrid,0,1,0,0,Espanyol,2,3,0,0,José Luis Munuera Montero,4.75,0.37,Cívitas Metropolitano,"Madrid, Spain",49834.0
+Round 36,6/5/2018,Las Palmas,0,0,0,0,Getafe,1,2,0,0,Alberto Undiano,4.53,0.14,Gran Canaria,"Las Palmas de Gran Canaria, Spain",4624.0
+Round 36,6/5/2018,Barcelona,2,3,1,0,Real Madrid,2,5,0,0,Alejandro Hernandez,5.51,0.27,Spotify Camp Nou,"Barcelona, Spain",97939.0
+Round 36,7/5/2018,Leganés,0,5,1,0,Levante,3,1,0,0,Jose Maria Sanchez Martinez,5.75,0.27,Estadio Municipal de Butarque,"Leganes, Spain",7832.0
+Round 35,27/04/18,Levante,2,1,0,0,Sevilla,1,1,0,0,Jose Luis Gonzalez Gonzalez,4.82,0.22,Ciudad de Valencia,"Valencia, Spain",17240.0
+Round 35,28/04/18,Espanyol,1,2,0,0,Las Palmas,1,4,0,0,Pablo Gonzales Fuertes,5.91,0.37,RCDE Stadium,"Cornella, Spain",13589.0
+Round 35,28/04/18,Real Sociedad,3,3,1,0,Athletic Club,1,6,0,0,Jose Maria Sanchez Martinez,5.75,0.27,Reale Arena,"San Sebastian, Spain",23972.0
+Round 35,28/04/18,Real Madrid,2,0,0,0,Leganés,1,1,1,0,Ignacio Iglesias Villanueva,5.62,0.35,Santiago Bernabéu,"Madrid, Spain",59905.0
+Round 35,28/04/18,Villarreal,4,2,0,0,Celta,1,0,0,0,Javier Alberola Rojas,3.7,0.15,Estadio de la Ceramica,"Villarreal, Spain",14135.0
+Round 35,29/04/18,Getafe,1,6,1,0,Girona,1,4,0,0,Alejandro Hernandez,5.51,0.27,Coliseum Alfonso Pérez,"Getafe, Spain",8011.0
+Round 35,29/04/18,Alavés,0,5,0,0,Atl. Madrid,1,5,0,1,David Fernandez Borbalan,5.63,0.31,Estadio de Mendizorroza,"Vitoria-Gasteiz, Spain",18944.0
+Round 35,29/04/18,Valencia,0,2,0,0,Eibar,0,3,0,0,Santiago Jaime Latre,5.58,0.22,Mestalla,"Valencia, Spain",40328.0
+Round 35,29/04/18,Deportivo,2,1,0,0,Barcelona,4,1,0,0,Ricardo De Burgos Bengoetxea,4.96,0.17,Riazor,"La Coruna, Spain",25721.0
+Round 35,30/04/18,Betis,2,1,0,0,Málaga,1,4,0,0,Carlos Del Cerro Grande,4.81,0.22,Benito Villamarin,"Seville, Spain",53163.0
+Round 34,20/04/18,Leganés,0,0,0,0,Deportivo,0,2,0,0,Alfonso Alvarez Izquierdo,5.72,0.36,Estadio Municipal de Butarque,"Leganes, Spain",10124.0
+Round 34,21/04/18,Eibar,0,4,0,0,Getafe,1,1,0,0,Ignacio Iglesias Villanueva,5.62,0.35,Ipurua Municipal Stadium,"Eibar, Spain",4860.0
+Round 34,21/04/18,Celta,1,1,0,0,Valencia,1,2,0,0,Alberto Undiano,4.53,0.14,Municipal de Balaidos,"Vigo, Spain",17316.0
+Round 34,22/04/18,Girona,0,1,0,0,Espanyol,2,2,0,0,Javier Alberola Rojas,3.7,0.15,Estadi Montilivi,"Girona, Spain",12313.0
+Round 34,22/04/18,Málaga,2,4,0,0,Real Sociedad,0,1,0,0,Javier Estrada Fernandez,5.38,0.25,La Rosaleda,"Malaga, Spain",14102.0
+Round 34,22/04/18,Las Palmas,0,2,0,0,Alavés,4,2,0,0,Mario Melero Lopez,5.55,0.21,Gran Canaria,"Las Palmas de Gran Canaria, Spain",7143.0
+Round 34,22/04/18,Atl. Madrid,0,2,0,0,Betis,0,5,0,0,Juan Martinez Munuera,4.9,0.19,Cívitas Metropolitano,"Madrid, Spain",67703.0
+Round 34,23/04/18,Athletic Club,1,3,0,0,Levante,3,3,0,0,José Luis Munuera Montero,4.75,0.37,San Mamés,"Bilbao, Spain",24587.0
+Round 34,9/5/2018,Barcelona,5,0,0,0,Villarreal,1,3,0,0,Jose Maria Sanchez Martinez,5.74,0.28,Spotify Camp Nou,"Barcelona, Spain",54743.0
+Round 34,9/5/2018,Sevilla,3,3,0,0,Real Madrid,2,1,0,0,Antonio Mateu Lahoz,5.18,0.22,Ramón Sánchez Pizjuán,"Seville, Spain",38524.0
+Round 33,17/04/18,Deportivo,0,0,0,0,Sevilla,0,2,0,0,David Medie Jimenez,4.94,0.31,Riazor,"La Coruna, Spain",24374.0
+Round 33,17/04/18,Celta,2,3,0,0,Barcelona,2,0,1,0,David Fernandez Borbalan,5.63,0.31,Municipal de Balaidos,"Vigo, Spain",20347.0
+Round 33,17/04/18,Villarreal,2,1,0,0,Leganés,1,1,0,0,Daniel Jesus Trujillo Suarez,4.75,0.26,Estadio de la Ceramica,"Villarreal, Spain",12556.0
+Round 33,18/04/18,Espanyol,0,3,0,0,Eibar,1,2,0,0,Alejandro Hernandez,5.51,0.27,RCDE Stadium,"Cornella, Spain",12113.0
+Round 33,18/04/18,Valencia,1,1,1,0,Getafe,2,7,0,0,Ricardo De Burgos Bengoetxea,4.96,0.17,Mestalla,"Valencia, Spain",35829.0
+Round 33,18/04/18,Real Madrid,1,2,0,0,Athletic Club,1,4,0,0,Juan Martinez Munuera,4.9,0.19,Santiago Bernabéu,"Madrid, Spain",59193.0
+Round 33,19/04/18,Alavés,1,4,0,0,Girona,2,4,0,0,Pablo Gonzales Fuertes,5.91,0.37,Estadio de Mendizorroza,"Vitoria-Gasteiz, Spain",18366.0
+Round 33,19/04/18,Real Sociedad,3,1,0,0,Atl. Madrid,0,0,0,0,Javier Alberola Rojas,3.7,0.15,Reale Arena,"San Sebastian, Spain",21404.0
+Round 33,19/04/18,Levante,1,1,0,0,Málaga,0,1,0,0,Santiago Jaime Latre,5.58,0.22,Ciudad de Valencia,"Valencia, Spain",17372.0
+Round 33,19/04/18,Betis,1,3,0,0,Las Palmas,0,4,0,1,Jose Maria Sanchez Martinez,5.75,0.27,Benito Villamarin,"Seville, Spain",45151.0
+Round 32,13/04/18,Girona,0,7,0,0,Betis,1,5,0,0,Santiago Jaime Latre,5.58,0.22,Estadi Montilivi,"Girona, Spain",11286.0
+Round 32,14/04/18,Sevilla,2,4,0,1,Villarreal,2,2,0,1,Pablo Gonzales Fuertes,5.91,0.37,Ramón Sánchez Pizjuán,"Seville, Spain",32192.0
+Round 32,14/04/18,Barcelona,2,2,0,0,Valencia,1,2,0,0,Carlos Del Cerro Grande,4.81,0.22,Spotify Camp Nou,"Barcelona, Spain",69544.0
+Round 32,14/04/18,Las Palmas,0,0,0,0,Real Sociedad,1,2,0,0,Alfonso Alvarez Izquierdo,5.72,0.36,Gran Canaria,"Las Palmas de Gran Canaria, Spain",10531.0
+Round 32,14/04/18,Leganés,1,3,0,0,Celta,0,3,0,0,Alejandro Hernandez,5.51,0.27,Estadio Municipal de Butarque,"Leganes, Spain",10393.0
+Round 32,14/04/18,Athletic Club,2,2,0,0,Deportivo,3,1,0,0,Jose Luis Gonzalez Gonzalez,4.82,0.22,San Mamés,"Bilbao, Spain",37715.0
+Round 32,15/04/18,Eibar,0,2,0,0,Alavés,1,1,0,0,Alberto Undiano,4.53,0.14,Ipurua Municipal Stadium,"Eibar, Spain",5754.0
+Round 32,15/04/18,Atl. Madrid,3,2,0,0,Levante,0,1,0,0,Jesus Gil Manzano,5.27,0.26,Cívitas Metropolitano,"Madrid, Spain",58043.0
+Round 32,15/04/18,Getafe,1,5,0,1,Espanyol,0,2,0,0,Mario Melero Lopez,5.55,0.21,Coliseum Alfonso Pérez,"Getafe, Spain",10593.0
+Round 32,15/04/18,Málaga,1,4,0,0,Real Madrid,2,0,0,0,Ricardo De Burgos Bengoetxea,4.96,0.17,La Rosaleda,"Malaga, Spain",27112.0
+Round 31,6/4/2018,Deportivo,3,4,0,0,Málaga,2,3,0,0,Antonio Mateu Lahoz,5.18,0.22,Riazor,"La Coruna, Spain",16932.0
+Round 31,7/4/2018,Alavés,2,2,0,0,Getafe,0,3,0,0,Santiago Jaime Latre,5.58,0.22,Estadio de Mendizorroza,"Vitoria-Gasteiz, Spain",18241.0
+Round 31,7/4/2018,Celta,4,1,0,0,Sevilla,0,2,0,0,Alfonso Alvarez Izquierdo,5.72,0.36,Municipal de Balaidos,"Vigo, Spain",16919.0
+Round 31,7/4/2018,Betis,2,2,0,0,Eibar,0,2,0,0,David Medie Jimenez,4.94,0.31,Benito Villamarin,"Seville, Spain",50194.0
+Round 31,7/4/2018,Barcelona,3,2,0,0,Leganés,1,4,0,0,Ricardo De Burgos Bengoetxea,4.96,0.17,Spotify Camp Nou,"Barcelona, Spain",72126.0
+Round 31,8/4/2018,Levante,2,5,1,1,Las Palmas,1,3,0,0,David Fernandez Borbalan,5.63,0.31,Ciudad de Valencia,"Valencia, Spain",18402.0
+Round 31,8/4/2018,Real Madrid,1,2,0,0,Atl. Madrid,1,3,0,0,Javier Estrada Fernandez,5.38,0.25,Santiago Bernabéu,"Madrid, Spain",78769.0
+Round 31,8/4/2018,Real Sociedad,5,2,0,0,Girona,0,2,0,0,José Luis Munuera Montero,4.75,0.37,Reale Arena,"San Sebastian, Spain",18027.0
+Round 31,8/4/2018,Valencia,1,3,0,0,Espanyol,0,2,0,0,Jesus Gil Manzano,5.27,0.26,Mestalla,"Valencia, Spain",36296.0
+Round 31,9/4/2018,Villarreal,1,4,0,1,Athletic Club,3,5,0,0,Ignacio Iglesias Villanueva,5.62,0.35,Estadio de la Ceramica,"Villarreal, Spain",14879.0
+Round 30,31/03/18,Girona,1,1,0,0,Levante,1,3,0,0,Ricardo De Burgos Bengoetxea,4.96,0.17,Estadi Montilivi,"Girona, Spain",11391.0
+Round 30,31/03/18,Athletic Club,1,3,0,0,Celta,1,1,0,0,Carlos Del Cerro Grande,4.81,0.22,San Mamés,"Bilbao, Spain",33657.0
+Round 30,31/03/18,Las Palmas,0,3,0,0,Real Madrid,3,0,0,0,Pablo Gonzales Fuertes,5.91,0.37,Gran Canaria,"Las Palmas de Gran Canaria, Spain",22942.0
+Round 30,31/03/18,Sevilla,2,2,0,0,Barcelona,2,0,0,0,Jose Luis Gonzalez Gonzalez,4.82,0.22,Ramón Sánchez Pizjuán,"Seville, Spain",37588.0
+Round 30,1/4/2018,Espanyol,0,3,0,0,Alavés,0,2,0,0,Ignacio Iglesias Villanueva,5.62,0.35,RCDE Stadium,"Cornella, Spain",15448.0
+Round 30,1/4/2018,Leganés,0,3,0,0,Valencia,1,4,0,0,Mario Melero Lopez,5.55,0.21,Estadio Municipal de Butarque,"Leganes, Spain",10697.0
+Round 30,1/4/2018,Eibar,0,4,0,0,Real Sociedad,0,2,0,0,Jose Maria Sanchez Martinez,5.75,0.27,Ipurua Municipal Stadium,"Eibar, Spain",6233.0
+Round 30,1/4/2018,Málaga,1,2,0,0,Villarreal,0,3,0,0,Alfonso Alvarez Izquierdo,5.72,0.36,La Rosaleda,"Malaga, Spain",19142.0
+Round 30,1/4/2018,Atl. Madrid,1,2,0,0,Deportivo,0,3,0,0,Daniel Jesus Trujillo Suarez,4.75,0.26,Cívitas Metropolitano,"Madrid, Spain",49351.0
+Round 30,2/4/2018,Getafe,0,4,0,0,Betis,1,2,0,0,Alberto Undiano,4.53,0.14,Coliseum Alfonso Pérez,"Getafe, Spain",10628.0
+Round 29,16/03/18,Levante,2,4,0,0,Eibar,1,3,0,0,Ignacio Iglesias Villanueva,5.62,0.35,Ciudad de Valencia,"Valencia, Spain",16028.0
+Round 29,17/03/18,Deportivo,1,3,0,0,Las Palmas,1,3,0,0,Juan Martinez Munuera,4.9,0.19,Riazor,"La Coruna, Spain",18773.0
+Round 29,17/03/18,Valencia,3,1,0,0,Alavés,1,1,0,0,José Luis Munuera Montero,4.75,0.37,Mestalla,"Valencia, Spain",35264.0
+Round 29,17/03/18,Real Sociedad,1,3,0,0,Getafe,2,7,0,0,Javier Estrada Fernandez,5.38,0.25,Reale Arena,"San Sebastian, Spain",17509.0
+Round 29,17/03/18,Betis,3,1,0,0,Espanyol,0,3,0,0,Ricardo De Burgos Bengoetxea,4.96,0.17,Benito Villamarin,"Seville, Spain",31230.0
+Round 29,18/03/18,Leganés,2,2,0,0,Sevilla,1,3,0,1,Javier Alberola Rojas,3.7,0.15,Estadio Municipal de Butarque,"Leganes, Spain",10037.0
+Round 29,18/03/18,Barcelona,2,2,0,0,Athletic Club,0,2,0,0,Santiago Jaime Latre,5.58,0.22,Spotify Camp Nou,"Barcelona, Spain",84053.0
+Round 29,18/03/18,Celta,0,3,0,0,Málaga,0,2,0,0,Alberto Undiano,4.53,0.14,Municipal de Balaidos,"Vigo, Spain",17230.0
+Round 29,18/03/18,Villarreal,2,5,0,0,Atl. Madrid,1,3,1,0,David Fernandez Borbalan,5.63,0.31,Estadio de la Ceramica,"Villarreal, Spain",19385.0
+Round 29,18/03/18,Real Madrid,6,1,0,0,Girona,3,2,0,0,Jesus Gil Manzano,5.27,0.26,Santiago Bernabéu,"Madrid, Spain",59097.0
+Round 28,9/3/2018,Girona,2,1,0,0,Deportivo,0,4,0,0,Alberto Undiano,4.53,0.14,Estadi Montilivi,"Girona, Spain",10663.0
+Round 28,10/3/2018,Eibar,1,1,0,0,Real Madrid,2,1,0,0,José Luis Munuera Montero,4.75,0.37,Ipurua Municipal Stadium,"Eibar, Spain",6707.0
+Round 28,10/3/2018,Sevilla,0,4,0,0,Valencia,2,2,0,0,Ricardo De Burgos Bengoetxea,4.96,0.17,Ramón Sánchez Pizjuán,"Seville, Spain",33287.0
+Round 28,10/3/2018,Getafe,0,4,0,0,Levante,1,7,1,0,Daniel Jesus Trujillo Suarez,4.75,0.26,Coliseum Alfonso Pérez,"Getafe, Spain",8136.0
+Round 28,10/3/2018,Málaga,0,1,1,0,Barcelona,2,1,0,0,Juan Martinez Munuera,4.9,0.19,La Rosaleda,"Malaga, Spain",26667.0
+Round 28,11/3/2018,Espanyol,2,0,0,0,Real Sociedad,1,2,0,0,Antonio Mateu Lahoz,5.18,0.22,RCDE Stadium,"Cornella, Spain",20314.0
+Round 28,11/3/2018,Atl. Madrid,3,1,0,0,Celta,0,2,0,0,Javier Alberola Rojas,3.7,0.15,Cívitas Metropolitano,"Madrid, Spain",50076.0
+Round 28,11/3/2018,Las Palmas,0,1,1,0,Villarreal,2,1,0,0,David Medie Jimenez,4.94,0.31,Gran Canaria,"Las Palmas de Gran Canaria, Spain",18907.0
+Round 28,11/3/2018,Athletic Club,2,2,0,0,Leganés,0,5,0,0,Jose Maria Sanchez Martinez,5.75,0.27,San Mamés,"Bilbao, Spain",30777.0
+Round 28,12/3/2018,Alavés,1,2,0,0,Betis,3,3,0,0,Carlos Del Cerro Grande,4.81,0.22,Estadio de Mendizorroza,"Vitoria-Gasteiz, Spain",17239.0
+Round 27,3/3/2018,Villarreal,0,4,0,0,Girona,2,1,0,0,Pablo Gonzales Fuertes,5.91,0.37,Estadio de la Ceramica,"Villarreal, Spain",14540.0
+Round 27,3/3/2018,Sevilla,2,2,0,0,Athletic Club,0,3,0,0,Alberto Undiano,4.53,0.14,Ramón Sánchez Pizjuán,"Seville, Spain",25185.0
+Round 27,3/3/2018,Deportivo,1,1,1,0,Eibar,1,2,0,0,Santiago Jaime Latre,5.58,0.22,Riazor,"La Coruna, Spain",19417.0
+Round 27,3/3/2018,Leganés,2,1,0,0,Málaga,0,1,0,0,Ignacio Iglesias Villanueva,5.62,0.35,Estadio Municipal de Butarque,"Leganes, Spain",6937.0
+Round 27,3/3/2018,Real Madrid,3,1,0,0,Getafe,1,2,0,1,Mario Melero Lopez,5.55,0.21,Santiago Bernabéu,"Madrid, Spain",55106.0
+Round 27,4/3/2018,Levante,1,0,0,0,Espanyol,1,3,0,0,Javier Alberola Rojas,3.7,0.15,Ciudad de Valencia,"Valencia, Spain",17143.0
+Round 27,4/3/2018,Barcelona,1,2,0,0,Atl. Madrid,0,2,0,0,Jesus Gil Manzano,5.27,0.26,Spotify Camp Nou,"Barcelona, Spain",90356.0
+Round 27,4/3/2018,Real Sociedad,2,0,0,0,Alavés,1,1,0,0,Juan Martinez Munuera,4.9,0.19,Reale Arena,"San Sebastian, Spain",21445.0
+Round 27,4/3/2018,Valencia,2,1,0,0,Betis,0,4,0,0,Alejandro Hernandez,5.51,0.27,Mestalla,"Valencia, Spain",35565.0
+Round 27,5/3/2018,Celta,2,1,0,0,Las Palmas,1,2,0,0,Ricardo De Burgos Bengoetxea,4.96,0.17,Municipal de Balaidos,"Vigo, Spain",11276.0
+Round 26,27/02/18,Espanyol,1,1,0,0,Real Madrid,0,1,0,0,Jose Maria Sanchez Martinez,5.75,0.27,RCDE Stadium,"Cornella, Spain",19805.0
+Round 26,27/02/18,Girona,1,3,0,0,Celta,0,2,0,0,Daniel Jesus Trujillo Suarez,4.75,0.26,Estadi Montilivi,"Girona, Spain",6392.0
+Round 26,28/02/18,Athletic Club,1,1,0,0,Valencia,1,2,0,0,Jesus Gil Manzano,5.27,0.26,San Mamés,"Bilbao, Spain",
+Round 26,28/02/18,Getafe,3,2,0,0,Deportivo,0,4,0,0,José Luis Munuera Montero,4.75,0.37,Coliseum Alfonso Pérez,"Getafe, Spain",
+Round 26,28/02/18,Málaga,0,2,0,0,Sevilla,1,2,0,0,Carlos Del Cerro Grande,4.81,0.22,La Rosaleda,"Malaga, Spain",
+Round 26,28/02/18,Atl. Madrid,4,1,0,0,Leganés,0,3,0,0,Javier Estrada Fernandez,5.38,0.25,Cívitas Metropolitano,"Madrid, Spain",35033.0
+Round 26,28/02/18,Eibar,1,4,0,0,Villarreal,0,2,0,0,Mario Melero Lopez,5.55,0.21,Ipurua Municipal Stadium,"Eibar, Spain",4056.0
+Round 26,1/3/2018,Betis,0,2,0,0,Real Sociedad,0,0,0,0,Jose Luis Gonzalez Gonzalez,4.82,0.22,Benito Villamarin,"Seville, Spain",40288.0
+Round 26,1/3/2018,Las Palmas,1,6,0,0,Barcelona,1,3,0,0,Antonio Mateu Lahoz,5.18,0.22,Gran Canaria,"Las Palmas de Gran Canaria, Spain",23778.0
+Round 26,1/3/2018,Alavés,1,3,0,1,Levante,0,4,1,0,David Fernandez Borbalan,5.63,0.31,Estadio de Mendizorroza,"Vitoria-Gasteiz, Spain",16812.0
+Round 25,23/02/18,Deportivo,0,5,0,0,Espanyol,0,1,0,0,David Fernandez Borbalan,5.63,0.31,Riazor,"La Coruna, Spain",18028.0
+Round 25,24/02/18,Celta,2,2,0,0,Eibar,0,3,0,0,Carlos Del Cerro Grande,4.81,0.22,Municipal de Balaidos,"Vigo, Spain",15383.0
+Round 25,24/02/18,Real Madrid,4,1,0,0,Alavés,0,2,0,0,Javier Estrada Fernandez,5.38,0.25,Santiago Bernabéu,"Madrid, Spain",75181.0
+Round 25,24/02/18,Leganés,0,4,0,0,Las Palmas,0,5,0,0,Santiago Jaime Latre,5.58,0.22,Estadio Municipal de Butarque,"Leganes, Spain",9325.0
+Round 25,24/02/18,Barcelona,6,1,0,0,Girona,1,1,0,0,Javier Alberola Rojas,3.7,0.15,Spotify Camp Nou,"Barcelona, Spain",85417.0
+Round 25,25/02/18,Villarreal,1,5,0,0,Getafe,0,3,0,0,Jose Maria Sanchez Martinez,5.75,0.27,Estadio de la Ceramica,"Villarreal, Spain",16125.0
+Round 25,25/02/18,Athletic Club,2,3,0,0,Málaga,1,3,0,1,Alejandro Hernandez,5.51,0.27,San Mamés,"Bilbao, Spain",37518.0
+Round 25,25/02/18,Valencia,2,2,0,0,Real Sociedad,1,3,0,0,Pablo Gonzales Fuertes,5.91,0.37,Mestalla,"Valencia, Spain",37195.0
+Round 25,25/02/18,Sevilla,2,3,0,0,Atl. Madrid,5,3,0,0,Juan Martinez Munuera,4.9,0.19,Ramón Sánchez Pizjuán,"Seville, Spain",37884.0
+Round 25,26/02/18,Levante,0,5,0,0,Betis,2,2,0,0,Ricardo De Burgos Bengoetxea,4.96,0.17,Ciudad de Valencia,"Valencia, Spain",37884.0
+Round 24,16/02/18,Girona,3,3,0,0,Leganés,0,5,0,0,Antonio Mateu Lahoz,5.18,0.22,Estadi Montilivi,"Girona, Spain",9142.0
+Round 24,17/02/18,Las Palmas,1,2,0,0,Sevilla,2,3,0,0,Ignacio Iglesias Villanueva,5.62,0.35,Gran Canaria,"Las Palmas de Gran Canaria, Spain",19161.0
+Round 24,17/02/18,Eibar,0,2,0,1,Barcelona,2,1,0,0,Alejandro Hernandez,5.51,0.27,Ipurua Municipal Stadium,"Eibar, Spain",6760.0
+Round 24,17/02/18,Alavés,1,2,0,0,Deportivo,0,3,0,0,Mario Melero Lopez,5.55,0.21,Estadio de Mendizorroza,"Vitoria-Gasteiz, Spain",19453.0
+Round 24,17/02/18,Málaga,1,2,1,0,Valencia,2,4,0,0,Daniel Jesus Trujillo Suarez,4.75,0.26,La Rosaleda,"Malaga, Spain",21134.0
+Round 24,18/02/18,Real Sociedad,3,0,0,0,Levante,0,2,0,0,Santiago Jaime Latre,5.58,0.22,Reale Arena,"San Sebastian, Spain",18189.0
+Round 24,18/02/18,Atl. Madrid,2,3,0,0,Athletic Club,0,2,0,0,Jose Luis Gonzalez Gonzalez,4.82,0.22,Cívitas Metropolitano,"Madrid, Spain",60022.0
+Round 24,18/02/18,Espanyol,1,1,0,0,Villarreal,1,7,0,0,José Luis Munuera Montero,4.75,0.37,RCDE Stadium,"Cornella, Spain",19688.0
+Round 24,18/02/18,Betis,3,3,0,0,Real Madrid,5,5,0,0,Jesus Gil Manzano,5.27,0.26,Benito Villamarin,"Seville, Spain",53486.0
+Round 24,19/02/18,Getafe,3,4,0,0,Celta,0,3,0,0,Pablo Gonzales Fuertes,5.91,0.37,Coliseum Alfonso Pérez,"Getafe, Spain",8367.0
+Round 23,9/2/2018,Athletic Club,0,4,0,0,Las Palmas,0,4,0,0,Javier Estrada Fernandez,5.38,0.25,San Mamés,"Bilbao, Spain",33679.0
+Round 23,10/2/2018,Villarreal,1,4,0,0,Alavés,2,4,0,0,Daniel Jesus Trujillo Suarez,4.75,0.26,Estadio de la Ceramica,"Villarreal, Spain",14984.0
+Round 23,10/2/2018,Málaga,0,3,0,0,Atl. Madrid,1,2,0,0,Jose Maria Sanchez Martinez,5.75,0.27,La Rosaleda,"Malaga, Spain",25482.0
+Round 23,10/2/2018,Leganés,0,3,0,1,Eibar,1,2,0,0,Pablo Gonzales Fuertes,5.91,0.37,Estadio Municipal de Butarque,"Leganes, Spain",9327.0
+Round 23,10/2/2018,Real Madrid,5,2,0,0,Real Sociedad,2,1,0,0,Alejandro Hernandez,5.51,0.27,Santiago Bernabéu,"Madrid, Spain",63811.0
+Round 23,11/2/2018,Sevilla,1,2,0,0,Girona,0,2,0,0,Santiago Jaime Latre,5.58,0.22,Ramón Sánchez Pizjuán,"Seville, Spain",33129.0
+Round 23,11/2/2018,Barcelona,0,2,0,0,Getafe,0,3,0,0,David Fernandez Borbalan,5.63,0.31,Spotify Camp Nou,"Barcelona, Spain",75861.0
+Round 23,11/2/2018,Celta,2,3,0,0,Espanyol,2,4,0,0,Alexander Gonzalez Gonzalez,7.0,0.0,Municipal de Balaidos,"Vigo, Spain",15649.0
+Round 23,11/2/2018,Valencia,3,3,0,0,Levante,1,4,0,0,David Medie Jimenez,4.94,0.31,Mestalla,"Valencia, Spain",38199.0
+Round 23,12/2/2018,Deportivo,0,2,0,0,Betis,1,0,0,0,Carlos Del Cerro Grande,4.81,0.22,Riazor,"La Coruna, Spain",20490.0
+Round 22,2/2/2018,Real Sociedad,5,0,0,0,Deportivo,0,1,0,0,Alberto Undiano,4.53,0.14,Reale Arena,"San Sebastian, Spain",15626.0
+Round 22,3/2/2018,Eibar,5,0,0,0,Sevilla,1,3,0,0,Daniel Jesus Trujillo Suarez,4.75,0.26,Ipurua Municipal Stadium,"Eibar, Spain",5311.0
+Round 22,3/2/2018,Betis,2,1,0,0,Villarreal,1,2,1,0,Javier Alberola Rojas,3.7,0.15,Benito Villamarin,"Seville, Spain",50102.0
+Round 22,3/2/2018,Alavés,2,3,0,0,Celta,1,2,0,0,Juan Martinez Munuera,4.9,0.19,Estadio de Mendizorroza,"Vitoria-Gasteiz, Spain",19437.0
+Round 22,3/2/2018,Levante,2,3,0,0,Real Madrid,2,3,0,0,Mario Melero Lopez,5.55,0.21,Ciudad de Valencia,"Valencia, Spain",23542.0
+Round 22,4/2/2018,Getafe,0,2,0,0,Leganés,0,6,0,0,Alfonso Alvarez Izquierdo,5.72,0.36,Coliseum Alfonso Pérez,"Getafe, Spain",
+Round 22,4/2/2018,Espanyol,1,5,0,0,Barcelona,1,3,0,0,Jesus Gil Manzano,5.27,0.26,RCDE Stadium,"Cornella, Spain",23287.0
+Round 22,4/2/2018,Girona,2,1,0,0,Athletic Club,0,1,0,0,José Luis Munuera Montero,4.75,0.37,Estadi Montilivi,"Girona, Spain",9602.0
+Round 22,4/2/2018,Atl. Madrid,1,1,0,0,Valencia,0,1,0,0,Ignacio Iglesias Villanueva,5.62,0.35,Cívitas Metropolitano,"Madrid, Spain",49596.0
+Round 22,5/2/2018,Las Palmas,1,2,0,0,Málaga,0,3,0,0,Ricardo De Burgos Bengoetxea,4.96,0.17,Gran Canaria,"Las Palmas de Gran Canaria, Spain",17424.0
+Round 21,26/01/18,Athletic Club,1,0,0,0,Eibar,1,0,0,0,Mario Melero Lopez,5.55,0.21,San Mamés,"Bilbao, Spain",39331.0
+Round 21,27/01/18,Deportivo,2,6,0,1,Levante,2,5,0,0,Pablo Gonzales Fuertes,5.91,0.37,Riazor,"La Coruna, Spain",20151.0
+Round 21,27/01/18,Valencia,1,2,0,0,Real Madrid,4,3,0,0,Javier Estrada Fernandez,5.38,0.25,Mestalla,"Valencia, Spain",47034.0
+Round 21,27/01/18,Málaga,0,1,0,1,Girona,0,1,0,0,Alberto Undiano,4.53,0.14,La Rosaleda,"Malaga, Spain",22125.0
+Round 21,27/01/18,Villarreal,4,1,0,0,Real Sociedad,2,1,0,0,Carlos Del Cerro Grande,4.81,0.22,Estadio de la Ceramica,"Villarreal, Spain",15052.0
+Round 21,28/01/18,Leganés,3,2,0,0,Espanyol,2,4,0,0,Juan Martinez Munuera,4.9,0.19,Estadio Municipal de Butarque,"Leganes, Spain",10132.0
+Round 21,28/01/18,Atl. Madrid,3,1,0,0,Las Palmas,0,2,0,0,Alfonso Alvarez Izquierdo,5.72,0.36,Cívitas Metropolitano,"Madrid, Spain",55363.0
+Round 21,28/01/18,Sevilla,1,3,0,0,Getafe,1,3,0,0,Javier Alberola Rojas,3.7,0.15,Ramón Sánchez Pizjuán,"Seville, Spain",34011.0
+Round 21,28/01/18,Barcelona,2,0,0,0,Alavés,1,2,0,0,Ignacio Iglesias Villanueva,5.62,0.35,Spotify Camp Nou,"Barcelona, Spain",62369.0
+Round 21,29/01/18,Celta,3,1,0,0,Betis,2,5,0,0,Jose Maria Sanchez Martinez,5.75,0.27,Municipal de Balaidos,"Vigo, Spain",14667.0
+Round 20,19/01/18,Getafe,2,5,0,0,Athletic Club,2,1,0,0,Jesus Gil Manzano,5.27,0.26,Coliseum Alfonso Pérez,"Getafe, Spain",11457.0
+Round 20,20/01/18,Espanyol,0,4,0,0,Sevilla,3,2,0,0,Alberto Undiano,4.53,0.14,RCDE Stadium,"Cornella, Spain",19607.0
+Round 20,20/01/18,Atl. Madrid,1,4,0,0,Girona,1,3,0,0,Ricardo De Burgos Bengoetxea,4.96,0.17,Cívitas Metropolitano,"Madrid, Spain",55076.0
+Round 20,20/01/18,Villarreal,2,2,0,0,Levante,1,2,0,0,Jose Luis Gonzalez Gonzalez,4.82,0.22,Estadio de la Ceramica,"Villarreal, Spain",16773.0
+Round 20,20/01/18,Las Palmas,2,2,0,0,Valencia,1,7,0,2,José Luis Munuera Montero,4.75,0.37,Gran Canaria,"Las Palmas de Gran Canaria, Spain",20242.0
+Round 20,21/01/18,Alavés,2,2,0,1,Leganés,2,3,0,0,Daniel Jesus Trujillo Suarez,4.75,0.26,Estadio de Mendizorroza,"Vitoria-Gasteiz, Spain",19637.0
+Round 20,21/01/18,Real Madrid,7,0,0,0,Deportivo,1,2,0,0,David Fernandez Borbalan,5.63,0.31,Santiago Bernabéu,"Madrid, Spain",63504.0
+Round 20,21/01/18,Real Sociedad,1,1,0,0,Celta,2,2,0,0,Antonio Mateu Lahoz,5.18,0.22,Reale Arena,"San Sebastian, Spain",19081.0
+Round 20,21/01/18,Betis,0,2,0,0,Barcelona,5,2,0,0,Santiago Jaime Latre,5.58,0.22,Benito Villamarin,"Seville, Spain",53426.0
+Round 20,22/01/18,Eibar,1,1,0,0,Málaga,1,2,0,1,David Medie Jimenez,4.94,0.31,Ipurua Municipal Stadium,"Eibar, Spain",4520.0
+Round 19,12/1/2018,Getafe,1,3,0,0,Málaga,0,1,0,0,Juan Martinez Munuera,4.9,0.19,Coliseum Alfonso Pérez,"Getafe, Spain",9057.0
+Round 19,13/01/18,Girona,6,2,0,0,Las Palmas,0,5,0,0,Mario Melero Lopez,5.55,0.21,Estadi Montilivi,"Girona, Spain",10037.0
+Round 19,13/01/18,Real Madrid,0,2,0,0,Villarreal,1,1,0,0,Alberto Undiano,4.53,0.14,Santiago Bernabéu,"Madrid, Spain",63403.0
+Round 19,13/01/18,Eibar,0,2,0,0,Atl. Madrid,1,1,0,0,Antonio Mateu Lahoz,5.18,0.22,Ipurua Municipal Stadium,"Eibar, Spain",6186.0
+Round 19,13/01/18,Deportivo,1,1,0,0,Valencia,2,2,0,0,Javier Alberola Rojas,3.7,0.15,Riazor,"La Coruna, Spain",19031.0
+Round 19,14/01/18,Levante,0,4,0,0,Celta,1,3,0,0,Alfonso Alvarez Izquierdo,5.72,0.36,Ciudad de Valencia,"Valencia, Spain",17007.0
+Round 19,14/01/18,Alavés,1,4,0,1,Sevilla,0,2,0,0,Jose Maria Sanchez Martinez,5.75,0.27,Estadio de Mendizorroza,"Vitoria-Gasteiz, Spain",19413.0
+Round 19,14/01/18,Espanyol,1,2,0,0,Athletic Club,1,4,0,0,Daniel Jesus Trujillo Suarez,4.75,0.26,RCDE Stadium,"Cornella, Spain",20228.0
+Round 19,14/01/18,Real Sociedad,2,2,0,0,Barcelona,4,2,0,0,Jose Luis Gonzalez Gonzalez,4.82,0.22,Reale Arena,"San Sebastian, Spain",23277.0
+Round 19,15/01/18,Betis,3,2,0,0,Leganés,2,3,0,0,Ignacio Iglesias Villanueva,5.62,0.35,Benito Villamarin,"Seville, Spain",41777.0
+Round 18,6/1/2018,Atl. Madrid,2,6,0,1,Getafe,0,3,0,0,José Luis Munuera Montero,4.75,0.37,Cívitas Metropolitano,"Madrid, Spain",47023.0
+Round 18,6/1/2018,Valencia,2,5,0,0,Girona,1,5,0,0,David Fernandez Borbalan,5.63,0.31,Mestalla,"Valencia, Spain",27749.0
+Round 18,6/1/2018,Las Palmas,1,3,0,0,Eibar,2,3,0,0,Jose Luis Gonzalez Gonzalez,4.82,0.22,Gran Canaria,"Las Palmas de Gran Canaria, Spain",12059.0
+Round 18,6/1/2018,Sevilla,3,3,0,0,Betis,5,6,0,0,Jesus Gil Manzano,5.27,0.26,Ramón Sánchez Pizjuán,"Seville, Spain",40282.0
+Round 18,7/1/2018,Leganés,1,0,0,0,Real Sociedad,0,1,0,0,Javier Estrada Fernandez,5.38,0.25,Estadio Municipal de Butarque,"Leganes, Spain",7523.0
+Round 18,7/1/2018,Barcelona,3,0,0,0,Levante,0,4,0,0,Carlos Del Cerro Grande,4.81,0.22,Spotify Camp Nou,"Barcelona, Spain",56380.0
+Round 18,7/1/2018,Athletic Club,2,2,0,0,Alavés,0,4,0,0,Pablo Gonzales Fuertes,5.91,0.37,San Mamés,"Bilbao, Spain",41000.0
+Round 18,7/1/2018,Villarreal,1,4,0,0,Deportivo,1,3,0,0,David Medie Jimenez,4.94,0.31,Estadio de la Ceramica,"Villarreal, Spain",15442.0
+Round 18,7/1/2018,Celta,2,2,0,0,Real Madrid,2,2,0,0,Santiago Jaime Latre,5.58,0.22,Municipal de Balaidos,"Vigo, Spain",20872.0
+Round 18,8/1/2018,Málaga,0,2,0,0,Espanyol,1,3,0,0,Antonio Mateu Lahoz,5.18,0.22,La Rosaleda,"Malaga, Spain",12149.0
+Round 17,19/12/17,Levante,0,5,0,1,Leganés,0,5,0,1,Santiago Jaime Latre,5.58,0.22,Ciudad de Valencia,"Valencia, Spain",14639.0
+Round 17,20/12/17,Getafe,2,3,0,0,Las Palmas,0,1,0,0,Ricardo De Burgos Bengoetxea,4.96,0.17,Coliseum Alfonso Pérez,"Getafe, Spain",9231.0
+Round 17,20/12/17,Real Sociedad,3,1,0,0,Sevilla,1,5,0,0,Alejandro Hernandez,5.51,0.27,Reale Arena,"San Sebastian, Spain",17205.0
+Round 17,21/12/17,Eibar,4,1,0,0,Girona,1,2,0,0,Ignacio Iglesias Villanueva,5.62,0.35,Ipurua Municipal Stadium,"Eibar, Spain",4867.0
+Round 17,21/12/17,Alavés,1,3,0,0,Málaga,0,4,0,0,Alfonso Alvarez Izquierdo,5.72,0.36,Estadio de Mendizorroza,"Vitoria-Gasteiz, Spain",18733.0
+Round 17,22/12/17,Betis,0,1,1,0,Athletic Club,2,2,0,0,Juan Martinez Munuera,4.9,0.19,Benito Villamarin,"Seville, Spain",42713.0
+Round 17,22/12/17,Espanyol,1,2,0,0,Atl. Madrid,0,5,0,0,Mario Melero Lopez,5.55,0.21,RCDE Stadium,"Cornella, Spain",19327.0
+Round 17,23/12/17,Real Madrid,0,2,1,0,Barcelona,3,2,0,0,Jose Maria Sanchez Martinez,5.75,0.27,Santiago Bernabéu,"Madrid, Spain",80264.0
+Round 17,23/12/17,Valencia,0,6,0,1,Villarreal,1,4,0,1,Daniel Jesus Trujillo Suarez,4.75,0.26,Mestalla,"Valencia, Spain",39181.0
+Round 17,23/12/17,Deportivo,1,2,0,0,Celta,3,2,0,0,Alberto Undiano,4.53,0.14,Riazor,"La Coruna, Spain",27877.0
+Round 16,15/12/17,Sevilla,0,2,0,0,Levante,0,3,0,0,Ignacio Iglesias Villanueva,5.62,0.35,Ramón Sánchez Pizjuán,"Seville, Spain",25803.0
+Round 16,16/12/17,Athletic Club,0,3,0,0,Real Sociedad,0,0,0,0,David Fernandez Borbalan,5.63,0.31,San Mamés,"Bilbao, Spain",45504.0
+Round 16,16/12/17,Eibar,2,1,0,0,Valencia,1,4,0,0,Pablo Gonzales Fuertes,5.91,0.37,Ipurua Municipal Stadium,"Eibar, Spain",5219.0
+Round 16,16/12/17,Atl. Madrid,1,3,0,0,Alavés,0,4,0,0,Jesus Gil Manzano,5.27,0.26,Cívitas Metropolitano,"Madrid, Spain",49937.0
+Round 16,17/12/17,Girona,1,2,0,0,Getafe,0,6,0,0,Alberto Undiano,4.53,0.14,Estadi Montilivi,"Girona, Spain",10095.0
+Round 16,17/12/17,Celta,0,1,0,0,Villarreal,1,3,0,0,Javier Estrada Fernandez,5.38,0.25,Municipal de Balaidos,"Vigo, Spain",18215.0
+Round 16,17/12/17,Las Palmas,2,3,0,0,Espanyol,2,3,0,0,Jose Maria Sanchez Martinez,5.75,0.27,Gran Canaria,"Las Palmas de Gran Canaria, Spain",14020.0
+Round 16,17/12/17,Barcelona,4,0,0,0,Deportivo,0,1,0,0,Antonio Mateu Lahoz,5.18,0.22,Spotify Camp Nou,"Barcelona, Spain",53607.0
+Round 16,18/12/17,Málaga,0,2,1,0,Betis,2,2,0,0,Javier Alberola Rojas,3.7,0.15,La Rosaleda,"Malaga, Spain",22488.0
+Round 16,21/02/18,Leganés,1,3,0,0,Real Madrid,3,1,0,0,Jose Luis Gonzalez Gonzalez,4.82,0.22,Estadio Municipal de Butarque,"Leganes, Spain",11423.0
+Round 15,8/12/2017,Alavés,2,2,0,0,Las Palmas,0,0,0,0,David Medie Jimenez,4.94,0.31,Estadio de Mendizorroza,"Vitoria-Gasteiz, Spain",18567.0
+Round 15,9/12/2017,Getafe,0,1,0,0,Eibar,0,4,0,0,Javier Alberola Rojas,3.7,0.15,Coliseum Alfonso Pérez,"Getafe, Spain",9320.0
+Round 15,9/12/2017,Real Madrid,5,0,0,0,Sevilla,0,2,0,0,Juan Martinez Munuera,4.9,0.19,Santiago Bernabéu,"Madrid, Spain",76924.0
+Round 15,9/12/2017,Deportivo,1,4,0,0,Leganés,0,4,0,0,Mario Melero Lopez,5.55,0.21,Riazor,"La Coruna, Spain",18366.0
+Round 15,9/12/2017,Valencia,2,2,0,0,Celta,1,6,0,0,José Luis Munuera Montero,4.75,0.37,Mestalla,"Valencia, Spain",35633.0
+Round 15,10/12/2017,Real Sociedad,0,1,0,0,Málaga,2,1,0,0,Carlos Del Cerro Grande,4.81,0.22,Reale Arena,"San Sebastian, Spain",16834.0
+Round 15,10/12/2017,Betis,0,4,0,0,Atl. Madrid,1,3,0,0,Alejandro Hernandez,5.51,0.27,Benito Villamarin,"Seville, Spain",45517.0
+Round 15,10/12/2017,Levante,1,3,0,0,Athletic Club,2,3,0,0,Javier Estrada Fernandez,5.38,0.25,Ciudad de Valencia,"Valencia, Spain",18005.0
+Round 15,10/12/2017,Villarreal,0,2,1,0,Barcelona,2,1,0,0,Ricardo De Burgos Bengoetxea,4.96,0.17,Estadio de la Ceramica,"Villarreal, Spain",21087.0
+Round 15,11/12/2017,Espanyol,0,1,0,0,Girona,1,3,0,0,Jose Luis Gonzalez Gonzalez,4.82,0.22,RCDE Stadium,"Cornella, Spain",13846.0
+Round 14,1/12/2017,Málaga,0,1,0,0,Levante,0,3,0,0,Ricardo De Burgos Bengoetxea,4.96,0.17,La Rosaleda,"Malaga, Spain",17886.0
+Round 14,2/12/2017,Barcelona,2,3,0,0,Celta,2,6,0,0,Mario Melero Lopez,5.55,0.21,Spotify Camp Nou,"Barcelona, Spain",63208.0
+Round 14,2/12/2017,Atl. Madrid,2,1,0,0,Real Sociedad,1,2,0,0,Santiago Jaime Latre,5.58,0.22,Cívitas Metropolitano,"Madrid, Spain",57394.0
+Round 14,2/12/2017,Sevilla,2,1,0,0,Deportivo,0,3,0,0,Jose Maria Sanchez Martinez,5.75,0.27,Ramón Sánchez Pizjuán,"Seville, Spain",32017.0
+Round 14,2/12/2017,Athletic Club,0,2,0,0,Real Madrid,0,4,0,1,Antonio Mateu Lahoz,5.18,0.22,San Mamés,"Bilbao, Spain",44884.0
+Round 14,3/12/2017,Leganés,3,2,0,0,Villarreal,1,4,0,0,David Fernandez Borbalan,5.63,0.31,Estadio Municipal de Butarque,"Leganes, Spain",10017.0
+Round 14,3/12/2017,Getafe,1,7,0,1,Valencia,0,4,0,0,David Medie Jimenez,4.94,0.31,Coliseum Alfonso Pérez,"Getafe, Spain",12480.0
+Round 14,3/12/2017,Eibar,3,3,0,0,Espanyol,1,3,0,0,Alberto Undiano,4.53,0.14,Ipurua Municipal Stadium,"Eibar, Spain",4693.0
+Round 14,3/12/2017,Las Palmas,1,1,0,0,Betis,0,6,0,1,Javier Estrada Fernandez,5.38,0.25,Gran Canaria,"Las Palmas de Gran Canaria, Spain",16313.0
+Round 14,4/12/2017,Girona,2,1,0,0,Alavés,3,2,0,0,Javier Alberola Rojas,3.7,0.15,Estadi Montilivi,"Girona, Spain",7316.0
+Round 13,24/11/17,Celta,1,2,0,0,Leganés,0,3,0,0,Alejandro Hernandez,5.51,0.27,Municipal de Balaidos,"Vigo, Spain",10611.0
+Round 13,25/11/17,Alavés,1,6,0,1,Eibar,2,3,1,0,José Luis Munuera Montero,4.75,0.37,Estadio de Mendizorroza,"Vitoria-Gasteiz, Spain",19727.0
+Round 13,25/11/17,Real Madrid,3,1,0,0,Málaga,2,2,0,0,Jesus Gil Manzano,5.27,0.26,Santiago Bernabéu,"Madrid, Spain",75671.0
+Round 13,25/11/17,Betis,2,2,0,0,Girona,2,1,0,0,Carlos Del Cerro Grande,4.81,0.22,Benito Villamarin,"Seville, Spain",45681.0
+Round 13,25/11/17,Levante,0,2,0,0,Atl. Madrid,5,1,0,0,Daniel Jesus Trujillo Suarez,4.75,0.26,Ciudad de Valencia,"Valencia, Spain",21549.0
+Round 13,26/11/17,Deportivo,2,4,0,0,Athletic Club,2,1,0,0,Jose Luis Gonzalez Gonzalez,4.82,0.22,Riazor,"La Coruna, Spain",20879.0
+Round 13,26/11/17,Real Sociedad,2,3,0,1,Las Palmas,2,3,0,0,Pablo Gonzales Fuertes,5.91,0.37,Reale Arena,"San Sebastian, Spain",19780.0
+Round 13,26/11/17,Villarreal,2,3,0,1,Sevilla,3,3,0,0,Javier Alberola Rojas,3.7,0.15,Estadio de la Ceramica,"Villarreal, Spain",18698.0
+Round 13,26/11/17,Valencia,1,4,0,0,Barcelona,1,0,0,0,Ignacio Iglesias Villanueva,5.62,0.35,Mestalla,"Valencia, Spain",47775.0
+Round 13,27/11/17,Espanyol,1,3,0,0,Getafe,0,7,0,0,Juan Martinez Munuera,4.9,0.19,RCDE Stadium,"Cornella, Spain",11756.0
+Round 12,17/11/17,Girona,1,4,0,0,Real Sociedad,1,2,0,0,Ignacio Iglesias Villanueva,5.62,0.35,Estadi Montilivi,"Girona, Spain",10136.0
+Round 12,18/11/17,Getafe,4,3,0,0,Alavés,1,3,0,0,Santiago Jaime Latre,5.58,0.22,Coliseum Alfonso Pérez,"Getafe, Spain",10014.0
+Round 12,18/11/17,Leganés,0,1,0,0,Barcelona,3,2,0,0,Alberto Undiano,4.53,0.14,Estadio Municipal de Butarque,"Leganes, Spain",11454.0
+Round 12,18/11/17,Sevilla,2,3,0,0,Celta,1,2,0,0,Carlos Del Cerro Grande,4.81,0.22,Ramón Sánchez Pizjuán,"Seville, Spain",35030.0
+Round 12,18/11/17,Atl. Madrid,0,6,0,0,Real Madrid,0,2,0,0,David Fernandez Borbalan,5.63,0.31,Cívitas Metropolitano,"Madrid, Spain",66496.0
+Round 12,19/11/17,Málaga,3,4,0,0,Deportivo,2,5,0,0,Juan Martinez Munuera,4.9,0.19,La Rosaleda,"Malaga, Spain",24563.0
+Round 12,19/11/17,Espanyol,0,0,0,0,Valencia,2,4,0,0,Alejandro Hernandez,5.51,0.27,RCDE Stadium,"Cornella, Spain",25529.0
+Round 12,19/11/17,Las Palmas,0,1,0,0,Levante,2,4,0,0,Mario Melero Lopez,5.55,0.21,Gran Canaria,"Las Palmas de Gran Canaria, Spain",26212.0
+Round 12,19/11/17,Athletic Club,1,1,0,0,Villarreal,1,3,0,0,David Medie Jimenez,4.94,0.31,San Mamés,"Bilbao, Spain",3666.0
+Round 12,20/11/17,Eibar,5,2,0,0,Betis,0,2,1,0,Jose Luis Gonzalez Gonzalez,4.82,0.22,Ipurua Municipal Stadium,"Eibar, Spain",4638.0
+Round 11,3/11/2017,Betis,2,2,0,0,Getafe,2,6,0,0,Antonio Mateu Lahoz,5.18,0.22,Benito Villamarin,"Seville, Spain",42323.0
+Round 11,4/11/2017,Valencia,3,1,0,0,Leganés,0,2,0,0,Ricardo De Burgos Bengoetxea,4.96,0.17,Mestalla,"Valencia, Spain",39694.0
+Round 11,4/11/2017,Deportivo,0,4,0,0,Atl. Madrid,1,2,0,0,Alfonso Alvarez Izquierdo,5.72,0.36,Riazor,"La Coruna, Spain",22733.0
+Round 11,4/11/2017,Alavés,1,7,0,0,Espanyol,0,1,0,1,Pablo Gonzales Fuertes,5.91,0.37,Estadio de Mendizorroza,"Vitoria-Gasteiz, Spain",19368.0
+Round 11,4/11/2017,Barcelona,2,1,0,0,Sevilla,1,0,0,0,Jose Luis Gonzalez Gonzalez,4.82,0.22,Spotify Camp Nou,"Barcelona, Spain",70723.0
+Round 11,5/11/2017,Levante,1,3,0,0,Girona,2,4,0,0,José Luis Munuera Montero,4.75,0.37,Ciudad de Valencia,"Valencia, Spain",18324.0
+Round 11,5/11/2017,Celta,3,2,0,0,Athletic Club,1,3,0,0,Jesus Gil Manzano,5.27,0.26,Municipal de Balaidos,"Vigo, Spain",19779.0
+Round 11,5/11/2017,Real Sociedad,3,0,0,0,Eibar,1,3,0,0,Daniel Jesus Trujillo Suarez,4.75,0.26,Reale Arena,"San Sebastian, Spain",20387.0
+Round 11,5/11/2017,Villarreal,2,2,0,0,Málaga,0,5,0,0,Javier Estrada Fernandez,5.38,0.25,Estadio de la Ceramica,"Villarreal, Spain",17755.0
+Round 11,5/11/2017,Real Madrid,3,2,0,0,Las Palmas,0,1,0,0,Jose Maria Sanchez Martinez,5.75,0.27,Santiago Bernabéu,"Madrid, Spain",67120.0
+Round 10,28/10/17,Alavés,1,5,0,0,Valencia,2,1,0,0,Jose Luis Gonzalez Gonzalez,4.82,0.22,Estadio de Mendizorroza,"Vitoria-Gasteiz, Spain",18638.0
+Round 10,28/10/17,Atl. Madrid,1,0,0,0,Villarreal,1,4,0,0,Alberto Undiano,4.53,0.14,Cívitas Metropolitano,"Madrid, Spain",67703.0
+Round 10,28/10/17,Athletic Club,0,1,0,0,Barcelona,2,4,0,0,Juan Martinez Munuera,4.9,0.19,San Mamés,"Bilbao, Spain",43570.0
+Round 10,28/10/17,Sevilla,2,0,0,0,Leganés,1,3,0,0,David Medie Jimenez,4.94,0.31,Ramón Sánchez Pizjuán,"Seville, Spain",32097.0
+Round 10,29/10/17,Getafe,2,3,0,0,Real Sociedad,1,2,0,0,Jose Maria Sanchez Martinez,5.75,0.27,Coliseum Alfonso Pérez,"Getafe, Spain",11010.0
+Round 10,29/10/17,Girona,2,2,0,0,Real Madrid,1,1,0,0,Alejandro Hernandez,5.51,0.27,Estadi Montilivi,"Girona, Spain",13382.0
+Round 10,29/10/17,Eibar,2,1,0,0,Levante,2,3,0,0,Javier Alberola Rojas,3.7,0.15,Ipurua Municipal Stadium,"Eibar, Spain",5131.0
+Round 10,29/10/17,Málaga,2,2,0,0,Celta,1,3,0,0,Santiago Jaime Latre,5.58,0.22,La Rosaleda,"Malaga, Spain",19541.0
+Round 10,30/10/17,Espanyol,1,2,0,0,Betis,0,5,0,0,Ignacio Iglesias Villanueva,5.62,0.35,RCDE Stadium,"Cornella, Spain",17856.0
+Round 10,30/10/17,Las Palmas,1,1,0,0,Deportivo,3,1,0,0,Carlos Del Cerro Grande,4.81,0.22,Gran Canaria,"Las Palmas de Gran Canaria, Spain",14805.0
+Round 9,21/10/17,Levante,1,1,0,0,Getafe,1,3,0,0,Ricardo De Burgos Bengoetxea,4.96,0.17,Ciudad de Valencia,"Valencia, Spain",18064.0
+Round 9,21/10/17,Betis,2,2,0,0,Alavés,0,2,0,0,Daniel Jesus Trujillo Suarez,4.75,0.26,Benito Villamarin,"Seville, Spain",49243.0
+Round 9,21/10/17,Valencia,4,2,0,0,Sevilla,0,4,0,0,Javier Estrada Fernandez,5.38,0.25,Mestalla,"Valencia, Spain",44307.0
+Round 9,21/10/17,Barcelona,2,1,0,0,Málaga,0,4,0,0,Pablo Gonzales Fuertes,5.91,0.37,Spotify Camp Nou,"Barcelona, Spain",74397.0
+Round 9,22/10/17,Villarreal,4,1,0,0,Las Palmas,0,5,0,0,David Fernandez Borbalan,5.63,0.31,Estadio de la Ceramica,"Villarreal, Spain",16606.0
+Round 9,22/10/17,Celta,0,3,0,0,Atl. Madrid,1,5,0,0,José Luis Munuera Montero,4.75,0.37,Municipal de Balaidos,"Vigo, Spain",12978.0
+Round 9,22/10/17,Leganés,1,3,0,0,Athletic Club,0,4,0,0,Antonio Mateu Lahoz,5.18,0.22,Estadio Municipal de Butarque,"Leganes, Spain",11454.0
+Round 9,22/10/17,Real Madrid,3,1,0,0,Eibar,0,1,0,0,Alfonso Alvarez Izquierdo,5.72,0.36,Santiago Bernabéu,"Madrid, Spain",66189.0
+Round 9,23/10/17,Real Sociedad,1,4,0,1,Espanyol,1,4,0,0,Mario Melero Lopez,5.55,0.21,Reale Arena,"San Sebastian, Spain",18515.0
+Round 9,23/10/17,Deportivo,1,3,0,0,Girona,2,8,0,0,Jesus Gil Manzano,5.27,0.26,Riazor,"La Coruna, Spain",17463.0
+Round 8,13/10/17,Espanyol,0,2,0,0,Levante,0,3,0,0,Alberto Undiano,4.53,0.14,RCDE Stadium,"Cornella, Spain",19365.0
+Round 8,14/10/17,Athletic Club,1,6,0,0,Sevilla,0,5,0,0,Ignacio Iglesias Villanueva,5.62,0.35,San Mamés,"Bilbao, Spain",40197.0
+Round 8,14/10/17,Getafe,1,2,0,0,Real Madrid,2,3,0,0,Juan Martinez Munuera,4.9,0.19,Coliseum Alfonso Pérez,"Getafe, Spain",15350.0
+Round 8,14/10/17,Alavés,0,1,0,0,Real Sociedad,2,1,0,0,Javier Alberola Rojas,3.7,0.15,Estadio de Mendizorroza,"Vitoria-Gasteiz, Spain",19840.0
+Round 8,14/10/17,Atl. Madrid,1,3,0,0,Barcelona,1,2,0,0,Antonio Mateu Lahoz,5.18,0.22,Cívitas Metropolitano,"Madrid, Spain",64393.0
+Round 8,15/10/17,Eibar,0,2,0,0,Deportivo,0,2,0,0,Santiago Jaime Latre,5.58,0.22,Ipurua Municipal Stadium,"Eibar, Spain",5125.0
+Round 8,15/10/17,Girona,1,4,0,0,Villarreal,2,4,0,0,Carlos Del Cerro Grande,4.81,0.22,Estadi Montilivi,"Girona, Spain",9935.0
+Round 8,15/10/17,Málaga,0,3,0,1,Leganés,2,3,0,0,Jose Luis Gonzalez Gonzalez,4.82,0.22,La Rosaleda,"Malaga, Spain",23951.0
+Round 8,15/10/17,Betis,3,1,0,0,Valencia,6,4,0,0,Jose Maria Sanchez Martinez,5.75,0.27,Benito Villamarin,"Seville, Spain",48792.0
+Round 8,16/10/17,Las Palmas,2,2,0,0,Celta,5,1,1,0,David Medie Jimenez,4.94,0.31,Gran Canaria,"Las Palmas de Gran Canaria, Spain",15799.0
+Round 7,29/09/17,Celta,3,2,0,0,Girona,3,5,0,0,Pablo Gonzales Fuertes,5.91,0.37,Municipal de Balaidos,"Vigo, Spain",16126.0
+Round 7,30/09/17,Deportivo,2,6,0,0,Getafe,1,3,0,0,Javier Estrada Fernandez,5.38,0.25,Riazor,"La Coruna, Spain",19329.0
+Round 7,30/09/17,Sevilla,2,2,0,0,Málaga,0,1,0,0,Daniel Jesus Trujillo Suarez,4.75,0.26,Ramón Sánchez Pizjuán,"Seville, Spain",34430.0
+Round 7,30/09/17,Levante,0,2,0,0,Alavés,2,4,0,0,David Fernandez Borbalan,5.63,0.31,Ciudad de Valencia,"Valencia, Spain",18528.0
+Round 7,30/09/17,Leganés,0,2,0,0,Atl. Madrid,0,1,0,0,Jesus Gil Manzano,5.27,0.26,Estadio Municipal de Butarque,"Leganes, Spain",11454.0
+Round 7,01/10/17,Real Sociedad,4,3,0,0,Betis,4,3,0,0,Alfonso Alvarez Izquierdo,5.72,0.36,Reale Arena,"San Sebastian, Spain",19669.0
+Round 7,01/10/17,Barcelona,3,5,0,0,Las Palmas,0,1,0,0,José Luis Munuera Montero,4.75,0.37,Spotify Camp Nou,"Barcelona, Spain",
+Round 7,01/10/17,Valencia,3,3,0,0,Athletic Club,2,4,0,0,Alejandro Hernandez,5.51,0.27,Mestalla,"Valencia, Spain",42070.0
+Round 7,01/10/17,Villarreal,3,2,0,0,Eibar,0,1,0,0,Mario Melero Lopez,5.55,0.21,Estadio de la Ceramica,"Villarreal, Spain",17095.0
+Round 7,01/10/17,Real Madrid,2,2,0,0,Espanyol,0,2,0,0,Jose Luis Gonzalez Gonzalez,4.82,0.22,Santiago Bernabéu,"Madrid, Spain",71205.0
+Round 6,23/09/17,Atl. Madrid,2,4,0,0,Sevilla,0,3,0,0,Juan Martinez Munuera,4.9,0.19,Cívitas Metropolitano,"Madrid, Spain",60823.0
+Round 6,23/09/17,Alavés,1,5,0,0,Real Madrid,2,2,0,0,Alberto Undiano,4.53,0.14,Estadio de Mendizorroza,"Vitoria-Gasteiz, Spain",19559.0
+Round 6,23/09/17,Málaga,3,6,0,1,Athletic Club,3,2,0,0,Carlos Del Cerro Grande,4.81,0.22,La Rosaleda,"Malaga, Spain",23425.0
+Round 6,23/09/17,Girona,0,3,0,0,Barcelona,3,0,0,0,Jose Maria Sanchez Martinez,5.75,0.27,Estadi Montilivi,"Girona, Spain",13305.0
+Round 6,24/09/17,Espanyol,4,1,0,0,Deportivo,1,2,0,0,Ricardo De Burgos Bengoetxea,4.96,0.17,RCDE Stadium,"Cornella, Spain",19585.0
+Round 6,24/09/17,Getafe,4,1,0,0,Villarreal,0,4,0,0,Ignacio Iglesias Villanueva,5.62,0.35,Coliseum Alfonso Pérez,"Getafe, Spain",10874.0
+Round 6,24/09/17,Eibar,0,2,0,0,Celta,4,1,0,0,David Fernandez Borbalan,5.63,0.31,Ipurua Municipal Stadium,"Eibar, Spain",5345.0
+Round 6,24/09/17,Las Palmas,0,1,0,0,Leganés,2,3,0,0,Javier Alberola Rojas,3.7,0.15,Gran Canaria,"Las Palmas de Gran Canaria, Spain",17560.0
+Round 6,24/09/17,Real Sociedad,2,2,0,1,Valencia,3,6,0,1,Santiago Jaime Latre,5.58,0.22,Reale Arena,"San Sebastian, Spain",20266.0
+Round 6,25/09/17,Betis,4,1,0,0,Levante,0,0,0,0,Pablo Gonzales Fuertes,5.91,0.37,Benito Villamarin,"Seville, Spain",48237.0
+Round 5,19/09/17,Valencia,5,0,0,0,Málaga,0,1,0,0,Alfonso Alvarez Izquierdo,5.72,0.36,Mestalla,"Valencia, Spain",36215.0
+Round 5,19/09/17,Barcelona,6,0,0,0,Eibar,1,2,0,0,Alejandro Hernandez,5.51,0.27,Spotify Camp Nou,"Barcelona, Spain",51645.0
+Round 5,20/09/17,Athletic Club,1,0,0,0,Atl. Madrid,2,2,0,0,Javier Estrada Fernandez,5.38,0.25,San Mamés,"Bilbao, Spain",43381.0
+Round 5,20/09/17,Leganés,0,2,0,0,Girona,0,3,0,0,Mario Melero Lopez,5.55,0.21,Estadio Municipal de Butarque,"Leganes, Spain",9781.0
+Round 5,20/09/17,Deportivo,1,0,0,0,Alavés,0,2,0,0,David Medie Jimenez,4.94,0.31,Riazor,"La Coruna, Spain",
+Round 5,20/09/17,Real Madrid,0,0,0,0,Betis,1,3,0,0,Antonio Mateu Lahoz,5.18,0.22,Santiago Bernabéu,"Madrid, Spain",65102.0
+Round 5,20/09/17,Sevilla,1,2,0,0,Las Palmas,0,2,0,0,Jose Luis Gonzalez Gonzalez,4.82,0.22,Ramón Sánchez Pizjuán,"Seville, Spain",35317.0
+Round 5,21/09/17,Villarreal,0,5,0,0,Espanyol,0,2,0,0,José Luis Munuera Montero,4.75,0.37,Estadio de la Ceramica,"Villarreal, Spain",17094.0
+Round 5,21/09/17,Celta,1,2,0,0,Getafe,1,4,0,0,Daniel Jesus Trujillo Suarez,4.75,0.26,Municipal de Balaidos,"Vigo, Spain",15068.0
+Round 5,21/09/17,Levante,3,2,0,0,Real Sociedad,0,1,0,1,Jesus Gil Manzano,5.27,0.26,Ciudad de Valencia,"Valencia, Spain",17632.0
+Round 4,15/09/17,Eibar,1,2,0,0,Leganés,0,5,0,0,Juan Martinez Munuera,4.9,0.19,Ipurua Municipal Stadium,"Eibar, Spain",4986.0
+Round 4,16/09/17,Levante,1,2,0,0,Valencia,1,1,0,0,Carlos Del Cerro Grande,4.81,0.22,Ciudad de Valencia,"Valencia, Spain",23084.0
+Round 4,16/09/17,Getafe,1,2,0,0,Barcelona,2,4,0,0,David Fernandez Borbalan,5.63,0.31,Coliseum Alfonso Pérez,"Getafe, Spain",15164.0
+Round 4,16/09/17,Betis,2,2,0,0,Deportivo,1,3,0,0,Alberto Undiano,4.53,0.14,Benito Villamarin,"Seville, Spain",46174.0
+Round 4,16/09/17,Atl. Madrid,1,2,0,0,Málaga,0,2,0,0,Jose Maria Sanchez Martinez,5.75,0.27,Cívitas Metropolitano,"Madrid, Spain",63114.0
+Round 4,17/09/17,Alavés,0,2,0,0,Villarreal,3,2,0,0,Santiago Jaime Latre,5.58,0.22,Estadio de Mendizorroza,"Vitoria-Gasteiz, Spain",18124.0
+Round 4,17/09/17,Girona,0,2,0,0,Sevilla,1,5,0,0,Ricardo De Burgos Bengoetxea,4.96,0.17,Estadi Montilivi,"Girona, Spain",11032.0
+Round 4,17/09/17,Las Palmas,1,2,0,0,Athletic Club,0,3,0,0,Pablo Gonzales Fuertes,5.91,0.37,Gran Canaria,"Las Palmas de Gran Canaria, Spain",19213.0
+Round 4,17/09/17,Real Sociedad,1,3,0,0,Real Madrid,3,2,0,0,Ignacio Iglesias Villanueva,5.62,0.35,Reale Arena,"San Sebastian, Spain",24966.0
+Round 4,18/09/17,Espanyol,2,1,0,0,Celta,1,4,0,0,Javier Alberola Rojas,3.7,0.15,RCDE Stadium,"Cornella, Spain",15026.0
+Round 3,08/09/17,Leganés,1,1,0,0,Getafe,2,2,0,0,Alfonso Alvarez Izquierdo,5.72,0.36,Estadio Municipal de Butarque,"Leganes, Spain",11454.0
+Round 3,09/09/17,Real Madrid,1,2,1,0,Levante,1,3,0,0,Alejandro Hernandez,5.51,0.27,Santiago Bernabéu,"Madrid, Spain",67789.0
+Round 3,09/09/17,Valencia,0,1,0,0,Atl. Madrid,0,0,0,0,Jose Luis Gonzalez Gonzalez,4.82,0.22,Mestalla,"Valencia, Spain",43859.0
+Round 3,09/09/17,Sevilla,3,1,0,0,Eibar,0,1,0,0,Antonio Mateu Lahoz,5.18,0.22,Ramón Sánchez Pizjuán,"Seville, Spain",32469.0
+Round 3,09/09/17,Barcelona,5,1,0,0,Espanyol,0,5,0,0,Jesus Gil Manzano,5.27,0.26,Spotify Camp Nou,"Barcelona, Spain",72857.0
+Round 3,10/09/17,Deportivo,2,1,0,0,Real Sociedad,4,3,0,0,José Luis Munuera Montero,4.75,0.37,Riazor,"La Coruna, Spain",21942.0
+Round 3,10/09/17,Athletic Club,2,4,0,0,Girona,0,6,0,0,Daniel Jesus Trujillo Suarez,4.75,0.26,San Mamés,"Bilbao, Spain",39952.0
+Round 3,10/09/17,Celta,1,4,0,0,Alavés,0,4,0,0,Mario Melero Lopez,5.55,0.21,Municipal de Balaidos,"Vigo, Spain",6133.0
+Round 3,10/09/17,Villarreal,3,3,0,0,Betis,1,0,0,0,David Medie Jimenez,4.94,0.31,Estadio de la Ceramica,"Villarreal, Spain",18638.0
+Round 3,11/09/17,Málaga,1,4,0,0,Las Palmas,3,2,0,0,Javier Estrada Fernandez,5.38,0.25,La Rosaleda,"Malaga, Spain",22697.0
+Round 2,25/08/17,Real Sociedad,3,2,0,0,Villarreal,0,2,0,0,Javier Estrada Fernandez,5.38,0.25,Reale Arena,"San Sebastian, Spain",19931.0
+Round 2,25/08/17,Betis,2,2,0,0,Celta,1,2,0,0,Ricardo De Burgos Bengoetxea,4.96,0.17,Benito Villamarin,"Seville, Spain",45761.0
+Round 2,26/08/17,Alavés,0,2,0,0,Barcelona,2,3,0,0,Carlos Del Cerro Grande,4.81,0.22,Estadio de Mendizorroza,"Vitoria-Gasteiz, Spain",14934.0
+Round 2,26/08/17,Girona,1,3,0,0,Málaga,0,4,0,0,Santiago Jaime Latre,5.58,0.22,Estadi Montilivi,"Girona, Spain",9748.0
+Round 2,26/08/17,Levante,2,1,0,1,Deportivo,2,2,0,0,Javier Alberola Rojas,3.7,0.15,Ciudad de Valencia,"Valencia, Spain",16345.0
+Round 2,26/08/17,Las Palmas,1,4,0,0,Atl. Madrid,5,1,0,0,Ignacio Iglesias Villanueva,5.62,0.35,Gran Canaria,"Las Palmas de Gran Canaria, Spain",20384.0
+Round 2,27/08/17,Eibar,0,2,0,1,Athletic Club,1,1,0,0,Jose Maria Sanchez Martinez,5.75,0.27,Ipurua Municipal Stadium,"Eibar, Spain",5932.0
+Round 2,27/08/17,Espanyol,0,3,0,0,Leganés,1,3,0,0,Pablo Gonzales Fuertes,5.91,0.37,RCDE Stadium,"Cornella, Spain",18383.0
+Round 2,27/08/17,Getafe,0,0,0,0,Sevilla,1,1,0,0,Alberto Undiano,4.53,0.14,Coliseum Alfonso Pérez,"Getafe, Spain",10039.0
+Round 2,27/08/17,Real Madrid,2,3,0,0,Valencia,2,5,0,0,David Fernandez Borbalan,5.63,0.31,Santiago Bernabéu,"Madrid, Spain",65107.0
+Round 1,18/08/17,Leganés,1,0,0,0,Alavés,0,1,0,0,José Luis Munuera Montero,4.75,0.37,Estadio Municipal de Butarque,"Leganes, Spain",9231.0
+Round 1,18/08/17,Valencia,1,3,0,0,Las Palmas,0,3,1,0,Jesus Gil Manzano,5.27,0.26,Mestalla,"Valencia, Spain",35971.0
+Round 1,19/08/17,Celta,2,3,0,0,Real Sociedad,3,1,0,0,Antonio Mateu Lahoz,5.18,0.22,Municipal de Balaidos,"Vigo, Spain",16961.0
+Round 1,19/08/17,Girona,2,2,0,0,Atl. Madrid,2,4,1,0,Juan Martinez Munuera,4.9,0.19,Estadi Montilivi,"Girona, Spain",11511.0
+Round 1,19/08/17,Sevilla,1,2,1,0,Espanyol,1,4,0,0,Alejandro Hernandez,5.51,0.27,Ramón Sánchez Pizjuán,"Seville, Spain",30487.0
+Round 1,20/08/17,Athletic Club,0,1,0,0,Getafe,0,4,0,1,Mario Melero Lopez,5.55,0.21,San Mamés,"Bilbao, Spain",37884.0
+Round 1,20/08/17,Barcelona,2,2,0,0,Betis,0,1,0,0,Daniel Jesus Trujillo Suarez,4.75,0.26,Spotify Camp Nou,"Barcelona, Spain",56480.0
+Round 1,20/08/17,Deportivo,0,5,0,0,Real Madrid,3,2,0,1,Jose Luis Gonzalez Gonzalez,4.82,0.22,Riazor,"La Coruna, Spain",27770.0
+Round 1,21/08/17,Levante,1,1,0,0,Villarreal,0,3,0,0,Alfonso Alvarez Izquierdo,5.72,0.36,Ciudad de Valencia,"Valencia, Spain",19500.0
+Round 1,21/08/17,Málaga,0,2,0,0,Eibar,1,3,0,0,David Medie Jimenez,4.94,0.31,La Rosaleda,"Malaga, Spain",24753.0

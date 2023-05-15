@@ -1,0 +1,81 @@
+Round,Date,HomeTeam,HomeGoals,HomeYellows,HomeReds,HomeSecondYellows,AwayTeam,AwayGoals,AwayYellows,AwayReds,AwaySecondYellows,Referee,RefereeYellows,RefereeReds,Stadium,Location,Attendance
+Round 8,14/10/16,Las Palmas,0,2,0,0,Espanyol,0,3,0,0,David Fernandez Borbalan,5.63,0.31,Gran Canaria,"Las Palmas de Gran Canaria, Spain",20575
+Round 8,15/10/16,Leganés,2,2,0,0,Sevilla,3,5,0,0,Daniel Ocon Arraiz,5.11,0.19,Estadio Municipal de Butarque,"Leganes, Spain",10922
+Round 8,15/10/16,Barcelona,4,1,0,0,Deportivo,0,2,1,0,Jose Maria Sanchez Martinez,5.74,0.28,Spotify Camp Nou,"Barcelona, Spain",83553
+Round 8,15/10/16,Atl. Madrid,7,1,0,0,Granada,1,1,0,0,Ricardo De Burgos Bengoetxea,4.96,0.17,Vicente Calderón,"Madrid, Spain",48293
+Round 8,15/10/16,Betis,1,3,0,0,Real Madrid,6,1,0,0,Jesus Gil Manzano,5.27,0.26,Benito Villamarin,"Seville, Spain",41665
+Round 8,16/10/16,Alavés,1,3,1,0,Málaga,1,3,0,1,Alejandro Hernandez,5.51,0.27,Estadio de Mendizorroza,"Vitoria-Gasteiz, Spain",17068
+Round 8,16/10/16,Athletic Club,3,3,0,0,Real Sociedad,2,3,0,0,Jose Luis Gonzalez Gonzalez,4.82,0.22,San Mamés,"Bilbao, Spain",47256
+Round 8,16/10/16,Sporting,1,5,0,0,Valencia,2,1,0,0,José Luis Munuera Montero,4.75,0.37,El Molinón,"Gijon, Spain",25509
+Round 8,16/10/16,Villarreal,5,1,0,0,Celta,0,5,0,1,Javier Estrada Fernandez,5.38,0.25,Estadio de la Ceramica,"Villarreal, Spain",18152
+Round 8,17/10/16,Eibar,2,1,0,0,Osasuna,3,2,0,0,Mario Melero Lopez,5.55,0.21,Ipurua Municipal Stadium,"Eibar, Spain",5250
+Round 7,30/09/16,Real Sociedad,1,2,0,0,Betis,0,3,0,0,Daniel Jesus Trujillo Suarez,4.75,0.26,Reale Arena,"San Sebastian, Spain",18310
+Round 7,01/10/16,Granada,0,1,0,0,Leganés,1,0,0,0,Santiago Jaime Latre,5.58,0.22,Estadio Nuevo Los Carmenes,"Granada, Spain",15050
+Round 7,01/10/16,Sevilla,2,2,0,0,Alavés,1,6,0,0,Antonio Mateu Lahoz,5.18,0.22,Ramón Sánchez Pizjuán,"Seville, Spain",32122
+Round 7,01/10/16,Osasuna,2,3,0,0,Las Palmas,2,4,0,0,Ignacio Iglesias Villanueva,5.62,0.35,Estadio El Sadar,"Pamplona, Spain",15415
+Round 7,01/10/16,Deportivo,2,0,0,0,Sporting,1,4,0,0,Ricardo De Burgos Bengoetxea,4.96,0.17,Riazor,"La Coruna, Spain",24864
+Round 7,02/10/16,Valencia,0,1,0,0,Atl. Madrid,2,3,0,0,Carlos Clos Gomez,5.33,0.3,Mestalla,"Valencia, Spain",43276
+Round 7,02/10/16,Real Madrid,1,4,0,0,Eibar,1,5,0,0,Juan Martinez Munuera,4.9,0.19,Santiago Bernabéu,"Madrid, Spain",72103
+Round 7,02/10/16,Espanyol,0,2,0,0,Villarreal,0,2,0,0,José Luis Munuera Montero,4.75,0.37,RCDE Stadium,"Cornella, Spain",20254
+Round 7,02/10/16,Málaga,2,8,0,1,Athletic Club,1,3,1,0,Carlos Del Cerro Grande,4.81,0.22,La Rosaleda,"Malaga, Spain",23080
+Round 7,02/10/16,Celta,4,1,0,0,Barcelona,3,3,0,0,Inaki Vicandi Garrido,4.39,0.32,Municipal de Balaidos,"Vigo, Spain",20901
+Round 6,23/09/16,Betis,1,4,0,0,Málaga,0,6,0,0,Alfonso Alvarez Izquierdo,5.72,0.36,Benito Villamarin,"Seville, Spain",37038
+Round 6,24/09/16,Eibar,2,4,0,0,Real Sociedad,0,2,1,0,Jose Maria Sanchez Martinez,5.74,0.28,Ipurua Municipal Stadium,"Eibar, Spain",4798
+Round 6,24/09/16,Sporting,0,2,0,1,Barcelona,5,0,0,0,Carlos Del Cerro Grande,4.81,0.22,El Molinón,"Gijon, Spain",26098
+Round 6,24/09/16,Athletic Club,3,2,0,0,Sevilla,1,2,1,0,Alejandro Hernandez,5.51,0.27,San Mamés,"Bilbao, Spain",42415
+Round 6,24/09/16,Las Palmas,2,3,0,0,Real Madrid,2,2,0,0,Javier Estrada Fernandez,5.38,0.25,Gran Canaria,"Las Palmas de Gran Canaria, Spain",22520
+Round 6,25/09/16,Leganés,1,4,0,0,Valencia,2,4,0,0,David Fernandez Borbalan,5.63,0.31,Estadio Municipal de Butarque,"Leganes, Spain",10622
+Round 6,25/09/16,Atl. Madrid,1,1,0,0,Deportivo,0,3,0,1,Jesus Gil Manzano,5.27,0.26,Vicente Calderón,"Madrid, Spain",45653
+Round 6,25/09/16,Villarreal,3,0,0,0,Osasuna,1,2,0,0,Daniel Ocon Arraiz,5.11,0.19,Estadio de la Ceramica,"Villarreal, Spain",18319
+Round 6,25/09/16,Espanyol,0,2,0,0,Celta,2,3,0,0,Alberto Undiano,4.53,0.14,RCDE Stadium,"Cornella, Spain",17484
+Round 6,26/09/16,Alavés,3,3,0,0,Granada,1,3,0,0,Jose Luis Gonzalez Gonzalez,4.82,0.22,Estadio de Mendizorroza,"Vitoria-Gasteiz, Spain",16371
+Round 5,20/09/16,Málaga,2,2,0,0,Eibar,1,4,0,0,Ignacio Iglesias Villanueva,5.62,0.35,La Rosaleda,"Malaga, Spain",30370
+Round 5,20/09/16,Sevilla,1,5,0,0,Betis,0,4,0,0,Javier Estrada Fernandez,5.38,0.25,Ramón Sánchez Pizjuán,"Seville, Spain",39849
+Round 5,21/09/16,Celta,2,2,0,0,Sporting,1,3,0,0,Mario Melero Lopez,5.55,0.21,Municipal de Balaidos,"Vigo, Spain",14863
+Round 5,21/09/16,Real Madrid,1,4,0,0,Villarreal,1,1,0,0,Jose Luis Gonzalez Gonzalez,4.82,0.22,Santiago Bernabéu,"Madrid, Spain",67328
+Round 5,21/09/16,Barcelona,1,2,0,0,Atl. Madrid,1,4,0,0,David Fernandez Borbalan,5.63,0.31,Spotify Camp Nou,"Barcelona, Spain",89421
+Round 5,21/09/16,Granada,1,1,0,0,Athletic Club,2,0,0,0,Juan Martinez Munuera,4.9,0.19,Estadio Nuevo Los Carmenes,"Granada, Spain",14603
+Round 5,21/09/16,Real Sociedad,4,1,0,0,Las Palmas,1,2,1,0,José Luis Munuera Montero,4.75,0.37,Reale Arena,"San Sebastian, Spain",10974
+Round 5,22/09/16,Deportivo,1,0,0,0,Leganés,2,3,0,0,Alberto Undiano,4.53,0.14,Riazor,"La Coruna, Spain",19467
+Round 5,22/09/16,Osasuna,1,2,0,0,Espanyol,2,1,0,0,Inaki Vicandi Garrido,4.39,0.32,Estadio El Sadar,"Pamplona, Spain",14631
+Round 5,22/09/16,Valencia,2,2,0,0,Alavés,1,3,0,0,Santiago Jaime Latre,5.58,0.22,Mestalla,"Valencia, Spain",32285
+Round 4,16/09/16,Betis,2,5,0,1,Granada,2,4,0,1,Carlos Del Cerro Grande,4.81,0.22,Benito Villamarin,"Seville, Spain",36090
+Round 4,17/09/16,Leganés,1,4,0,0,Barcelona,5,2,0,0,Ricardo De Burgos Bengoetxea,4.96,0.17,Estadio Municipal de Butarque,"Leganes, Spain",10958
+Round 4,17/09/16,Atl. Madrid,5,0,0,0,Sporting,0,2,0,0,Daniel Ocon Arraiz,5.11,0.19,Vicente Calderón,"Madrid, Spain",45821
+Round 4,17/09/16,Eibar,1,1,2,0,Sevilla,1,1,0,0,Alfonso Alvarez Izquierdo,5.72,0.36,Ipurua Municipal Stadium,"Eibar, Spain",4265
+Round 4,17/09/16,Las Palmas,1,3,0,0,Málaga,0,1,0,0,Jose Maria Sanchez Martinez,5.74,0.28,Gran Canaria,"Las Palmas de Gran Canaria, Spain",18980
+Round 4,18/09/16,Osasuna,0,4,0,0,Celta,0,1,0,0,Daniel Jesus Trujillo Suarez,4.75,0.26,Estadio El Sadar,"Pamplona, Spain",14854
+Round 4,18/09/16,Athletic Club,2,4,0,0,Valencia,1,4,0,0,Jesus Gil Manzano,5.27,0.26,San Mamés,"Bilbao, Spain",40907
+Round 4,18/09/16,Villarreal,2,2,0,0,Real Sociedad,1,4,0,1,Carlos Clos Gomez,5.33,0.3,Estadio de la Ceramica,"Villarreal, Spain",18692
+Round 4,18/09/16,Espanyol,0,4,0,0,Real Madrid,2,2,0,0,Alejandro Hernandez,5.51,0.27,RCDE Stadium,"Cornella, Spain",30153
+Round 4,19/09/16,Alavés,0,3,0,0,Deportivo,0,4,0,0,Juan Martinez Munuera,4.9,0.19,Estadio de Mendizorroza,"Vitoria-Gasteiz, Spain",16854
+Round 3,09/09/16,Real Sociedad,1,2,0,0,Espanyol,1,3,0,1,Ignacio Iglesias Villanueva,5.62,0.35,Reale Arena,"San Sebastian, Spain",17739
+Round 3,10/09/16,Celta,0,1,0,0,Atl. Madrid,4,2,0,0,Santiago Jaime Latre,5.58,0.22,Municipal de Balaidos,"Vigo, Spain",18064
+Round 3,10/09/16,Real Madrid,5,2,0,0,Osasuna,2,3,0,1,David Fernandez Borbalan,5.63,0.31,Santiago Bernabéu,"Madrid, Spain",69567
+Round 3,10/09/16,Málaga,0,2,0,0,Villarreal,2,1,0,0,Alberto Undiano,4.53,0.14,La Rosaleda,"Malaga, Spain",21800
+Round 3,10/09/16,Sevilla,2,2,0,0,Las Palmas,1,5,0,1,Juan Martinez Munuera,4.9,0.19,Ramón Sánchez Pizjuán,"Seville, Spain",34060
+Round 3,10/09/16,Barcelona,1,1,0,0,Alavés,2,1,0,0,Mario Melero Lopez,5.55,0.21,Spotify Camp Nou,"Barcelona, Spain",74237
+Round 3,11/09/16,Sporting,2,0,0,0,Leganés,1,2,0,0,Inaki Vicandi Garrido,4.39,0.32,El Molinón,"Gijon, Spain",22682
+Round 3,11/09/16,Valencia,2,2,1,0,Betis,3,4,0,0,Jose Luis Gonzalez Gonzalez,4.82,0.22,Mestalla,"Valencia, Spain",36789
+Round 3,11/09/16,Granada,1,2,0,0,Eibar,2,0,1,0,Daniel Jesus Trujillo Suarez,4.75,0.26,Estadio Nuevo Los Carmenes,"Granada, Spain",15883
+Round 3,11/09/16,Deportivo,0,2,0,0,Athletic Club,1,3,0,0,Javier Estrada Fernandez,5.38,0.25,Riazor,"La Coruna, Spain",23245
+Round 2,26/08/16,Betis,0,0,0,0,Deportivo,0,2,0,0,Carlos Clos Gomez,5.33,0.3,Benito Villamarin,"Seville, Spain",34543
+Round 2,26/08/16,Espanyol,2,2,0,0,Málaga,2,4,0,0,Jesus Gil Manzano,5.27,0.26,RCDE Stadium,"Cornella, Spain",17725
+Round 2,27/08/16,Eibar,1,2,0,0,Valencia,0,2,0,0,Alejandro Hernandez,5.51,0.27,Ipurua Municipal Stadium,"Eibar, Spain",4419
+Round 2,27/08/16,Osasuna,0,2,0,0,Real Sociedad,2,1,0,0,Alfonso Alvarez Izquierdo,5.72,0.36,Estadio El Sadar,"Pamplona, Spain",16610
+Round 2,27/08/16,Real Madrid,2,0,0,0,Celta,1,2,0,0,Ricardo De Burgos Bengoetxea,4.96,0.17,Santiago Bernabéu,"Madrid, Spain",65684
+Round 2,27/08/16,Leganés,0,3,0,0,Atl. Madrid,0,1,0,0,Jose Maria Sanchez Martinez,5.74,0.28,Estadio Municipal de Butarque,"Leganes, Spain",10958
+Round 2,28/08/16,Alavés,0,1,0,0,Sporting,0,1,0,0,José Luis Munuera Montero,4.75,0.37,Estadio de Mendizorroza,"Vitoria-Gasteiz, Spain",16236
+Round 2,28/08/16,Las Palmas,5,5,0,0,Granada,1,1,0,0,Daniel Ocon Arraiz,5.11,0.19,Gran Canaria,"Las Palmas de Gran Canaria, Spain",18837
+Round 2,28/08/16,Athletic Club,0,5,0,0,Barcelona,1,4,0,0,Antonio Mateu Lahoz,5.18,0.22,San Mamés,"Bilbao, Spain",46365
+Round 2,28/08/16,Villarreal,0,1,0,0,Sevilla,0,3,0,0,Carlos Del Cerro Grande,4.81,0.22,Estadio de la Ceramica,"Villarreal, Spain",18740
+Round 1,19/08/16,Málaga,1,2,0,0,Osasuna,1,3,0,0,Santiago Jaime Latre,5.58,0.22,La Rosaleda,"Malaga, Spain",22199
+Round 1,19/08/16,Deportivo,2,3,0,0,Eibar,1,3,0,0,Mario Melero Lopez,5.55,0.21,Riazor,"La Coruna, Spain",22374
+Round 1,20/08/16,Barcelona,6,1,0,0,Betis,2,3,0,0,Alberto Undiano,4.53,0.14,Spotify Camp Nou,"Barcelona, Spain",65731
+Round 1,20/08/16,Granada,1,2,0,0,Villarreal,1,3,0,0,Javier Estrada Fernandez,5.38,0.25,Estadio Nuevo Los Carmenes,"Granada, Spain",15101
+Round 1,20/08/16,Sevilla,6,2,0,0,Espanyol,4,2,0,0,Jose Luis Gonzalez Gonzalez,4.82,0.22,Ramón Sánchez Pizjuán,"Seville, Spain",29399
+Round 1,21/08/16,Sporting,2,3,0,0,Athletic Club,1,3,0,0,Carlos Clos Gomez,5.33,0.3,El Molinón,"Gijon, Spain",25340
+Round 1,21/08/16,Real Sociedad,0,3,0,0,Real Madrid,3,3,0,0,Juan Martinez Munuera,4.9,0.19,Reale Arena,"San Sebastian, Spain",27720
+Round 1,21/08/16,Atl. Madrid,1,0,0,0,Alavés,1,3,0,0,Ignacio Iglesias Villanueva,5.62,0.35,Vicente Calderón,"Madrid, Spain",27720
+Round 1,22/08/16,Celta,0,4,0,0,Leganés,1,1,1,0,José Luis Munuera Montero,4.75,0.37,Municipal de Balaidos,"Vigo, Spain",16578
+Round 1,22/08/16,Valencia,2,2,0,0,Las Palmas,4,2,0,0,Inaki Vicandi Garrido,4.39,0.32,Mestalla,"Valencia, Spain",37144
