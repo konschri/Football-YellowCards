@@ -1,4 +1,5 @@
 import matplotlib.pyplot as plt
+from statistics import mean
 import numpy as np
 import pandas as pd
 import time
@@ -11,10 +12,12 @@ It also performs feature enginnering
 
 class process():
     
-    def __init__(self, filename):
+    def __init__(self, filename, yellowLimit=5, redLimit=0.25):
         path = "datasets/merged_datasets/"
         self.filename = filename
         self.data = pd.read_csv(path+self.filename)
+        self.YellowLimit = yellowLimit
+        self.RedLimit = redLimit
         print(f"The shape of loaded data: {self.data.shape}")
     
     def dataPreprocess(self):
@@ -25,10 +28,8 @@ class process():
         self.data["secondYellows"] = self.data["HomeSecondYellows"] + self.data["AwaySecondYellows"]
         
         
-        self.data = self.data.drop(["Date", "Location", "Stadium", 
-                                    "HomeYellows", "HomeReds", "HomeSecondYellows", 
-                                    "AwayYellows", "AwayReds", "AwaySecondYellows"], axis=1)
-        print(f"The average amount of Yellow cards per game is {round(self.data['Yellows'].mean(), 2)}")
+        
+        #print(f"The average amount of Yellow cards per game is {round(self.data['Yellows'].mean(), 2)}")
         return self.data
 
     
@@ -69,8 +70,16 @@ class process():
         self.data["difference"] = 0
         
         
+        
+        # Initialize the new feature columns with zeros
+        self.data['past_three_yellow_cards_home'] = 0
+        self.data['past_three_yellow_cards_away'] = 0
+        
         teams = set(self.data['HomeTeam'])
         team_points = {team: 0 for team in teams}
+        
+        yellow_cards_count = {team:[] for team in teams}
+        
         
         
         for _, group in self.data.groupby("Round"):
@@ -89,13 +98,26 @@ class process():
                 
                 # Score of current match
                 home_goals, away_goals = row['HomeGoals'], row['AwayGoals']
-                               
+                
+                # Yellow cards of current match
+                home_yellows, away_yellows = row["HomeYellows"], row["AwayYellows"]
+                
                 self.data.loc[index, "difference"] = abs(team_points[home_team] - team_points[away_team])
                 for key, value in positions_dict.items():
                     self.data.loc[index, feature_text + str(value) + "home"] = team_points[home_team] - points[str(key)]
                     self.data.loc[index, feature_text + str(value) + "away"] = team_points[away_team] - points[str(key)]
                         
-
+        
+                # Assign the yellow cards count for the home and away teams as new columns in the dataframe
+                self.data.at[index, 'past_three_yellow_cards_home'] = sum(yellow_cards_count[home_team][-3:])
+                self.data.at[index, 'past_three_yellow_cards_away'] = sum(yellow_cards_count[away_team][-3:])
+                
+                
+                # Update yellow cards count for home and away teams
+                yellow_cards_count[home_team].append(home_yellows)
+                yellow_cards_count[away_team].append(away_yellows)
+                
+                
                 # Update team points based on match result
                 if home_goals > away_goals:
                     team_points[home_team] += 3
@@ -104,17 +126,22 @@ class process():
                 else:
                     team_points[home_team] += 1
                     team_points[away_team] += 1
+        
+        self.data = self.data.drop(["Date", "Location", "Stadium", 
+                                    "HomeYellows", "HomeReds", "HomeSecondYellows", 
+                                    "AwayYellows", "AwayReds", "AwaySecondYellows"], axis=1)
+        
         return self.data
     
     def dataPostprocess(self):
         self.data = self.data[self.data["Round"] > 5]
-        self.data.drop(["HomeTeam","HomeGoals", "AwayTeam", "AwayGoals", "Round"], axis=1, inplace=True)   
-        self.data.drop(["HomeYellows", "HomeReds", "HomeSecondYellows", "AwayYellows", "AwayReds", "AwaySecondYellows"], axis=1, inplace=True)
+        print(self.data.head())
+        self.data.drop(["HomeTeam", "HomeGoals", "AwayTeam", "AwayGoals", "Round"], axis=1, inplace=True)   
+        # self.data.drop(["HomeYellows", "HomeReds", "HomeSecondYellows", "AwayYellows", "AwayReds", "AwaySecondYellows"], axis=1, inplace=True)
 
-        # The splitting points for each Referee is 5 yellow cards and 0.25 red cards
-        YellowLimit, RedLimit = 5, 0.25
-        self.data["YellowRefCategory"] = [1 if x > YellowLimit else 0 for x in self.data["RefereeYellows"]]
-        self.data["RedRefCategory"] = [1 if x > RedLimit else 0 for x in self.data["RefereeReds"]]
+        # The splitting points for each Referee is 5 yellow cards and 0.25 red cards by default
+        self.data["YellowRefCategory"] = [1 if x > self.YellowLimit else 0 for x in self.data["RefereeYellows"]]
+        self.data["RedRefCategory"] = [1 if x > self.RedLimit else 0 for x in self.data["RefereeReds"]]
         self.data.drop(['Referee', 'RefereeYellows', 'RefereeReds'], axis=1, inplace=True)
         
         
