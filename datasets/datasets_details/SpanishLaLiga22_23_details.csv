@@ -1,0 +1,381 @@
+Round,Date,HomeTeam,HomeGoals,HomeYellows,HomeReds,HomeSecondYellows,AwayTeam,AwayGoals,AwayYellows,AwayReds,AwaySecondYellows,Referee,RefereeYellows,RefereeReds,Stadium,Location,Attendance
+Round 38,4/6/2023,Mallorca,3,0,0,0,Rayo Vallecano,0,0,0,0,Antonio Mateu Lahoz,5.17,0.22,Estadi de Son Moix,"Palma, Spain",14521.0
+Round 38,4/6/2023,Osasuna,2,1,0,0,Girona,1,5,0,0,Miguel Angel Ortiz Arias,5.1,0.35,Estadio El Sadar,"Pamplona, Spain",22128.0
+Round 38,4/6/2023,Real Madrid,1,2,0,0,Athletic Club,1,2,0,0,Isidro Diaz de Mera Escuderos,6.29,0.35,Santiago Bernabéu,"Madrid, Spain",60781.0
+Round 38,4/6/2023,Real Sociedad,2,0,0,0,Sevilla,1,1,0,0,Carlos Del Cerro Grande,4.81,0.22,Reale Arena,"San Sebastian, Spain",35065.0
+Round 38,4/6/2023,Villarreal,2,3,0,0,Atl. Madrid,2,2,1,0,Ricardo De Burgos Bengoetxea,4.97,0.18,Estadio de la Ceramica,"Villarreal, Spain",18226.0
+Round 38,4/6/2023,Celta,2,2,0,0,Barcelona,1,2,0,0,Juan Luis Pulido Santana,4.88,0.28,Municipal de Balaidos,"Vigo, Spain",23365.0
+Round 38,4/6/2023,Elche,1,4,0,0,Cádiz,1,3,0,0,Jesus Gil Manzano,5.27,0.26,Estadio Martínez Valero,"Elche, Spain",16585.0
+Round 38,4/6/2023,Espanyol,3,2,0,0,Almería,3,4,0,0,Cesar Soto Grado,5.47,0.2,RCDE Stadium,"Cornella, Spain",14213.0
+Round 38,4/6/2023,Betis,1,3,0,0,Valencia,1,0,1,0,Javier Alberola Rojas,3.7,0.15,Benito Villamarin,"Seville, Spain",54087.0
+Round 38,4/6/2023,Real Valladolid,0,1,0,0,Getafe,0,3,0,0,José Luis Munuera Montero,4.75,0.37,José Zorrilla,"Valladolid, Spain",25517.0
+Round 37,27/05/23,Sevilla,1,2,1,0,Real Madrid,2,4,0,0,Cesar Soto Grado,5.47,0.2,Ramón Sánchez Pizjuán,"Seville, Spain",29856.0
+Round 37,28/05/23,Almería,0,0,0,0,Real Valladolid,0,4,0,0,Javier Alberola Rojas,3.7,0.15,Estadio del Mediterráneo,"Almeria, Spain",14608.0
+Round 37,28/05/23,Athletic Club,0,1,0,0,Elche,1,1,0,0,Valentin Pizarro Gomez,5.01,0.32,San Mamés,"Bilbao, Spain",37807.0
+Round 37,28/05/23,Atl. Madrid,2,2,0,0,Real Sociedad,1,2,0,0,Juan Luis Pulido Santana,4.88,0.28,Cívitas Metropolitano,"Madrid, Spain",56169.0
+Round 37,28/05/23,Barcelona,3,0,0,0,Mallorca,0,0,1,0,Jorge Figueroa Vazquez,4.8,0.36,Spotify Camp Nou,"Barcelona, Spain",88775.0
+Round 37,28/05/23,Cádiz,1,9,0,0,Celta,0,6,0,0,Alejandro Hernandez,5.55,0.27,Estadio Ramon de Carranza,"Cadiz, Spain",19725.0
+Round 37,28/05/23,Getafe,2,4,0,0,Osasuna,1,1,0,0,Antonio Mateu Lahoz,5.17,0.22,Coliseum Alfonso Pérez,"Getafe, Spain",13510.0
+Round 37,28/05/23,Girona,1,0,0,0,Betis,2,1,0,0,Isidro Diaz de Mera Escuderos,6.29,0.35,Estadi Montilivi,"Girona, Spain",12833.0
+Round 37,28/05/23,Rayo Vallecano,2,3,0,0,Villarreal,1,4,0,0,Javier Iglesias Villanueva,4.83,0.29,Estadio de Vallecas,"Madrid, Spain",11085.0
+Round 37,28/05/23,Valencia,2,0,0,0,Espanyol,2,3,0,0,Jesus Gil Manzano,5.27,0.26,Mestalla,"Valencia, Spain",44141.0
+Round 36,23/05/23,Celta,1,0,0,0,Girona,1,0,0,0,Antonio Mateu Lahoz,5.17,0.22,Municipal de Balaidos,"Vigo, Spain",14117.0
+Round 36,23/05/23,Real Sociedad,1,0,0,0,Almería,0,1,1,0,Pablo Gonzales Fuertes,5.87,0.37,Reale Arena,"San Sebastian, Spain",31574.0
+Round 36,23/05/23,Real Valladolid,3,1,0,0,Barcelona,1,0,0,0,Cesar Soto Grado,5.47,0.2,José Zorrilla,"Valladolid, Spain",22341.0
+Round 36,24/05/23,Elche,1,1,0,0,Sevilla,1,4,1,0,Isidro Diaz de Mera Escuderos,6.29,0.35,Estadio Martínez Valero,"Elche, Spain",13263.0
+Round 36,24/05/23,Real Madrid,2,1,0,0,Rayo Vallecano,1,3,0,0,Jesus Gil Manzano,5.27,0.26,Santiago Bernabéu,"Madrid, Spain",45811.0
+Round 36,24/05/23,Villarreal,2,1,0,0,Cádiz,0,2,0,0,Juan Luis Pulido Santana,4.88,0.28,Estadio de la Ceramica,"Villarreal, Spain",15099.0
+Round 36,24/05/23,Espanyol,3,2,0,0,Atl. Madrid,3,3,0,0,Mario Melero Lopez,5.54,0.21,RCDE Stadium,"Cornella, Spain",25822.0
+Round 36,24/05/23,Betis,0,2,1,0,Getafe,1,5,0,0,Ricardo De Burgos Bengoetxea,4.97,0.18,Benito Villamarin,"Seville, Spain",40289.0
+Round 36,25/05/23,Mallorca,1,4,0,0,Valencia,0,2,0,0,Alejandro Hernandez,5.55,0.27,Estadi de Son Moix,"Palma, Spain",14631.0
+Round 36,25/05/23,Osasuna,2,3,0,0,Athletic Club,0,3,0,0,Alejandro Muniz Ruiz,5.38,0.48,Estadio El Sadar,"Pamplona, Spain",19830.0
+Round 35,19/05/23,Cádiz,2,4,0,0,Real Valladolid,0,4,1,0,Juan Martinez Munuera,4.91,0.19,Estadio Ramon de Carranza,"Cadiz, Spain",18938.0
+Round 35,20/05/23,Girona,1,2,0,0,Villarreal,2,1,0,0,Valentin Pizarro Gomez,5.01,0.32,Estadi Montilivi,"Girona, Spain",11649.0
+Round 35,20/05/23,Athletic Club,2,4,0,0,Celta,1,1,0,0,Mario Melero Lopez,5.54,0.21,San Mamés,"Bilbao, Spain",40759.0
+Round 35,20/05/23,Almería,3,1,0,0,Mallorca,0,2,0,0,Carlos Del Cerro Grande,4.81,0.22,Estadio del Mediterráneo,"Almeria, Spain",12791.0
+Round 35,20/05/23,Getafe,1,4,0,0,Elche,1,1,0,0,Javier Iglesias Villanueva,4.83,0.29,Coliseum Alfonso Pérez,"Getafe, Spain",13927.0
+Round 35,20/05/23,Barcelona,1,4,0,0,Real Sociedad,2,4,0,0,Antonio Alberola Rojas,4.22,0.22,Spotify Camp Nou,"Barcelona, Spain",88049.0
+Round 35,21/05/23,Rayo Vallecano,1,2,0,0,Espanyol,2,2,0,0,Alejandro Hernandez,5.55,0.27,Estadio de Vallecas,"Madrid, Spain",12142.0
+Round 35,21/05/23,Atl. Madrid,3,0,0,0,Osasuna,0,2,0,0,Pablo Gonzales Fuertes,5.87,0.37,Cívitas Metropolitano,"Madrid, Spain",57012.0
+Round 35,21/05/23,Valencia,1,5,0,0,Real Madrid,0,2,1,0,Ricardo De Burgos Bengoetxea,4.97,0.18,Mestalla,"Valencia, Spain",46002.0
+Round 35,21/05/23,Sevilla,0,2,0,0,Betis,0,2,1,0,Jesus Gil Manzano,5.27,0.26,Ramón Sánchez Pizjuán,"Seville, Spain",
+Round 34,12/5/2023,Mallorca,1,5,0,0,Cádiz,0,4,0,0,Jose Maria Sanchez Martinez,5.72,0.27,Estadi de Son Moix,"Palma, Spain",15377.0
+Round 34,13/05/23,Real Sociedad,2,6,0,0,Girona,2,2,0,1,Jorge Figueroa Vazquez,4.8,0.36,Reale Arena,"San Sebastian, Spain",30027.0
+Round 34,13/05/23,Osasuna,3,0,0,0,Almería,1,0,0,0,Antonio Mateu Lahoz,5.17,0.22,Estadio El Sadar,"Pamplona, Spain",19747.0
+Round 34,13/05/23,Villarreal,5,4,0,0,Athletic Club,1,3,0,0,Carlos Del Cerro Grande,4.81,0.22,Estadio de la Ceramica,"Villarreal, Spain",16871.0
+Round 34,13/05/23,Real Madrid,1,1,0,0,Getafe,0,4,0,0,Juan Martinez Munuera,4.91,0.19,Santiago Bernabéu,"Madrid, Spain",52201.0
+Round 34,14/05/23,Celta,1,3,0,0,Valencia,2,4,0,1,Cesar Soto Grado,5.47,0.2,Municipal de Balaidos,"Vigo, Spain",14517.0
+Round 34,14/05/23,Elche,1,2,0,0,Atl. Madrid,0,0,0,0,Alejandro Muniz Ruiz,5.38,0.48,Estadio Martínez Valero,"Elche, Spain",22174.0
+Round 34,14/05/23,Real Valladolid,0,2,0,0,Sevilla,3,1,0,0,Miguel Angel Ortiz Arias,5.1,0.35,José Zorrilla,"Valladolid, Spain",21580.0
+Round 34,14/05/23,Espanyol,2,1,0,0,Barcelona,4,3,0,0,Ricardo De Burgos Bengoetxea,4.97,0.18,RCDE Stadium,"Cornella, Spain",27360.0
+Round 34,15/05/23,Betis,3,3,0,0,Rayo Vallecano,1,3,1,0,Juan Luis Pulido Santana,4.88,0.28,Benito Villamarin,"Seville, Spain",48143.0
+Round 33,2/5/2023,Almería,2,2,0,0,Elche,1,2,0,0,Alejandro Hernandez,5.55,0.27,Estadio del Mediterráneo,"Almeria, Spain",13352.0
+Round 33,2/5/2023,Barcelona,1,0,0,0,Osasuna,0,0,1,0,Javier Iglesias Villanueva,4.83,0.29,Spotify Camp Nou,"Barcelona, Spain",76061.0
+Round 33,2/5/2023,Real Sociedad,2,1,0,0,Real Madrid,0,4,0,1,Juan Luis Pulido Santana,4.88,0.28,Reale Arena,"San Sebastian, Spain",35314.0
+Round 33,3/5/2023,Valencia,1,4,0,0,Villarreal,1,2,0,0,Jesus Gil Manzano,5.27,0.26,Mestalla,"Valencia, Spain",43634.0
+Round 33,3/5/2023,Atl. Madrid,5,3,0,0,Cádiz,1,2,0,0,Cesar Soto Grado,5.47,0.2,Cívitas Metropolitano,"Madrid, Spain",42023.0
+Round 33,3/5/2023,Getafe,1,7,0,0,Celta,0,4,0,1,Mario Melero Lopez,5.54,0.21,Coliseum Alfonso Pérez,"Getafe, Spain",11022.0
+Round 33,4/5/2023,Girona,2,4,0,0,Mallorca,1,0,0,0,Juan Martinez Munuera,4.91,0.19,Estadi Montilivi,"Girona, Spain",11767.0
+Round 33,4/5/2023,Sevilla,3,1,0,0,Espanyol,2,2,0,0,Javier Alberola Rojas,3.7,0.15,Ramón Sánchez Pizjuán,"Seville, Spain",35391.0
+Round 33,4/5/2023,Athletic Club,0,1,1,0,Betis,1,3,0,0,Miguel Angel Ortiz Arias,5.1,0.35,San Mamés,"Bilbao, Spain",43116.0
+Round 33,4/5/2023,Rayo Vallecano,2,0,0,0,Real Valladolid,1,0,0,0,Isidro Diaz de Mera Escuderos,6.29,0.35,Estadio de Vallecas,"Madrid, Spain",11171.0
+Round 32,28/04/23,Osasuna,0,3,0,0,Real Sociedad,2,1,0,0,Valentin Pizarro Gomez,5.01,0.32,Estadio El Sadar,"Pamplona, Spain",21570.0
+Round 32,29/04/23,Elche,4,1,0,0,Rayo Vallecano,0,2,1,0,Mario Melero Lopez,5.54,0.21,Estadio Martínez Valero,"Elche, Spain",11259.0
+Round 32,29/04/23,Real Madrid,4,2,0,0,Almería,2,2,0,0,Guillermo Cuadra Fernandez,5.02,0.27,Santiago Bernabéu,"Madrid, Spain",58036.0
+Round 32,29/04/23,Barcelona,4,0,0,0,Betis,0,1,0,1,Carlos Del Cerro Grande,4.81,0.22,Spotify Camp Nou,"Barcelona, Spain",88530.0
+Round 32,30/04/23,Cádiz,2,6,0,0,Valencia,1,2,0,0,Ricardo De Burgos Bengoetxea,4.97,0.18,Estadio Ramon de Carranza,"Cadiz, Spain",18650.0
+Round 32,30/04/23,Villarreal,3,1,0,0,Celta,1,4,0,0,Pablo Gonzales Fuertes,5.87,0.37,Estadio de la Ceramica,"Villarreal, Spain",16123.0
+Round 32,30/04/23,Espanyol,1,4,0,0,Getafe,0,5,0,0,Jose Maria Sanchez Martinez,5.72,0.27,RCDE Stadium,"Cornella, Spain",26953.0
+Round 32,30/04/23,Real Valladolid,2,2,0,0,Atl. Madrid,5,1,0,0,Antonio Mateu Lahoz,5.17,0.22,José Zorrilla,"Valladolid, Spain",23321.0
+Round 32,1/5/2023,Mallorca,1,4,1,0,Athletic Club,1,2,0,0,Jorge Figueroa Vazquez,4.8,0.36,Estadi de Son Moix,"Palma, Spain",16807.0
+Round 32,1/5/2023,Sevilla,0,2,0,0,Girona,2,1,0,0,Alejandro Muniz Ruiz,5.38,0.48,Ramón Sánchez Pizjuán,"Seville, Spain",35560.0
+Round 31,25/04/23,Cádiz,0,0,0,0,Osasuna,1,1,1,0,Carlos Del Cerro Grande,4.81,0.22,Estadio Ramon de Carranza,"Cadiz, Spain",18008.0
+Round 31,25/04/23,Girona,4,1,0,0,Real Madrid,2,2,0,0,Javier Iglesias Villanueva,4.83,0.29,Estadi Montilivi,"Girona, Spain",13306.0
+Round 31,25/04/23,Betis,0,1,0,0,Real Sociedad,0,3,0,0,Juan Martinez Munuera,4.91,0.19,Benito Villamarin,"Seville, Spain",42294.0
+Round 31,26/04/23,Atl. Madrid,3,0,0,0,Mallorca,1,0,0,0,Juan Luis Pulido Santana,4.88,0.28,Cívitas Metropolitano,"Madrid, Spain",58523.0
+Round 31,26/04/23,Getafe,1,2,1,0,Almería,2,2,0,0,Antonio Alberola Rojas,4.22,0.22,Coliseum Alfonso Pérez,"Getafe, Spain",10260.0
+Round 31,26/04/23,Celta,1,0,0,0,Elche,0,0,0,0,Isidro Diaz de Mera Escuderos,6.29,0.35,Municipal de Balaidos,"Vigo, Spain",11649.0
+Round 31,26/04/23,Rayo Vallecano,2,1,0,0,Barcelona,1,4,0,0,Jesus Gil Manzano,5.27,0.26,Estadio de Vallecas,"Madrid, Spain",13657.0
+Round 31,27/04/23,Valencia,2,0,0,0,Real Valladolid,1,4,0,0,José Luis Munuera Montero,4.75,0.37,Mestalla,"Valencia, Spain",42023.0
+Round 31,27/04/23,Villarreal,4,2,0,0,Espanyol,2,4,1,0,Cesar Soto Grado,5.47,0.2,Estadio de la Ceramica,"Villarreal, Spain",16134.0
+Round 31,27/04/23,Athletic Club,0,3,0,0,Sevilla,1,3,0,0,Alejandro Hernandez,5.55,0.27,San Mamés,"Bilbao, Spain",42716.0
+Round 30,21/04/23,Espanyol,0,4,0,0,Cádiz,0,2,0,0,Juan Martinez Munuera,4.91,0.19,RCDE Stadium,"Cornella, Spain",28512.0
+Round 30,22/04/23,Osasuna,3,2,0,0,Betis,2,0,0,0,Javier Alberola Rojas,3.7,0.15,Estadio El Sadar,"Pamplona, Spain",19723.0
+Round 30,22/04/23,Almería,1,2,0,0,Athletic Club,2,4,0,0,Valentin Pizarro Gomez,5.01,0.32,Estadio del Mediterráneo,"Almeria, Spain",13271.0
+Round 30,22/04/23,Real Sociedad,2,1,0,0,Rayo Vallecano,1,2,0,0,Alejandro Muniz Ruiz,5.38,0.48,Reale Arena,"San Sebastian, Spain",32054.0
+Round 30,22/04/23,Real Valladolid,1,1,0,0,Girona,0,1,0,0,Mario Melero Lopez,5.54,0.21,José Zorrilla,"Valladolid, Spain",21033.0
+Round 30,22/04/23,Real Madrid,2,1,0,0,Celta,0,2,0,0,Antonio Mateu Lahoz,5.17,0.22,Santiago Bernabéu,"Madrid, Spain",60386.0
+Round 30,23/04/23,Elche,0,3,0,0,Valencia,2,1,0,0,Guillermo Cuadra Fernandez,5.02,0.27,Estadio Martínez Valero,"Elche, Spain",22129.0
+Round 30,23/04/23,Barcelona,1,4,0,0,Atl. Madrid,0,8,0,0,Jose Maria Sanchez Martinez,5.72,0.27,Spotify Camp Nou,"Barcelona, Spain",80965.0
+Round 30,23/04/23,Mallorca,3,2,0,0,Getafe,1,3,0,0,Pablo Gonzales Fuertes,5.87,0.37,Estadi de Son Moix,"Palma, Spain",15687.0
+Round 30,23/04/23,Sevilla,2,1,0,0,Villarreal,1,2,0,0,Ricardo De Burgos Bengoetxea,4.97,0.18,Ramón Sánchez Pizjuán,"Seville, Spain",29635.0
+Round 29,14/04/23,Rayo Vallecano,2,2,0,0,Osasuna,1,3,0,0,José Luis Munuera Montero,4.75,0.37,Estadio de Vallecas,"Madrid, Spain",12726.0
+Round 29,15/04/23,Villarreal,1,1,0,0,Real Valladolid,2,6,0,0,Javier Iglesias Villanueva,4.83,0.29,Estadio de la Ceramica,"Villarreal, Spain",14876.0
+Round 29,15/04/23,Athletic Club,2,5,0,0,Real Sociedad,0,2,0,0,Cesar Soto Grado,5.47,0.2,San Mamés,"Bilbao, Spain",49287.0
+Round 29,15/04/23,Betis,3,2,0,0,Espanyol,1,2,0,0,Alejandro Hernandez,5.55,0.27,Benito Villamarin,"Seville, Spain",45313.0
+Round 29,15/04/23,Cádiz,0,1,0,0,Real Madrid,2,0,0,0,Jesus Gil Manzano,5.27,0.26,Estadio Ramon de Carranza,"Cadiz, Spain",19833.0
+Round 29,16/04/23,Girona,2,3,0,0,Elche,0,3,1,0,Jorge Figueroa Vazquez,4.8,0.36,Estadi Montilivi,"Girona, Spain",11114.0
+Round 29,16/04/23,Getafe,0,2,0,0,Barcelona,0,1,0,0,Juan Luis Pulido Santana,4.88,0.28,Coliseum Alfonso Pérez,"Getafe, Spain",14854.0
+Round 29,16/04/23,Atl. Madrid,2,3,0,0,Almería,1,3,0,0,Isidro Diaz de Mera Escuderos,6.29,0.35,Cívitas Metropolitano,"Madrid, Spain",59204.0
+Round 29,16/04/23,Valencia,0,1,1,0,Sevilla,2,4,0,0,Carlos Del Cerro Grande,4.81,0.22,Mestalla,"Valencia, Spain",39654.0
+Round 29,17/04/23,Celta,0,1,0,1,Mallorca,1,1,0,0,Miguel Angel Ortiz Arias,5.1,0.35,Municipal de Balaidos,"Vigo, Spain",13557.0
+Round 28,7/4/2023,Sevilla,2,5,1,1,Celta,2,2,0,0,Valentin Pizarro Gomez,5.01,0.32,Ramón Sánchez Pizjuán,"Seville, Spain",30778.0
+Round 28,8/4/2023,Osasuna,2,1,0,0,Elche,1,3,0,0,Pablo Gonzales Fuertes,5.87,0.37,Estadio El Sadar,"Pamplona, Spain",16925.0
+Round 28,8/4/2023,Espanyol,1,5,0,1,Athletic Club,2,4,0,0,José Luis Munuera Montero,4.75,0.37,RCDE Stadium,"Cornella, Spain",24903.0
+Round 28,8/4/2023,Real Sociedad,2,2,0,0,Getafe,0,1,0,0,Mario Melero Lopez,5.54,0.21,Reale Arena,"San Sebastian, Spain",27606.0
+Round 28,8/4/2023,Real Madrid,2,0,0,0,Villarreal,3,3,0,0,Javier Alberola Rojas,3.7,0.15,Santiago Bernabéu,"Madrid, Spain",57887.0
+Round 28,9/4/2023,Real Valladolid,3,3,0,0,Mallorca,3,5,0,0,Alejandro Muniz Ruiz,5.38,0.48,José Zorrilla,"Valladolid, Spain",18010.0
+Round 28,9/4/2023,Betis,0,3,2,0,Cádiz,2,3,0,0,Guillermo Cuadra Fernandez,5.02,0.27,Benito Villamarin,"Seville, Spain",51555.0
+Round 28,9/4/2023,Almería,2,3,0,0,Valencia,1,2,0,0,Jose Maria Sanchez Martinez,5.72,0.27,Estadio del Mediterráneo,"Almeria, Spain",14039.0
+Round 28,9/4/2023,Rayo Vallecano,1,0,1,0,Atl. Madrid,2,0,0,0,Ricardo De Burgos Bengoetxea,4.97,0.18,Estadio de Vallecas,"Madrid, Spain",13512.0
+Round 28,10/4/2023,Barcelona,0,0,0,0,Girona,0,2,0,0,Antonio Mateu Lahoz,5.17,0.22,Spotify Camp Nou,"Barcelona, Spain",78425.0
+Round 27,31/03/23,Mallorca,0,7,1,0,Osasuna,0,3,0,0,Isidro Diaz de Mera Escuderos,6.29,0.35,Estadi de Son Moix,"Palma, Spain",14132.0
+Round 27,1/4/2023,Girona,2,4,1,0,Espanyol,1,2,1,0,Miguel Angel Ortiz Arias,5.1,0.35,Estadi Montilivi,"Girona, Spain",12841.0
+Round 27,1/4/2023,Athletic Club,0,0,0,0,Getafe,0,0,0,0,Javier Iglesias Villanueva,4.83,0.29,San Mamés,"Bilbao, Spain",43782.0
+Round 27,1/4/2023,Cádiz,0,3,0,0,Sevilla,2,4,0,0,Cesar Soto Grado,5.47,0.2,Estadio Ramon de Carranza,"Cadiz, Spain",19181.0
+Round 27,1/4/2023,Elche,0,0,0,0,Barcelona,4,3,0,0,Carlos Del Cerro Grande,4.81,0.22,Estadio Martínez Valero,"Elche, Spain",28142.0
+Round 27,2/4/2023,Celta,2,3,0,0,Almería,2,5,0,0,Alejandro Hernandez,5.55,0.27,Municipal de Balaidos,"Vigo, Spain",14011.0
+Round 27,2/4/2023,Real Madrid,6,0,0,0,Real Valladolid,0,1,0,0,Juan Luis Pulido Santana,4.88,0.28,Santiago Bernabéu,"Madrid, Spain",59400.0
+Round 27,2/4/2023,Villarreal,2,4,0,1,Real Sociedad,0,3,0,0,Jesus Gil Manzano,5.27,0.26,Estadio de la Ceramica,"Villarreal, Spain",18768.0
+Round 27,2/4/2023,Atl. Madrid,1,1,0,0,Betis,0,2,0,0,Juan Martinez Munuera,4.91,0.19,Cívitas Metropolitano,"Madrid, Spain",61623.0
+Round 27,3/4/2023,Valencia,1,2,0,0,Rayo Vallecano,1,3,0,0,Jorge Figueroa Vazquez,4.8,0.36,Mestalla,"Valencia, Spain",39769.0
+Round 26,17/03/23,Real Valladolid,1,2,0,0,Athletic Club,3,2,0,0,Javier Alberola Rojas,3.7,0.15,José Zorrilla,"Valladolid, Spain",21707.0
+Round 26,18/03/23,Almería,1,1,0,0,Cádiz,1,4,0,0,Carlos Del Cerro Grande,4.81,0.22,Estadio del Mediterráneo,"Almeria, Spain",12183.0
+Round 26,18/03/23,Rayo Vallecano,2,2,0,0,Girona,2,2,0,0,Pablo Gonzales Fuertes,5.87,0.37,Estadio de Vallecas,"Madrid, Spain",12263.0
+Round 26,18/03/23,Espanyol,1,2,0,0,Celta,3,2,0,0,Guillermo Cuadra Fernandez,5.02,0.27,RCDE Stadium,"Cornella, Spain",26231.0
+Round 26,18/03/23,Atl. Madrid,3,2,0,0,Valencia,0,0,0,0,José Luis Munuera Montero,4.75,0.37,Cívitas Metropolitano,"Madrid, Spain",58317.0
+Round 26,19/03/23,Betis,1,1,0,0,Mallorca,0,2,0,0,Valentin Pizarro Gomez,5.01,0.32,Benito Villamarin,"Seville, Spain",50402.0
+Round 26,19/03/23,Osasuna,0,3,0,0,Villarreal,3,2,0,0,Alejandro Muniz Ruiz,5.38,0.48,Estadio El Sadar,"Pamplona, Spain",20201.0
+Round 26,19/03/23,Real Sociedad,2,2,0,0,Elche,0,1,0,0,Jose Maria Sanchez Martinez,5.72,0.27,Reale Arena,"San Sebastian, Spain",28496.0
+Round 26,19/03/23,Getafe,2,4,0,0,Sevilla,0,2,0,0,Antonio Mateu Lahoz,5.17,0.22,Coliseum Alfonso Pérez,"Getafe, Spain",12253.0
+Round 26,19/03/23,Barcelona,2,4,0,0,Real Madrid,1,3,0,0,Ricardo De Burgos Bengoetxea,4.97,0.18,Spotify Camp Nou,"Barcelona, Spain",95745.0
+Round 25,10/3/2023,Cádiz,2,4,1,0,Getafe,2,4,0,1,Alejandro Hernandez,5.55,0.27,Estadio Ramon de Carranza,"Cadiz, Spain",18414.0
+Round 25,11/3/2023,Real Madrid,3,3,0,0,Espanyol,1,2,0,0,Jorge Figueroa Vazquez,4.8,0.36,Santiago Bernabéu,"Madrid, Spain",59872.0
+Round 25,11/3/2023,Elche,1,4,0,0,Real Valladolid,1,4,0,2,Isidro Diaz de Mera Escuderos,6.29,0.35,Estadio Martínez Valero,"Elche, Spain",18972.0
+Round 25,11/3/2023,Celta,3,2,0,0,Rayo Vallecano,0,3,0,0,Juan Luis Pulido Santana,4.88,0.28,Municipal de Balaidos,"Vigo, Spain",14451.0
+Round 25,11/3/2023,Valencia,1,2,0,0,Osasuna,0,5,0,0,Javier Iglesias Villanueva,4.83,0.29,Mestalla,"Valencia, Spain",37762.0
+Round 25,12/3/2023,Mallorca,1,2,0,0,Real Sociedad,1,2,1,0,Juan Martinez Munuera,4.91,0.19,Estadi de Son Moix,"Palma, Spain",13840.0
+Round 25,12/3/2023,Sevilla,2,5,0,0,Almería,1,4,0,0,Ricardo De Burgos Bengoetxea,4.97,0.18,Ramón Sánchez Pizjuán,"Seville, Spain",37843.0
+Round 25,12/3/2023,Villarreal,1,3,0,0,Betis,1,2,0,0,Miguel Angel Ortiz Arias,5.1,0.35,Estadio de la Ceramica,"Villarreal, Spain",19174.0
+Round 25,12/3/2023,Athletic Club,0,2,0,0,Barcelona,1,1,0,0,Jesus Gil Manzano,5.27,0.26,San Mamés,"Bilbao, Spain",49741.0
+Round 25,13/03/23,Girona,0,2,0,0,Atl. Madrid,1,3,0,0,Mario Melero Lopez,5.54,0.21,Estadi Montilivi,"Girona, Spain",12499.0
+Round 24,3/3/2023,Real Sociedad,0,0,0,0,Cádiz,0,1,0,0,Antonio Mateu Lahoz,5.17,0.22,Reale Arena,"San Sebastian, Spain",28733.0
+Round 24,4/3/2023,Getafe,3,5,0,0,Girona,2,4,0,0,Juan Martinez Munuera,4.91,0.19,Coliseum Alfonso Pérez,"Getafe, Spain",9802.0
+Round 24,4/3/2023,Almería,0,3,0,0,Villarreal,2,4,0,0,Pablo Gonzales Fuertes,5.87,0.37,Estadio del Mediterráneo,"Almeria, Spain",13311.0
+Round 24,4/3/2023,Mallorca,0,4,0,0,Elche,1,3,0,0,José Luis Munuera Montero,4.75,0.37,Estadi de Son Moix,"Palma, Spain",14065.0
+Round 24,4/3/2023,Atl. Madrid,6,1,0,0,Sevilla,1,3,0,1,Guillermo Cuadra Fernandez,5.02,0.27,Cívitas Metropolitano,"Madrid, Spain",57737.0
+Round 24,5/3/2023,Real Valladolid,2,3,0,0,Espanyol,1,2,0,0,Valentin Pizarro Gomez,5.01,0.32,José Zorrilla,"Valladolid, Spain",19212.0
+Round 24,5/3/2023,Barcelona,1,0,1,0,Valencia,0,0,0,0,Javier Alberola Rojas,3.7,0.15,Spotify Camp Nou,"Barcelona, Spain",89664.0
+Round 24,5/3/2023,Rayo Vallecano,0,1,0,0,Athletic Club,0,0,1,0,Mario Melero Lopez,5.54,0.21,Estadio de Vallecas,"Madrid, Spain",12979.0
+Round 24,5/3/2023,Betis,0,3,0,0,Real Madrid,0,4,0,0,Cesar Soto Grado,5.47,0.2,Benito Villamarin,"Seville, Spain",52212.0
+Round 24,6/3/2023,Osasuna,0,0,0,0,Celta,0,2,0,0,Jose Maria Sanchez Martinez,5.72,0.27,Estadio El Sadar,"Pamplona, Spain",17684.0
+Round 23,24/02/23,Elche,2,3,2,1,Betis,3,1,0,0,David Iglesias Gutierrez,6.0,3.0,Estadio Martínez Valero,"Elche, Spain",20643.0
+Round 23,25/02/23,Espanyol,2,2,0,0,Mallorca,1,2,0,0,Javier Alberola Rojas,3.7,0.15,RCDE Stadium,"Cornella, Spain",21403.0
+Round 23,25/02/23,Cádiz,1,3,0,0,Rayo Vallecano,0,3,0,1,Alejandro Muniz Ruiz,5.38,0.48,Estadio Ramon de Carranza,"Cadiz, Spain",16703.0
+Round 23,25/02/23,Real Madrid,1,3,0,0,Atl. Madrid,1,3,1,0,Jesus Gil Manzano,5.27,0.26,Santiago Bernabéu,"Madrid, Spain",64721.0
+Round 23,25/02/23,Valencia,1,6,0,0,Real Sociedad,0,3,0,0,Alejandro Hernandez,5.55,0.27,Mestalla,"Valencia, Spain",37465.0
+Round 23,26/02/23,Athletic Club,2,5,0,0,Girona,3,5,0,0,Isidro Diaz de Mera Escuderos,6.29,0.35,San Mamés,"Bilbao, Spain",42816.0
+Round 23,26/02/23,Celta,3,1,0,0,Real Valladolid,0,3,1,0,Ricardo De Burgos Bengoetxea,4.97,0.18,Municipal de Balaidos,"Vigo, Spain",14755.0
+Round 23,26/02/23,Almería,1,3,0,0,Barcelona,0,3,0,0,Miguel Angel Ortiz Arias,5.1,0.35,Estadio del Mediterráneo,"Almeria, Spain",15279.0
+Round 23,26/02/23,Sevilla,2,4,1,0,Osasuna,3,2,0,0,Juan Luis Pulido Santana,4.88,0.28,Ramón Sánchez Pizjuán,"Seville, Spain",34538.0
+Round 23,27/02/23,Villarreal,2,0,0,0,Getafe,1,1,0,0,Jorge Figueroa Vazquez,4.8,0.36,Estadio de la Ceramica,"Villarreal, Spain",13090.0
+Round 22,17/02/23,Girona,6,1,0,0,Almería,2,1,0,0,Valentin Pizarro Gomez,5.01,0.32,Estadi Montilivi,"Girona, Spain",8879.0
+Round 22,18/02/23,Real Sociedad,1,3,0,0,Celta,1,4,0,1,Miguel Angel Ortiz Arias,5.1,0.35,Reale Arena,"San Sebastian, Spain",29312.0
+Round 22,18/02/23,Betis,2,3,0,0,Real Valladolid,1,5,0,0,Antonio Mateu Lahoz,5.17,0.22,Benito Villamarin,"Seville, Spain",51396.0
+Round 22,18/02/23,Mallorca,4,5,0,0,Villarreal,2,0,1,0,Jose Maria Sanchez Martinez,5.72,0.27,Estadi de Son Moix,"Palma, Spain",13957.0
+Round 22,18/02/23,Osasuna,0,3,0,0,Real Madrid,2,2,0,0,José Luis Munuera Montero,4.75,0.37,Estadio El Sadar,"Pamplona, Spain",21668.0
+Round 22,19/02/23,Elche,0,1,0,1,Espanyol,1,3,0,0,Carlos Del Cerro Grande,4.81,0.22,Estadio Martínez Valero,"Elche, Spain",18963.0
+Round 22,19/02/23,Rayo Vallecano,1,4,0,0,Sevilla,1,1,0,0,Jesus Gil Manzano,5.27,0.26,Estadio de Vallecas,"Madrid, Spain",13294.0
+Round 22,19/02/23,Atl. Madrid,1,2,0,0,Athletic Club,0,3,0,0,Juan Martinez Munuera,4.91,0.19,Cívitas Metropolitano,"Madrid, Spain",61617.0
+Round 22,19/02/23,Barcelona,2,2,0,0,Cádiz,0,3,0,0,Pablo Gonzales Fuertes,5.87,0.37,Spotify Camp Nou,"Barcelona, Spain",72010.0
+Round 22,20/02/23,Getafe,1,6,0,0,Valencia,0,1,0,0,Mario Melero Lopez,5.54,0.21,Coliseum Alfonso Pérez,"Getafe, Spain",10112.0
+Round 21,10/2/2023,Cádiz,2,4,0,0,Girona,0,4,0,0,Juan Luis Pulido Santana,4.88,0.28,Estadio Ramon de Carranza,"Cadiz, Spain",14873.0
+Round 21,11/2/2023,Almería,2,2,0,0,Betis,3,3,0,0,Javier Alberola Rojas,3.7,0.15,Estadio del Mediterráneo,"Almeria, Spain",14288.0
+Round 21,11/2/2023,Sevilla,2,4,0,0,Mallorca,0,2,0,0,Javier Iglesias Villanueva,4.83,0.29,Ramón Sánchez Pizjuán,"Seville, Spain",35150.0
+Round 21,11/2/2023,Valencia,1,2,0,0,Athletic Club,2,2,0,0,Cesar Soto Grado,5.47,0.2,Mestalla,"Valencia, Spain",36688.0
+Round 21,12/2/2023,Getafe,1,3,0,1,Rayo Vallecano,1,4,0,0,Isidro Diaz de Mera Escuderos,6.29,0.35,Coliseum Alfonso Pérez,"Getafe, Spain",12042.0
+Round 21,12/2/2023,Celta,0,2,0,0,Atl. Madrid,1,2,1,0,Jorge Figueroa Vazquez,4.8,0.36,Municipal de Balaidos,"Vigo, Spain",15842.0
+Round 21,12/2/2023,Real Valladolid,0,1,0,0,Osasuna,0,3,0,0,Guillermo Cuadra Fernandez,5.02,0.27,José Zorrilla,"Valladolid, Spain",21044.0
+Round 21,12/2/2023,Villarreal,0,4,0,0,Barcelona,1,4,0,0,Alejandro Hernandez,5.55,0.27,Estadio de la Ceramica,"Villarreal, Spain",21178.0
+Round 21,13/02/23,Espanyol,2,3,0,1,Real Sociedad,3,1,0,0,Alejandro Muniz Ruiz,5.38,0.48,RCDE Stadium,"Cornella, Spain",15867.0
+Round 21,15/02/23,Real Madrid,4,1,0,0,Elche,0,3,0,0,Ricardo De Burgos Bengoetxea,4.97,0.18,Santiago Bernabéu,"Madrid, Spain",44319.0
+Round 20,3/2/2023,Athletic Club,4,1,0,1,Cádiz,1,1,0,0,Valentin Pizarro Gomez,5.01,0.32,San Mamés,"Bilbao, Spain",42916.0
+Round 20,4/2/2023,Espanyol,1,2,0,1,Osasuna,1,4,0,1,Jesus Gil Manzano,5.27,0.26,RCDE Stadium,"Cornella, Spain",22438.0
+Round 20,4/2/2023,Elche,3,4,0,0,Villarreal,1,2,0,0,José Luis Munuera Montero,4.75,0.37,Estadio Martínez Valero,"Elche, Spain",18421.0
+Round 20,4/2/2023,Atl. Madrid,1,3,0,0,Getafe,1,5,0,0,Antonio Mateu Lahoz,5.17,0.22,Cívitas Metropolitano,"Madrid, Spain",56079.0
+Round 20,4/2/2023,Betis,3,3,1,0,Celta,4,3,0,0,Carlos Del Cerro Grande,4.81,0.22,Benito Villamarin,"Seville, Spain",46595.0
+Round 20,5/2/2023,Mallorca,1,5,0,0,Real Madrid,0,5,0,0,Alejandro Hernandez,5.55,0.27,Estadi de Son Moix,"Palma, Spain",18258.0
+Round 20,5/2/2023,Girona,1,1,0,0,Valencia,0,4,0,0,Javier Iglesias Villanueva,4.83,0.29,Estadi Montilivi,"Girona, Spain",10732.0
+Round 20,5/2/2023,Real Sociedad,0,4,0,0,Real Valladolid,1,5,0,0,Pablo Gonzales Fuertes,5.87,0.37,Reale Arena,"San Sebastian, Spain",32214.0
+Round 20,5/2/2023,Barcelona,3,0,0,0,Sevilla,0,2,0,0,Jose Maria Sanchez Martinez,5.72,0.27,Spotify Camp Nou,"Barcelona, Spain",77987.0
+Round 20,6/2/2023,Rayo Vallecano,2,3,0,0,Almería,0,3,0,0,Cesar Soto Grado,5.47,0.2,Estadio de Vallecas,"Madrid, Spain",11783.0
+Round 19,27/01/23,Almería,3,3,0,0,Espanyol,1,3,0,0,Javier Iglesias Villanueva,4.83,0.29,Estadio del Mediterráneo,"Almeria, Spain",11269.0
+Round 19,28/01/23,Cádiz,2,2,0,0,Mallorca,0,2,0,0,Ricardo De Burgos Bengoetxea,4.97,0.18,Estadio Ramon de Carranza,"Cadiz, Spain",16117.0
+Round 19,28/01/23,Girona,0,2,0,0,Barcelona,1,3,0,0,Alejandro Muniz Ruiz,5.38,0.48,Estadi Montilivi,"Girona, Spain",13402.0
+Round 19,28/01/23,Sevilla,3,1,0,0,Elche,0,3,1,0,Cesar Soto Grado,5.47,0.2,Ramón Sánchez Pizjuán,"Seville, Spain",35567.0
+Round 19,28/01/23,Getafe,0,4,0,0,Betis,1,2,0,0,Guillermo Cuadra Fernandez,5.02,0.27,Coliseum Alfonso Pérez,"Getafe, Spain",11851.0
+Round 19,29/01/23,Real Valladolid,1,3,0,0,Valencia,0,1,0,0,Jorge Figueroa Vazquez,4.8,0.36,José Zorrilla,"Valladolid, Spain",19675.0
+Round 19,29/01/23,Osasuna,0,1,0,0,Atl. Madrid,1,0,0,0,Javier Alberola Rojas,3.7,0.15,Estadio El Sadar,"Pamplona, Spain",20902.0
+Round 19,29/01/23,Celta,1,2,0,0,Athletic Club,0,2,0,0,Isidro Diaz de Mera Escuderos,6.29,0.35,Municipal de Balaidos,"Vigo, Spain",14754.0
+Round 19,29/01/23,Real Madrid,0,1,0,0,Real Sociedad,0,4,0,0,Mario Melero Lopez,5.54,0.21,Santiago Bernabéu,"Madrid, Spain",58129.0
+Round 19,30/01/23,Villarreal,0,2,0,0,Rayo Vallecano,1,3,0,0,Juan Luis Pulido Santana,4.88,0.28,Estadio de la Ceramica,"Villarreal, Spain",14378.0
+Round 18,20/01/23,Mallorca,1,2,0,0,Celta,0,3,0,0,Juan Luis Pulido Santana,4.88,0.28,Estadi de Son Moix,"Palma, Spain",12253.0
+Round 18,21/01/23,Rayo Vallecano,0,0,0,0,Real Sociedad,2,0,0,0,Antonio Mateu Lahoz,5.17,0.22,Estadio de Vallecas,"Madrid, Spain",12874.0
+Round 18,21/01/23,Espanyol,1,3,0,0,Betis,0,2,0,0,Pablo Gonzales Fuertes,5.87,0.37,RCDE Stadium,"Cornella, Spain",20811.0
+Round 18,21/01/23,Atl. Madrid,3,1,0,0,Real Valladolid,0,1,0,0,Ricardo De Burgos Bengoetxea,4.97,0.18,Cívitas Metropolitano,"Madrid, Spain",53253.0
+Round 18,21/01/23,Sevilla,1,1,0,0,Cádiz,0,3,0,1,Alejandro Hernandez,5.55,0.27,Ramón Sánchez Pizjuán,"Seville, Spain",37400.0
+Round 18,22/01/23,Villarreal,1,5,0,0,Girona,0,4,0,1,Carlos Del Cerro Grande,4.81,0.22,Estadio de la Ceramica,"Villarreal, Spain",15129.0
+Round 18,22/01/23,Elche,1,2,0,0,Osasuna,1,1,0,0,Alejandro Muniz Ruiz,5.38,0.48,Estadio Martínez Valero,"Elche, Spain",17589.0
+Round 18,22/01/23,Barcelona,1,1,0,0,Getafe,0,2,0,0,Javier Iglesias Villanueva,4.83,0.29,Spotify Camp Nou,"Barcelona, Spain",79814.0
+Round 18,22/01/23,Athletic Club,0,3,0,0,Real Madrid,2,2,0,0,Jose Maria Sanchez Martinez,5.72,0.27,San Mamés,"Bilbao, Spain",49316.0
+Round 18,23/01/23,Valencia,2,2,0,0,Almería,2,1,0,0,Jesus Gil Manzano,5.27,0.26,Mestalla,"Valencia, Spain",33442.0
+Round 17,13/01/23,Celta,1,0,0,0,Villarreal,1,2,0,0,Javier Alberola Rojas,3.7,0.15,Municipal de Balaidos,"Vigo, Spain",13931.0
+Round 17,14/01/23,Real Valladolid,0,2,0,0,Rayo Vallecano,1,2,0,0,Mario Melero Lopez,5.54,0.21,José Zorrilla,"Valladolid, Spain",19969.0
+Round 17,14/01/23,Girona,2,3,0,0,Sevilla,1,1,0,0,Valentin Pizarro Gomez,5.01,0.32,Estadi Montilivi,"Girona, Spain",12035.0
+Round 17,14/01/23,Osasuna,1,2,0,0,Mallorca,0,3,0,0,Cesar Soto Grado,5.47,0.2,Estadio El Sadar,"Pamplona, Spain",19887.0
+Round 17,14/01/23,Real Sociedad,3,5,0,0,Athletic Club,1,2,1,0,Guillermo Cuadra Fernandez,5.02,0.27,Reale Arena,"San Sebastian, Spain",38216.0
+Round 17,15/01/23,Getafe,1,2,0,0,Espanyol,2,3,0,0,Jorge Figueroa Vazquez,4.8,0.36,Coliseum Alfonso Pérez,"Getafe, Spain",10286.0
+Round 17,15/01/23,Almería,1,4,0,0,Atl. Madrid,1,3,0,1,Jose Maria Sanchez Martinez,5.72,0.27,Estadio del Mediterráneo,"Almeria, Spain",14128.0
+Round 17,16/01/23,Cádiz,1,3,0,0,Elche,1,2,0,0,Carlos Del Cerro Grande,4.81,0.22,Estadio Ramon de Carranza,"Cadiz, Spain",17389.0
+Round 17,1/2/2023,Betis,1,3,1,0,Barcelona,2,0,0,0,Ricardo De Burgos Bengoetxea,4.97,0.18,Benito Villamarin,"Seville, Spain",48181.0
+Round 17,2/2/2023,Real Madrid,2,3,0,0,Valencia,0,1,1,0,Javier Alberola Rojas,3.7,0.15,Santiago Bernabéu,"Madrid, Spain",51926.0
+Round 16,6/1/2023,Elche,0,3,1,0,Celta,1,1,0,0,Miguel Angel Ortiz Arias,5.1,0.35,Estadio Martínez Valero,"Elche, Spain",20121.0
+Round 16,6/1/2023,Valencia,0,5,0,0,Cádiz,1,6,0,0,Pablo Gonzales Fuertes,5.87,0.37,Mestalla,"Valencia, Spain",39703.0
+Round 16,7/1/2023,Villarreal,2,4,0,0,Real Madrid,1,1,0,0,Cesar Soto Grado,5.47,0.2,Estadio de la Ceramica,"Villarreal, Spain",21088.0
+Round 16,7/1/2023,Mallorca,1,2,0,0,Real Valladolid,0,3,0,0,Valentin Pizarro Gomez,5.01,0.32,Estadi de Son Moix,"Palma, Spain",14129.0
+Round 16,7/1/2023,Espanyol,2,3,0,0,Girona,2,2,0,0,Carlos Del Cerro Grande,4.81,0.22,RCDE Stadium,"Cornella, Spain",21429.0
+Round 16,8/1/2023,Almería,0,1,0,0,Real Sociedad,2,0,0,0,Javier Alberola Rojas,3.7,0.15,Estadio del Mediterráneo,"Almeria, Spain",12020.0
+Round 16,8/1/2023,Rayo Vallecano,1,3,0,0,Betis,2,2,0,0,Isidro Diaz de Mera Escuderos,6.29,0.35,Estadio de Vallecas,"Madrid, Spain",13119.0
+Round 16,8/1/2023,Sevilla,2,3,0,0,Getafe,1,3,0,0,Juan Martinez Munuera,4.91,0.19,Ramón Sánchez Pizjuán,"Seville, Spain",35389.0
+Round 16,8/1/2023,Atl. Madrid,0,2,1,0,Barcelona,1,3,1,0,José Luis Munuera Montero,4.75,0.37,Cívitas Metropolitano,"Madrid, Spain",63493.0
+Round 16,9/1/2023,Athletic Club,0,0,0,0,Osasuna,0,1,0,0,Mario Melero Lopez,5.54,0.21,San Mamés,"Bilbao, Spain",39216.0
+Round 15,29/12/22,Girona,2,3,0,0,Rayo Vallecano,2,2,0,0,Jorge Figueroa Vazquez,4.8,0.36,Estadi Montilivi,"Girona, Spain",11451.0
+Round 15,29/12/22,Betis,0,1,1,0,Athletic Club,0,4,0,0,Alejandro Hernandez,5.55,0.27,Benito Villamarin,"Seville, Spain",53565.0
+Round 15,29/12/22,Atl. Madrid,2,2,0,1,Elche,0,3,1,1,Guillermo Cuadra Fernandez,5.02,0.27,Cívitas Metropolitano,"Madrid, Spain",48119.0
+Round 15,30/12/22,Getafe,2,0,0,0,Mallorca,0,1,0,0,Javier Alberola Rojas,3.7,0.15,Coliseum Alfonso Pérez,"Getafe, Spain",9755.0
+Round 15,30/12/22,Cádiz,1,2,0,0,Almería,1,0,0,0,Juan Martinez Munuera,4.91,0.19,Estadio Ramon de Carranza,"Cadiz, Spain",17345.0
+Round 15,30/12/22,Celta,1,2,0,0,Sevilla,1,3,0,1,Ricardo De Burgos Bengoetxea,4.97,0.18,Municipal de Balaidos,"Vigo, Spain",13653.0
+Round 15,30/12/22,Real Valladolid,0,2,1,0,Real Madrid,2,0,0,0,José Luis Munuera Montero,4.75,0.37,José Zorrilla,"Valladolid, Spain",25950.0
+Round 15,31/12/22,Barcelona,1,6,0,1,Espanyol,1,7,0,1,Antonio Mateu Lahoz,5.17,0.22,Spotify Camp Nou,"Barcelona, Spain",88095.0
+Round 15,31/12/22,Real Sociedad,2,1,0,0,Osasuna,0,1,0,0,Valentin Pizarro Gomez,5.01,0.32,Reale Arena,"San Sebastian, Spain",34847.0
+Round 15,31/12/22,Villarreal,2,1,0,0,Valencia,1,4,0,0,Jose Maria Sanchez Martinez,5.72,0.27,Estadio de la Ceramica,"Villarreal, Spain",19247.0
+Round 14,8/11/2022,Elche,1,3,0,0,Girona,2,2,0,0,Pablo Gonzales Fuertes,5.87,0.37,Estadio Martínez Valero,"Elche, Spain",17339.0
+Round 14,8/11/2022,Athletic Club,3,3,0,0,Real Valladolid,0,1,0,0,Isidro Diaz de Mera Escuderos,6.29,0.35,San Mamés,"Bilbao, Spain",40072.0
+Round 14,8/11/2022,Osasuna,1,4,0,0,Barcelona,2,3,1,1,Jesus Gil Manzano,5.27,0.26,Estadio El Sadar,"Pamplona, Spain",21603.0
+Round 14,9/11/2022,Almería,1,7,0,1,Getafe,0,4,0,0,Alejandro Muniz Ruiz,5.38,0.48,Estadio del Mediterráneo,"Almeria, Spain",11454.0
+Round 14,9/11/2022,Sevilla,1,2,2,0,Real Sociedad,2,2,0,0,Carlos Del Cerro Grande,4.81,0.22,Ramón Sánchez Pizjuán,"Seville, Spain",34814.0
+Round 14,9/11/2022,Espanyol,0,1,0,0,Villarreal,1,3,0,0,Javier Iglesias Villanueva,4.83,0.29,RCDE Stadium,"Cornella, Spain",17400.0
+Round 14,9/11/2022,Mallorca,1,5,0,0,Atl. Madrid,0,3,0,0,Mario Melero Lopez,5.54,0.21,Estadi de Son Moix,"Palma, Spain",14475.0
+Round 14,10/11/2022,Rayo Vallecano,0,7,0,0,Celta,0,1,0,0,José Luis Munuera Montero,4.75,0.37,Estadio de Vallecas,"Madrid, Spain",12419.0
+Round 14,10/11/2022,Valencia,3,1,0,0,Betis,0,2,0,1,Miguel Angel Ortiz Arias,5.1,0.35,Mestalla,"Valencia, Spain",36010.0
+Round 14,10/11/2022,Real Madrid,2,3,0,0,Cádiz,1,3,0,0,Cesar Soto Grado,5.47,0.2,Santiago Bernabéu,"Madrid, Spain",53190.0
+Round 13,4/11/2022,Girona,2,1,0,0,Athletic Club,1,1,0,0,Valentin Pizarro Gomez,5.01,0.32,Estadi Montilivi,"Girona, Spain",11420.0
+Round 13,5/11/2022,Getafe,0,5,1,1,Cádiz,0,1,0,1,Alejandro Hernandez,5.55,0.27,Coliseum Alfonso Pérez,"Getafe, Spain",10554.0
+Round 13,5/11/2022,Real Valladolid,2,2,0,0,Elche,1,0,0,0,Ricardo De Burgos Bengoetxea,4.97,0.18,José Zorrilla,"Valladolid, Spain",20176.0
+Round 13,5/11/2022,Celta,1,1,0,0,Osasuna,2,5,0,0,Jorge Figueroa Vazquez,4.8,0.36,Municipal de Balaidos,"Vigo, Spain",14209.0
+Round 13,5/11/2022,Barcelona,2,2,0,0,Almería,0,1,0,0,Pablo Gonzales Fuertes,5.87,0.37,Spotify Camp Nou,"Barcelona, Spain",92605.0
+Round 13,6/11/2022,Atl. Madrid,1,3,0,0,Espanyol,1,5,1,0,Juan Luis Pulido Santana,4.88,0.28,Cívitas Metropolitano,"Madrid, Spain",50007.0
+Round 13,6/11/2022,Real Sociedad,1,2,1,0,Valencia,1,0,0,0,José Luis Munuera Montero,4.75,0.37,Reale Arena,"San Sebastian, Spain",32773.0
+Round 13,6/11/2022,Villarreal,0,4,0,0,Mallorca,2,6,0,0,Alejandro Muniz Ruiz,5.38,0.48,Estadio de la Ceramica,"Villarreal, Spain",16603.0
+Round 13,6/11/2022,Betis,1,4,2,0,Sevilla,1,5,1,0,Jose Maria Sanchez Martinez,5.72,0.27,Benito Villamarin,"Seville, Spain",54034.0
+Round 13,7/11/2022,Rayo Vallecano,3,4,0,0,Real Madrid,2,5,0,0,Juan Martinez Munuera,4.91,0.19,Estadio de Vallecas,"Madrid, Spain",14216.0
+Round 12,28/10/22,Mallorca,1,4,1,0,Espanyol,1,1,0,0,Isidro Diaz de Mera Escuderos,6.29,0.35,Estadi de Son Moix,"Palma, Spain",13982.0
+Round 12,29/10/22,Almería,3,4,0,0,Celta,1,0,1,0,Carlos Del Cerro Grande,4.81,0.22,Estadio del Mediterráneo,"Almeria, Spain",11080.0
+Round 12,29/10/22,Cádiz,3,2,0,0,Atl. Madrid,2,4,0,0,Jose Maria Sanchez Martinez,5.72,0.27,Estadio Ramon de Carranza,"Cadiz, Spain",18183.0
+Round 12,29/10/22,Sevilla,0,6,0,0,Rayo Vallecano,1,1,0,0,Antonio Mateu Lahoz,5.17,0.22,Ramón Sánchez Pizjuán,"Seville, Spain",36601.0
+Round 12,29/10/22,Valencia,0,4,0,0,Barcelona,1,5,0,0,Ricardo De Burgos Bengoetxea,4.97,0.18,Mestalla,"Valencia, Spain",46007.0
+Round 12,30/10/22,Osasuna,2,1,0,0,Real Valladolid,0,3,0,0,Guillermo Cuadra Fernandez,5.02,0.27,Estadio El Sadar,"Pamplona, Spain",19429.0
+Round 12,30/10/22,Real Madrid,1,2,0,1,Girona,1,3,0,0,Mario Melero Lopez,5.54,0.21,Santiago Bernabéu,"Madrid, Spain",58367.0
+Round 12,30/10/22,Athletic Club,1,2,0,0,Villarreal,0,1,0,0,Miguel Angel Ortiz Arias,5.1,0.35,San Mamés,"Bilbao, Spain",46081.0
+Round 12,30/10/22,Real Sociedad,0,4,0,0,Betis,2,4,0,0,Javier Iglesias Villanueva,4.83,0.29,Reale Arena,"San Sebastian, Spain",32435.0
+Round 12,31/10/22,Elche,0,0,0,0,Getafe,1,2,0,1,Cesar Soto Grado,5.47,0.2,Estadio Martínez Valero,"Elche, Spain",19588.0
+Round 11,22/10/22,Rayo Vallecano,5,1,1,0,Cádiz,1,3,1,1,Alejandro Muniz Ruiz,5.38,0.48,Estadio de Vallecas,"Madrid, Spain",12975.0
+Round 11,22/10/22,Real Valladolid,1,2,0,0,Real Sociedad,0,3,0,0,Jorge Figueroa Vazquez,4.8,0.36,José Zorrilla,"Valladolid, Spain",21175.0
+Round 11,22/10/22,Valencia,1,3,0,0,Mallorca,2,5,0,0,Jose Maria Sanchez Martinez,5.72,0.27,Mestalla,"Valencia, Spain",41199.0
+Round 11,22/10/22,Real Madrid,3,1,0,0,Sevilla,1,4,0,0,Alejandro Hernandez,5.55,0.27,Santiago Bernabéu,"Madrid, Spain",59625.0
+Round 11,23/10/22,Espanyol,2,2,0,0,Elche,2,3,0,0,José Luis Munuera Montero,4.75,0.37,RCDE Stadium,"Cornella, Spain",17560.0
+Round 11,23/10/22,Betis,1,2,0,0,Atl. Madrid,2,3,0,0,Jesus Gil Manzano,5.27,0.26,Benito Villamarin,"Seville, Spain",50179.0
+Round 11,23/10/22,Girona,1,2,0,0,Osasuna,1,3,0,0,Juan Luis Pulido Santana,4.88,0.28,Estadi Montilivi,"Girona, Spain",10032.0
+Round 11,23/10/22,Villarreal,2,3,1,1,Almería,1,1,0,0,Ricardo De Burgos Bengoetxea,4.97,0.18,Estadio de la Ceramica,"Villarreal, Spain",13816.0
+Round 11,23/10/22,Barcelona,4,2,0,0,Athletic Club,0,2,0,0,Juan Martinez Munuera,4.91,0.19,Spotify Camp Nou,"Barcelona, Spain",84817.0
+Round 11,24/10/22,Celta,1,1,0,0,Getafe,1,1,0,0,Pablo Gonzales Fuertes,5.87,0.37,Municipal de Balaidos,"Vigo, Spain",9774.0
+Round 10,18/10/22,Sevilla,1,4,1,0,Valencia,1,6,0,0,Cesar Soto Grado,5.47,0.2,Ramón Sánchez Pizjuán,"Seville, Spain",37353.0
+Round 10,18/10/22,Getafe,2,6,0,0,Athletic Club,2,4,0,0,José Luis Munuera Montero,4.75,0.37,Coliseum Alfonso Pérez,"Getafe, Spain",11395.0
+Round 10,18/10/22,Atl. Madrid,1,3,0,0,Rayo Vallecano,1,0,0,0,Javier Iglesias Villanueva,4.83,0.29,Cívitas Metropolitano,"Madrid, Spain",46803.0
+Round 10,19/10/22,Cádiz,0,1,0,0,Betis,0,1,0,1,Antonio Mateu Lahoz,5.17,0.22,Estadio Ramon de Carranza,"Cadiz, Spain",18505.0
+Round 10,19/10/22,Real Valladolid,4,1,0,0,Celta,1,1,0,0,Valentin Pizarro Gomez,5.01,0.32,José Zorrilla,"Valladolid, Spain",16547.0
+Round 10,19/10/22,Real Sociedad,1,1,0,0,Mallorca,0,2,0,0,Miguel Angel Ortiz Arias,5.1,0.35,Reale Arena,"San Sebastian, Spain",27085.0
+Round 10,19/10/22,Elche,0,1,0,0,Real Madrid,3,1,0,0,Jesus Gil Manzano,5.27,0.26,Estadio Martínez Valero,"Elche, Spain",30236.0
+Round 10,20/10/22,Almería,3,1,0,0,Girona,2,3,0,0,Guillermo Cuadra Fernandez,5.02,0.27,Estadio del Mediterráneo,"Almeria, Spain",11194.0
+Round 10,20/10/22,Osasuna,1,1,0,0,Espanyol,0,2,0,0,Mario Melero Lopez,5.54,0.21,Estadio El Sadar,"Pamplona, Spain",17832.0
+Round 10,20/10/22,Barcelona,3,0,0,0,Villarreal,0,1,0,0,Carlos Del Cerro Grande,4.81,0.22,Spotify Camp Nou,"Barcelona, Spain",73261.0
+Round 9,14/10/22,Rayo Vallecano,0,2,0,0,Getafe,0,3,0,0,Mario Melero Lopez,5.54,0.21,Estadio de Vallecas,"Madrid, Spain",13076.0
+Round 9,15/10/22,Girona,1,5,0,0,Cádiz,1,4,0,0,Ricardo De Burgos Bengoetxea,4.97,0.18,Estadi Montilivi,"Girona, Spain",9927.0
+Round 9,15/10/22,Valencia,2,3,0,0,Elche,2,6,0,0,Juan Luis Pulido Santana,4.88,0.28,Mestalla,"Valencia, Spain",41805.0
+Round 9,15/10/22,Mallorca,0,2,0,0,Sevilla,1,3,0,0,Javier Iglesias Villanueva,4.83,0.29,Estadi de Son Moix,"Palma, Spain",15300.0
+Round 9,15/10/22,Athletic Club,0,0,0,0,Atl. Madrid,1,6,0,0,Jorge Figueroa Vazquez,4.8,0.36,San Mamés,"Bilbao, Spain",48391.0
+Round 9,16/10/22,Celta,1,5,1,0,Real Sociedad,2,7,0,0,Guillermo Cuadra Fernandez,5.02,0.27,Municipal de Balaidos,"Vigo, Spain",13101.0
+Round 9,16/10/22,Real Madrid,3,2,0,0,Barcelona,1,2,0,0,Jose Maria Sanchez Martinez,5.72,0.27,Santiago Bernabéu,"Madrid, Spain",62876.0
+Round 9,16/10/22,Espanyol,1,1,0,0,Real Valladolid,0,4,0,0,Antonio Mateu Lahoz,5.17,0.22,RCDE Stadium,"Cornella, Spain",17770.0
+Round 9,16/10/22,Betis,3,1,0,0,Almería,1,1,0,0,Alejandro Muniz Ruiz,5.38,0.48,Benito Villamarin,"Seville, Spain",46112.0
+Round 9,17/10/22,Villarreal,2,2,0,0,Osasuna,0,6,0,0,Pablo Gonzales Fuertes,5.87,0.37,Estadio Ciudad de Valencia,"Valencia, Spain",9699.0
+Round 8,7/10/2022,Osasuna,1,3,2,0,Valencia,2,5,0,1,Miguel Angel Ortiz Arias,5.1,0.35,Estadio El Sadar,"Pamplona, Spain",20260.0
+Round 8,8/10/2022,Almería,3,3,0,1,Rayo Vallecano,1,2,0,0,Pablo Gonzales Fuertes,5.87,0.37,Estadio del Mediterráneo,"Almeria, Spain",10783.0
+Round 8,8/10/2022,Atl. Madrid,2,3,0,0,Girona,1,1,0,0,Juan Martinez Munuera,4.91,0.19,Cívitas Metropolitano,"Madrid, Spain",54069.0
+Round 8,8/10/2022,Sevilla,1,4,0,0,Athletic Club,1,0,1,0,Jesus Gil Manzano,5.27,0.26,Ramón Sánchez Pizjuán,"Seville, Spain",36502.0
+Round 8,8/10/2022,Getafe,0,0,0,0,Real Madrid,1,0,0,0,Antonio Mateu Lahoz,5.17,0.22,Coliseum Alfonso Pérez,"Getafe, Spain",14502.0
+Round 8,9/10/2022,Real Valladolid,0,1,0,0,Betis,0,1,1,0,Carlos Del Cerro Grande,4.81,0.22,José Zorrilla,"Valladolid, Spain",22561.0
+Round 8,9/10/2022,Cádiz,2,4,0,0,Espanyol,2,4,0,0,Alejandro Hernandez,5.55,0.27,Estadio Ramon de Carranza,"Cadiz, Spain",16572.0
+Round 8,9/10/2022,Real Sociedad,1,5,0,0,Villarreal,0,3,0,0,Cesar Soto Grado,5.47,0.2,Reale Arena,"San Sebastian, Spain",32689.0
+Round 8,9/10/2022,Barcelona,1,2,0,0,Celta,0,4,0,0,José Luis Munuera Montero,4.75,0.37,Spotify Camp Nou,"Barcelona, Spain",81525.0
+Round 8,10/10/2022,Elche,1,4,1,0,Mallorca,1,5,1,0,Valentin Pizarro Gomez,5.01,0.32,Estadio Martínez Valero,"Elche, Spain",12000.0
+Round 7,30/09/22,Athletic Club,4,1,0,0,Almería,0,3,0,0,Juan Luis Pulido Santana,4.88,0.28,San Mamés,"Bilbao, Spain",42110.0
+Round 7,1/10/2022,Cádiz,0,2,1,0,Villarreal,0,3,0,0,Javier Iglesias Villanueva,4.83,0.29,Estadio Ramon de Carranza,"Cadiz, Spain",15516.0
+Round 7,1/10/2022,Getafe,2,2,0,0,Real Valladolid,3,5,0,0,Alejandro Muniz Ruiz,5.38,0.48,Coliseum Alfonso Pérez,"Getafe, Spain",10958.0
+Round 7,1/10/2022,Sevilla,0,3,0,0,Atl. Madrid,2,2,0,0,Ricardo De Burgos Bengoetxea,4.97,0.18,Ramón Sánchez Pizjuán,"Seville, Spain",37754.0
+Round 7,1/10/2022,Mallorca,0,2,0,0,Barcelona,1,4,0,0,Jesus Gil Manzano,5.27,0.26,Estadi de Son Moix,"Palma, Spain",18103.0
+Round 7,2/10/2022,Espanyol,2,2,1,0,Valencia,2,1,1,0,Valentin Pizarro Gomez,5.01,0.32,RCDE Stadium,"Cornella, Spain",19766.0
+Round 7,2/10/2022,Celta,1,4,0,0,Betis,0,3,1,0,Cesar Soto Grado,5.47,0.2,Municipal de Balaidos,"Vigo, Spain",14344.0
+Round 7,2/10/2022,Girona,3,3,0,0,Real Sociedad,5,1,0,0,Mario Melero Lopez,5.54,0.21,Estadi Montilivi,"Girona, Spain",12217.0
+Round 7,2/10/2022,Real Madrid,1,1,0,0,Osasuna,1,2,1,0,Guillermo Cuadra Fernandez,5.02,0.27,Santiago Bernabéu,"Madrid, Spain",55410.0
+Round 7,3/10/2022,Rayo Vallecano,2,1,0,0,Elche,1,8,0,0,Jorge Figueroa Vazquez,4.8,0.36,Estadio de Vallecas,"Madrid, Spain",11662.0
+Round 6,16/09/22,Real Valladolid,0,1,0,0,Cádiz,1,4,0,0,Jose Maria Sanchez Martinez,5.72,0.27,José Zorrilla,"Valladolid, Spain",20295.0
+Round 6,17/09/22,Mallorca,1,3,0,0,Almería,0,6,0,0,Juan Martinez Munuera,4.91,0.19,Estadi de Son Moix,"Palma, Spain",12677.0
+Round 6,17/09/22,Barcelona,3,2,0,0,Elche,0,2,1,0,Alejandro Muniz Ruiz,5.38,0.48,Spotify Camp Nou,"Barcelona, Spain",85073.0
+Round 6,17/09/22,Valencia,3,3,0,0,Celta,0,2,1,0,Pablo Gonzales Fuertes,5.87,0.37,Mestalla,"Valencia, Spain",40965.0
+Round 6,17/09/22,Athletic Club,3,1,0,0,Rayo Vallecano,2,2,0,0,Antonio Mateu Lahoz,5.17,0.22,San Mamés,"Bilbao, Spain",43484.0
+Round 6,18/09/22,Osasuna,0,7,1,0,Getafe,2,2,0,1,Isidro Diaz de Mera Escuderos,6.29,0.35,Estadio El Sadar,"Pamplona, Spain",18225.0
+Round 6,18/09/22,Villarreal,1,1,0,0,Sevilla,1,5,0,0,Alejandro Hernandez,5.55,0.27,Estadio Ciudad de Valencia,"Valencia, Spain",18292.0
+Round 6,18/09/22,Betis,2,0,0,0,Girona,1,3,0,0,Miguel Angel Ortiz Arias,5.1,0.35,Benito Villamarin,"Seville, Spain",52229.0
+Round 6,18/09/22,Real Sociedad,2,3,0,0,Espanyol,1,0,0,0,Carlos Del Cerro Grande,4.81,0.22,Reale Arena,"San Sebastian, Spain",31.0
+Round 6,18/09/22,Atl. Madrid,1,3,0,1,Real Madrid,2,2,0,0,José Luis Munuera Montero,4.75,0.37,Cívitas Metropolitano,"Madrid, Spain",66881.0
+Round 5,9/9/2022,Girona,2,0,0,0,Real Valladolid,1,2,0,0,Cesar Soto Grado,5.47,0.2,Estadi Montilivi,"Girona, Spain",10053.0
+Round 5,10/9/2022,Rayo Vallecano,2,5,0,0,Valencia,1,2,0,0,Jesus Gil Manzano,5.27,0.26,Estadio de Vallecas,"Madrid, Spain",12085.0
+Round 5,10/9/2022,Espanyol,2,3,0,0,Sevilla,3,4,0,1,Guillermo Cuadra Fernandez,5.02,0.27,RCDE Stadium,"Cornella, Spain",20135.0
+Round 5,10/9/2022,Cádiz,0,0,0,0,Barcelona,4,3,0,0,Carlos Del Cerro Grande,4.81,0.22,Estadio Ramon de Carranza,"Cadiz, Spain",19530.0
+Round 5,10/9/2022,Atl. Madrid,4,2,0,0,Celta,1,3,0,0,Alejandro Hernandez,5.55,0.27,Cívitas Metropolitano,"Madrid, Spain",52342.0
+Round 5,11/9/2022,Real Madrid,4,3,0,0,Mallorca,1,5,0,0,Jorge Figueroa Vazquez,4.8,0.36,Santiago Bernabéu,"Madrid, Spain",54816.0
+Round 5,11/9/2022,Elche,1,3,0,0,Athletic Club,4,0,0,0,Mario Melero Lopez,5.54,0.21,Estadio Martínez Valero,"Elche, Spain",24176.0
+Round 5,11/9/2022,Getafe,2,4,0,0,Real Sociedad,1,1,0,0,Juan Luis Pulido Santana,4.88,0.28,Coliseum Alfonso Pérez,"Getafe, Spain",11112.0
+Round 5,11/9/2022,Betis,1,1,0,0,Villarreal,0,1,0,0,Ricardo De Burgos Bengoetxea,4.97,0.18,Benito Villamarin,"Seville, Spain",53276.0
+Round 5,12/9/2022,Almería,0,0,0,0,Osasuna,1,2,0,0,Javier Iglesias Villanueva,4.83,0.29,Estadio del Mediterráneo,"Almeria, Spain",12397.0
+Round 4,2/9/2022,Celta,3,1,0,0,Cádiz,0,2,0,0,Juan Luis Pulido Santana,4.88,0.28,Municipal de Balaidos,"Vigo, Spain",14510.0
+Round 4,3/9/2022,Mallorca,1,4,0,0,Girona,1,2,0,0,Isidro Diaz de Mera Escuderos,6.29,0.35,Estadi de Son Moix,"Palma, Spain",13390.0
+Round 4,3/9/2022,Real Madrid,2,0,0,0,Betis,1,1,0,0,Jose Maria Sanchez Martinez,5.72,0.27,Santiago Bernabéu,"Madrid, Spain",58579.0
+Round 4,3/9/2022,Real Sociedad,1,5,0,0,Atl. Madrid,1,4,0,0,Cesar Soto Grado,5.47,0.2,Reale Arena,"San Sebastian, Spain",35366.0
+Round 4,3/9/2022,Sevilla,0,2,0,0,Barcelona,3,4,0,0,Antonio Mateu Lahoz,5.17,0.22,Ramón Sánchez Pizjuán,"Seville, Spain",40233.0
+Round 4,4/9/2022,Osasuna,2,2,0,0,Rayo Vallecano,1,2,0,0,Alejandro Muniz Ruiz,5.38,0.48,Estadio El Sadar,"Pamplona, Spain",18745.0
+Round 4,4/9/2022,Athletic Club,0,3,0,0,Espanyol,1,2,0,0,Juan Martinez Munuera,4.91,0.19,San Mamés,"Bilbao, Spain",41574.0
+Round 4,4/9/2022,Villarreal,4,1,0,0,Elche,0,3,0,0,Miguel Angel Ortiz Arias,5.1,0.35,Estadio de la Ceramica,"Villarreal, Spain",13915.0
+Round 4,4/9/2022,Valencia,5,2,0,1,Getafe,1,5,0,1,José Luis Munuera Montero,4.75,0.37,Mestalla,"Valencia, Spain",38725.0
+Round 4,5/9/2022,Real Valladolid,1,1,0,0,Almería,0,6,0,0,Pablo Gonzales Fuertes,5.87,0.37,José Zorrilla,"Valladolid, Spain",20260.0
+Round 3,26/08/22,Girona,0,2,0,0,Celta,1,1,0,0,Carlos Del Cerro Grande,4.81,0.22,Estadi Montilivi,"Girona, Spain",11329.0
+Round 3,26/08/22,Betis,1,0,1,0,Osasuna,0,3,0,0,Juan Martinez Munuera,4.91,0.19,Benito Villamarin,"Seville, Spain",52580.0
+Round 3,27/08/22,Elche,0,3,0,0,Real Sociedad,1,3,0,0,Javier Iglesias Villanueva,4.83,0.29,Estadio Martínez Valero,"Elche, Spain",22656.0
+Round 3,27/08/22,Rayo Vallecano,0,1,0,0,Mallorca,2,3,0,0,Jose Maria Sanchez Martinez,5.72,0.27,Estadio de Vallecas,"Madrid, Spain",10944.0
+Round 3,27/08/22,Almería,2,5,0,0,Sevilla,1,8,0,0,Jesus Gil Manzano,5.27,0.26,Estadio del Mediterráneo,"Almeria, Spain",13788.0
+Round 3,28/08/22,Getafe,0,1,0,0,Villarreal,0,5,0,0,Jorge Figueroa Vazquez,4.8,0.36,Coliseum Alfonso Pérez,"Getafe, Spain",9815.0
+Round 3,28/08/22,Barcelona,4,1,0,0,Real Valladolid,0,2,0,0,Ricardo De Burgos Bengoetxea,4.97,0.18,Spotify Camp Nou,"Barcelona, Spain",83972.0
+Round 3,28/08/22,Espanyol,1,0,1,0,Real Madrid,3,0,0,0,Mario Melero Lopez,5.54,0.21,RCDE Stadium,"Cornella, Spain",25778.0
+Round 3,29/08/22,Cádiz,0,2,0,0,Athletic Club,4,1,0,0,Miguel Angel Ortiz Arias,5.1,0.35,Estadio Ramon de Carranza,"Cadiz, Spain",17029.0
+Round 3,29/08/22,Valencia,0,4,0,0,Atl. Madrid,1,3,0,0,Guillermo Cuadra Fernandez,5.02,0.27,Mestalla,"Valencia, Spain",43910.0
+Round 2,19/08/22,Espanyol,0,2,1,0,Rayo Vallecano,2,4,0,1,Jorge Figueroa Vazquez,4.8,0.36,RCDE Stadium,"Cornella, Spain",16031.0
+Round 2,19/08/22,Sevilla,1,3,1,0,Real Valladolid,1,2,1,0,Juan Luis Pulido Santana,4.88,0.28,Ramón Sánchez Pizjuán,"Seville, Spain",33991.0
+Round 2,20/08/22,Osasuna,2,2,0,0,Cádiz,0,4,0,1,Antonio Mateu Lahoz,5.17,0.22,Estadio El Sadar,"Pamplona, Spain",18587.0
+Round 2,20/08/22,Mallorca,1,7,0,0,Betis,2,8,0,0,Pablo Gonzales Fuertes,5.87,0.37,Estadi de Son Moix,"Palma, Spain",15579.0
+Round 2,20/08/22,Celta,1,2,0,0,Real Madrid,4,2,0,0,Jesus Gil Manzano,5.27,0.26,Municipal de Balaidos,"Vigo, Spain",15681.0
+Round 2,21/08/22,Athletic Club,1,5,0,0,Valencia,0,2,0,0,Cesar Soto Grado,5.47,0.2,San Mamés,"Bilbao, Spain",43333.0
+Round 2,21/08/22,Atl. Madrid,0,2,1,0,Villarreal,2,3,0,0,Ricardo De Burgos Bengoetxea,4.97,0.18,Cívitas Metropolitano,"Madrid, Spain",57033.0
+Round 2,21/08/22,Real Sociedad,1,2,0,0,Barcelona,4,1,0,0,José Luis Munuera Montero,4.75,0.37,Reale Arena,"San Sebastian, Spain",36201.0
+Round 2,22/08/22,Elche,1,1,0,0,Almería,1,4,1,0,Isidro Diaz de Mera Escuderos,6.29,0.35,Estadio Martínez Valero,"Elche, Spain",23361.0
+Round 2,22/08/22,Girona,3,2,0,0,Getafe,1,6,1,0,Alejandro Muniz Ruiz,5.38,0.48,Estadi Montilivi,"Girona, Spain",10460.0
+Round 1,12/8/2022,Osasuna,2,5,0,0,Sevilla,1,3,0,0,Carlos Del Cerro Grande,4.81,0.22,Estadio El Sadar,"Pamplona, Spain",18536.0
+Round 1,13/08/22,Celta,2,5,0,0,Espanyol,2,2,0,0,Miguel Angel Ortiz Arias,5.1,0.35,Municipal de Balaidos,"Vigo, Spain",18859.0
+Round 1,13/08/22,Real Valladolid,0,1,0,0,Villarreal,3,0,0,0,Mario Melero Lopez,5.54,0.21,José Zorrilla,"Valladolid, Spain",17543.0
+Round 1,13/08/22,Barcelona,0,2,0,1,Rayo Vallecano,0,6,0,0,Alejandro Hernandez,5.55,0.27,Spotify Camp Nou,"Barcelona, Spain",81104.0
+Round 1,14/08/22,Cádiz,0,4,0,0,Real Sociedad,1,2,0,0,Isidro Diaz de Mera Escuderos,6.29,0.35,Estadio Ramon de Carranza,"Cadiz, Spain",16570.0
+Round 1,14/08/22,Valencia,1,2,1,0,Girona,0,3,0,0,Jorge Figueroa Vazquez,4.8,0.36,Mestalla,"Valencia, Spain",39359.0
+Round 1,14/08/22,Almería,1,3,0,0,Real Madrid,2,1,0,0,Juan Martinez Munuera,4.91,0.19,Estadio del Mediterráneo,"Almeria, Spain",14386.0
+Round 1,15/08/22,Athletic Club,0,0,0,0,Mallorca,0,6,0,0,Javier Iglesias Villanueva,4.83,0.29,San Mamés,"Bilbao, Spain",39747.0
+Round 1,15/08/22,Getafe,0,2,0,0,Atl. Madrid,3,1,0,0,Jose Maria Sanchez Martinez,5.72,0.27,Coliseum Alfonso Pérez,"Getafe, Spain",12235.0
+Round 1,15/08/22,Betis,3,3,0,0,Elche,0,6,1,0,Guillermo Cuadra Fernandez,5.02,0.27,Benito Villamarin,"Seville, Spain",50622.0
