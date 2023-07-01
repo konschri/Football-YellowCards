@@ -19,6 +19,7 @@ class process():
         self.RedLimit = redLimit
         print(f"The shape of loaded details data: {self.data_details.shape}")
         print(f"The shape of loaded statistics data: {self.data_statistics.shape}")
+        
     
     def run(self):
         self.dataPreprocess()
@@ -64,7 +65,7 @@ class process():
         self.data["Reds"] = self.data["HomeReds"] + self.data["AwayReds"]
         self.data["secondYellows"] = self.data["HomeSecondYellows"] + self.data["AwaySecondYellows"]
         
-
+        
     
     def plot(self):
         
@@ -269,7 +270,11 @@ class process():
                                     "AwayYellows", "AwayReds", "AwaySecondYellows",
                                     "HomeTeam", "HomeGoals", "AwayTeam", "AwayGoals"], axis=1)
         
-
+        self.data = self.data.drop(["AwayAerialswon", "AwayBallpossession", "AwayDuelswon", 
+                                    "AwayFouls", "AwayInterceptions", "AwayPossessionlost", "AwayTackles",
+                                    "HomeAerialswon", "HomeBallpossession", "HomeDuelswon", 
+                                    "HomeFouls", "HomeInterceptions", "HomePossessionlost", "HomeTackles"], axis=1)
+        
         # The splitting points for each Referee is 5 yellow cards and 0.25 red cards by default
         self.data["YellowRefCategory"] = [1 if x > self.YellowLimit else 0 for x in self.data["RefereeYellows"]]
         self.data["RedRefCategory"] = [1 if x > self.RedLimit else 0 for x in self.data["RefereeReds"]]
