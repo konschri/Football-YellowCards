@@ -1,11 +1,6 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 
-"""
-This class performs the necessary processing steps to ensure data integrity.
-It also performs feature enginnering 
-"""
-
 
 class process():
     
@@ -28,7 +23,7 @@ class process():
         return self.data
     
     
-    def correct_date_format(self, date):
+    def correct_date_format(self, date: str) -> str:
         split_date = date.split("/")
         if len(split_date[-1]) == 2:
             return date
@@ -87,18 +82,12 @@ class process():
         plt.show()
         
     def eda_analysis(self):
+        #TODO: Perform Analysis with plotting for further understanding of the data
         return
     
     def featureTransformation(self):
         
         """
-        Input: positions (list of integers) that denote key positions in the
-               leaderboard that could potentially describe team's goal.
-               The default values are 4/7/18 denoting the corresponding positions
-               that lead either on champions league, or europa league or relegation.
-               This is an open variable to the user since different leagues
-               have different key positions.
-        
         Performs the following steps:
             1. Based on the given values of list *'positions'* creates the equivalent
                features that denote for each match the distance of each team from these positions
@@ -110,16 +99,6 @@ class process():
         self.data = self.data.iloc[new_order]
         self.data.reset_index(inplace=True, drop=True)
         
-        # positions = positions if positions else [4, 7, 18]
-        # positions_dict = {}
-        # feature_text = "diff_from_pos"
-        # for position in positions:
-        #     if position > 20:
-        #         continue
-            
-        #     positions_dict["pos" + str(position)] = position
-        #     for status in ["home", "away"]:
-        #         self.data[feature_text + str(position) + status] = 0
             
         self.data["difference"] = 0
         
@@ -151,17 +130,10 @@ class process():
         self.data["past_three_aerials_won_home"], self.data["past_three_aerials_won_away"] = 0, 0
         aerials_won_count = {team:[] for team in teams}
         
-        #TODO: Keep from here to compute the past three
+        
         
         for _, group in self.data.groupby("Round"):
             
-            # sorted_teams = sorted(team_points.items(), key=lambda x: x[1], reverse=True)
-
-            # points = {}
-            # for key, value in positions_dict.items():
-            #     points[key] = sorted_teams[value-1][1]
-
-
             for index, row in group.iterrows():
                 
                 # For the current match isolate the following features (both home and away):
@@ -189,45 +161,42 @@ class process():
                 
                 
                 self.data.loc[index, "difference"] = abs(team_points[home_team] - team_points[away_team])
-                # for key, value in positions_dict.items():
-                #     self.data.loc[index, feature_text + str(value) + "home"] = team_points[home_team] - points[str(key)]
-                #     self.data.loc[index, feature_text + str(value) + "away"] = team_points[away_team] - points[str(key)]
                         
         
-                # Assign the yellow cards count for the home and away teams as new columns in the dataframe
+                # Assign the yellow cards for the home and away teams as new columns in the dataframe
                 self.data.at[index, 'past_three_yellow_cards_home'] = sum(yellow_cards_count[home_team][-3:])
                 self.data.at[index, 'past_three_yellow_cards_away'] = sum(yellow_cards_count[away_team][-3:])
                 
-                # Assign the yellow cards count for the home and away teams as new columns in the dataframe
+                # Assign the tackles for the home and away teams as new columns in the dataframe
                 self.data.at[index, 'past_three_tackles_home'] = sum(tackles_count[home_team][-3:])
                 self.data.at[index, 'past_three_tackles_away'] = sum(tackles_count[away_team][-3:])
                 
-                # Assign the yellow cards count for the home and away teams as new columns in the dataframe
+                # Assign the ball possession for the home and away teams as new columns in the dataframe
                 self.data.at[index, 'past_three_ball_possession_home'] = sum(ball_possession_count[home_team][-3:])
                 self.data.at[index, 'past_three_ball_possession_away'] = sum(ball_possession_count[away_team][-3:])
                 
-                # Assign the yellow cards count for the home and away teams as new columns in the dataframe
+                # Assign the possessions lost for the home and away teams as new columns in the dataframe
                 self.data.at[index, 'past_three_possession_lost_home'] = sum(possession_lost_count[home_team][-3:])
                 self.data.at[index, 'past_three_possession_lost_away'] = sum(possession_lost_count[away_team][-3:])
                 
-                # Assign the yellow cards count for the home and away teams as new columns in the dataframe
+                # Assign the interceptions for the home and away teams as new columns in the dataframe
                 self.data.at[index, 'past_three_interceptions_home'] = sum(interceptions_count[home_team][-3:])
                 self.data.at[index, 'past_three_interceptions_away'] = sum(interceptions_count[away_team][-3:])
                 
-                # Assign the yellow cards count for the home and away teams as new columns in the dataframe
+                # Assign the fouls for the home and away teams as new columns in the dataframe
                 self.data.at[index, 'past_three_fouls_home'] = sum(fouls_count[home_team][-3:])
                 self.data.at[index, 'past_three_fouls_away'] = sum(fouls_count[away_team][-3:])
                 
-                # Assign the yellow cards count for the home and away teams as new columns in the dataframe
+                # Assign the duels won for the home and away teams as new columns in the dataframe
                 self.data.at[index, 'past_three_duels_won_home'] = sum(duels_won_count[home_team][-3:])
                 self.data.at[index, 'past_three_duels_won_away'] = sum(duels_won_count[away_team][-3:])
                 
-                # Assign the yellow cards count for the home and away teams as new columns in the dataframe
+                # Assign the aerials won for the home and away teams as new columns in the dataframe
                 self.data.at[index, 'past_three_aerials_won_home'] = sum(aerials_won_count[home_team][-3:])
                 self.data.at[index, 'past_three_aerials_won_away'] = sum(aerials_won_count[away_team][-3:])
                 
                 
-                # Update yellow cards count for home and away teams
+                # Update all the above features for home and away teams
                 yellow_cards_count[home_team].append(home_yellows)
                 yellow_cards_count[away_team].append(away_yellows)
                 
@@ -264,6 +233,8 @@ class process():
     
     def dataPostprocess(self):
         
+        ## Drop already processed features
+        
         # self.data = self.data[self.data["Round"] > 5]
         self.data = self.data.drop(["Date", "Location", "Stadium", 
                                     "HomeYellows", "HomeReds", "HomeSecondYellows", 
@@ -275,22 +246,20 @@ class process():
                                     "HomeAerialswon", "HomeBallpossession", "HomeDuelswon", 
                                     "HomeFouls", "HomeInterceptions", "HomePossessionlost", "HomeTackles"], axis=1)
         
-        # The splitting points for each Referee is 5 yellow cards and 0.25 red cards by default
+        
+        ## Introduce a binary split for the category of each Referee
         self.data["YellowRefCategory"] = [1 if x > self.YellowLimit else 0 for x in self.data["RefereeYellows"]]
         self.data["RedRefCategory"] = [1 if x > self.RedLimit else 0 for x in self.data["RefereeReds"]]
         self.data.drop(['Referee', 'RefereeYellows', 'RefereeReds'], axis=1, inplace=True)
         
-        
+        ## Fill na values with feature mean values
         self.data.fillna(self.data.mean().astype(int), inplace=True)
         
-        
+        ## Add Second Yellow cards to the respective target features `Yellows` and `Reds` before dropping
         self.data["Yellows"] = [x + y for x,y in zip(self.data["Yellows"], self.data["secondYellows"])]
         self.data["Reds"] = [x + y for x,y in zip(self.data["Reds"], self.data["secondYellows"])]
-        
         self.data.drop(["secondYellows"], axis=1, inplace=True)
         
-        
-        # final_data = data.copy()
         return self.data.copy()
         
 
