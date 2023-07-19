@@ -3,9 +3,9 @@ from sklearn.model_selection import GridSearchCV
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.linear_model import LogisticRegression
 from sklearn.preprocessing import LabelEncoder
-from sklearn.metrics import accuracy_score, classification_report
+from sklearn.metrics import accuracy_score
 from sklearn.inspection import permutation_importance
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 import numpy as np
 
 class MLPipeline:
@@ -19,17 +19,17 @@ class MLPipeline:
         # self.plot = plot
         
         
-        self.targetTransformationDict = {
-                "ZeroToTwo": [0, 1, 2],
-                "ThreeOrFour": [3, 4],
-                "FiveOrSix": [5, 6],
-                "SevenOrMore": list(range(7, 20))}
+        # self.targetTransformationDict = {
+        #         "ZeroToTwo": [0, 1, 2],
+        #         "ThreeOrFour": [3, 4],
+        #         "FiveOrSix": [5, 6],
+        #         "SevenOrMore": list(range(7, 20))}
         
-        self.data["Target"] = self.data["Yellows"].apply(lambda x: next((k for k, v in self.targetTransformationDict.items() if x in v), None))
-        self.testData["Target"] = self.testData["Yellows"].apply(lambda x: next((k for k, v in self.targetTransformationDict.items() if x in v), None))
+        # self.data["Target"] = self.data["Yellows"].apply(lambda x: next((k for k, v in self.targetTransformationDict.items() if x in v), None))
+        # self.testData["Target"] = self.testData["Yellows"].apply(lambda x: next((k for k, v in self.targetTransformationDict.items() if x in v), None))
         
-        self.data.drop(["Yellows", "Reds"], axis=1, inplace=True)
-        self.testData.drop(["Yellows", "Reds"], axis=1, inplace=True)
+        # self.data.drop(["Yellows", "Reds"], axis=1, inplace=True)
+        # self.testData.drop(["Yellows", "Reds"], axis=1, inplace=True)
         
         self.Y = self.data["Target"]
         self.X = self.data.drop(["Target"], axis=1)
@@ -95,8 +95,6 @@ class MLPipeline:
         print(f"Permutation results: {perm_sorted_idx}")
         
         for i in perm_sorted_idx:
-            
-            
             if result.importances_mean[i] - 2 * result.importances_std[i] > 0:
                 print(f"{self.data.columns[i]:<8}"
                 f"{result.importances_mean[i]:.3f}"
@@ -117,7 +115,7 @@ class MLPipeline:
 
         param_grid = {
                     "penalty" : ["l1", "l2"],
-                    "C" : [0.1, 0.5, 1],
+                    "C" : [0.001, 0.01, 0.1, 0.5, 1],
                     "solver": ["liblinear", "saga"]
                       }
         
