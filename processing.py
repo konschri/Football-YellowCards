@@ -16,11 +16,15 @@ class process():
         print(f"The shape of loaded details data: {self.data_details.shape}")
         print(f"The shape of loaded statistics data: {self.data_statistics.shape}")
         
+        # self.targetTransformationDict = {
+        #         "ZeroToTwo": [0, 1, 2],
+        #         "ThreeOrFour": [3, 4],
+        #         "FiveOrSix": [5, 6],
+        #         "SevenOrMore": list(range(7, 20))}
+        
         self.targetTransformationDict = {
-                "ZeroToTwo": [0, 1, 2],
-                "ThreeOrFour": [3, 4],
-                "FiveOrSix": [5, 6],
-                "SevenOrMore": list(range(7, 20))}
+                "ZeroToFour": [0, 1, 2, 3, 4],
+                "FourOrMore": list(range(4, 20))}
     
     def run(self):
         self.dataPreprocess()
