@@ -28,14 +28,18 @@ for pair in csv_files:
 train_df = pd.concat(dataframes[:-1], ignore_index=True)
 test_df = dataframes[-1]
 
-# correlation_matrix = train_df.corr()
-# print(correlation_matrix)
+print("Target Variable Counts ...")
+print("Train set")
+print(train_df["Target"].value_counts())
+print("Test set")
+print(test_df["Target"].value_counts())
+
 
 
 #%%
 """ Perform factor analysis """
 
-def factoranalysis(TrainDF: pd.DataFrame, TestDF: pd.DataFrame, rotation=None, eigenvalue_threshold=0.8):
+def factoranalysis(TrainDF: pd.DataFrame, TestDF: pd.DataFrame, rotation=None, eigenvalue_threshold=1):
     from sklearn import preprocessing
     from factor_analyzer import FactorAnalyzer
     from factor_analyzer.factor_analyzer import calculate_bartlett_sphericity
@@ -73,8 +77,8 @@ def factoranalysis(TrainDF: pd.DataFrame, TestDF: pd.DataFrame, rotation=None, e
     print(ev)
     
     # Create scree plot using matplotlib
-    plt.scatter(range(1,TrainDF.shape[1]+1),ev)
-    plt.plot(range(1,TrainDF.shape[1]+1),ev)
+    plt.scatter(range(1, TrainDF.shape[1]+1), ev)
+    plt.plot(range(1, TrainDF.shape[1]+1), ev)
     plt.title('Scree Plot')
     plt.xlabel('Factors')
     plt.ylabel('Eigenvalue')
@@ -98,12 +102,12 @@ def factoranalysis(TrainDF: pd.DataFrame, TestDF: pd.DataFrame, rotation=None, e
     return train_result, test_result
 
 
-TrainDF, TestDF = factoranalysis(train_df, test_df)
+train_df, test_df = factoranalysis(train_df, test_df)
 
 
 
 #%%
-pr = MLPipeline(TrainDF, TestDF, algorithm="lr")
+pr = MLPipeline(train_df, test_df, algorithm="xgb")
 pr.run()
 
 
