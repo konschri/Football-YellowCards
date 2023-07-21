@@ -242,7 +242,6 @@ class process():
         self.data.drop(["secondYellows"], axis=1, inplace=True)
         
         self.data["Target"] = self.data["Yellows"].apply(lambda x: next((k for k, v in self.targetTransformationDict.items() if x in v), None))
-        # self.testData["Target"] = self.testData["Yellows"].apply(lambda x: next((k for k, v in self.targetTransformationDict.items() if x in v), None))
         self.data.drop(["Yellows", "Reds"], axis=1, inplace=True)
         
         return self.data

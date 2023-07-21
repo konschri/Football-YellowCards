@@ -35,7 +35,6 @@ class MLPipeline:
     
     
     def run(self):
-        
         if self.scale:
             self.scaleMethod()
         if self.algorithm == "rf":
