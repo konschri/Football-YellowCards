@@ -1,6 +1,6 @@
-from processing import process
-from basicml import MLPipeline
-from dim_reduction import Analyzer
+from src.processing import process
+from src.basicml import MLPipeline
+from src.dim_reduction import Analyzer
 from typing import List, Tuple
 import pandas as pd
 import glob
