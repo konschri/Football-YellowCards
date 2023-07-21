@@ -1,3 +1,4 @@
+from selenium.webdriver.firefox.firefox_profile import FirefoxProfile
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.firefox.options import Options
@@ -21,14 +22,17 @@ Y = 1150
 """ Select year to extract through button click and scroll. N = 0 means current season, N = 1 last season etc. """
 N = 1
 
+
+# TODO this line does not prevent the website from reloading after 30 mins. Find alternative
 ## Instantiate the browser
 options = Options()
 options.page_load_strategy = 'eager'
-# TODO this line does not prevent the website from reloading after 30 mins. Find alternative
-profile = webdriver.FirefoxProfile()
-profile.set_preference("dom.max_script_run_time", 0)
 
-driver = webdriver.Firefox(options=options, firefox_profile=profile)
+profile = FirefoxProfile()
+profile.set_preference("dom.max_script_run_time", 0)
+options.profile = profile
+
+driver = webdriver.Firefox(options=options)
 driver.maximize_window()
 driver.get(URL)
 
