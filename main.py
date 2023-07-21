@@ -1,114 +1,64 @@
 from processing import process
 from basicml import MLPipeline
+from dim_reduction import Analyzer
+from typing import List, Tuple
 import pandas as pd
 import glob
 
-folder_path_details = "datasets\\datasets_details\\"
-folder_path_statistics = "datasets\\datasets_statistics\\"
 
-
-csv_files_details = glob.glob(folder_path_details + "*.csv")
-csv_files_statistics = glob.glob(folder_path_statistics + "*.csv")
-
-
-assert len(csv_files_details) == len(csv_files_statistics)
-csv_files = list(zip(csv_files_details, csv_files_statistics))
-
-dataframes = []
-# Iterate over each CSV file
-for pair in csv_files:
- 
-    # Process the data according to process class
-    seasonInstance = process(pair)  
+def main(csv_files: List[Tuple[str, str]],
+         reduction: str = None, 
+         algorithm: str ="xgb"):
     
-    # Append the resulted dataframe to the list
-    dataframes.append(seasonInstance.run())
+    """
+    The options for the inputs are:
+        analysis -> "factor", "pca"
+        algorithm -> "rf", "lr", "xgb"
+    """
     
-
-train_df = pd.concat(dataframes[:-1], ignore_index=True)
-test_df = dataframes[-1]
-
-print("Target Variable Counts ...")
-print("Train set")
-print(train_df["Target"].value_counts())
-print("Test set")
-print(test_df["Target"].value_counts())
-
-
-
-#%%
-""" Perform factor analysis """
-
-def factoranalysis(TrainDF: pd.DataFrame, TestDF: pd.DataFrame, rotation=None, eigenvalue_threshold=1):
-    from sklearn import preprocessing
-    from factor_analyzer import FactorAnalyzer
-    from factor_analyzer.factor_analyzer import calculate_bartlett_sphericity
-    from factor_analyzer.factor_analyzer import calculate_kmo
-    import matplotlib.pyplot as plt
+    # Iterate over each CSV file and process it according to processing module
+    dataframes = []
+    for pair in csv_files:
+        seasonInstance = process(pair)
+        dataframes.append(seasonInstance.run())
     
-    train_target, test_target = TrainDF["Target"], TestDF["Target"]
-    TrainDF = preprocessing.scale(TrainDF.drop(["Target"], axis=1))
-    TestDF = preprocessing.scale(TestDF.drop(["Target"], axis=1))
+    print("Data have been processed.")
     
-    print("Performing Adequacy Test ...")
-    print("First checking Barlett's Test.")
-    chi_square_value, p_value = calculate_bartlett_sphericity(TrainDF)
-    if p_value < 0.05:
-        print(f"p-value = {p_value}. The test was statistically significant, indicating that the observed correlation matrix is not the identity matrix")
+    # Let the last pair of data as test set
+    train_df = pd.concat(dataframes[:-1], ignore_index=True)
+    test_df = dataframes[-1]
+    
+    # Use the respective reduction method
+    if reduction == "factor":
+        train_df, test_df = Analyzer.factoranalysis(train_df, test_df)
+    elif reduction == "pca":
+        train_df, test_df = Analyzer.principalcomponentsanalysis(train_df, test_df)
     else:
-        print(f"p-value = {p_value} The particular dataset is not appropriate for factor analysis")
-        return ""
+        print("You didn't select a proper reduction option") 
+        print("Options are: 'factor' or 'pca'")
+        pass
     
-    
-    print("Performing Kaiser-Meyer-Olkin Test ...")
-    kmo_all, kmo_model = calculate_kmo(TrainDF)
-    if kmo_model > 0.6:
-        print(f"kmo-statistic = {round(kmo_model, 3)}. The particular dataset is adequate")
+    # Use the respective algorithm
+    if algorithm in ["rf", "lr", "xgb"]:
+        pr = MLPipeline(train_df, test_df, algorithm=algorithm)
+        pr.run()
     else:
-        print(f"kmo-statistic = {round(kmo_model, 3)}. The particular dataset is considered inadequate")
-        return ""
+        raise ValueError("You didn't select a proper algorithm option")
     
-    # Create factor analysis object and perform factor analysis
-    efa = FactorAnalyzer(rotation=rotation)
-    # fa.transform(X, X.shape[1], rotation=rotation)
-    efa.fit(TrainDF)
-    # Check Eigenvalues
-    ev, v = efa.get_eigenvalues()
-    print(ev)
+    return
+
+
+if __name__ == "__main__":
     
-    # Create scree plot using matplotlib
-    plt.scatter(range(1, TrainDF.shape[1]+1), ev)
-    plt.plot(range(1, TrainDF.shape[1]+1), ev)
-    plt.title('Scree Plot')
-    plt.xlabel('Factors')
-    plt.ylabel('Eigenvalue')
-    plt.grid()
-    plt.show()
+    folder_path_details = "datasets\\datasets_details\\"
+    folder_path_statistics = "datasets\\datasets_statistics\\"
+    csv_files_details = glob.glob(folder_path_details + "*.csv")
+    csv_files_statistics = glob.glob(folder_path_statistics + "*.csv")
+    assert len(csv_files_details) == len(csv_files_statistics)
+    csv_files = list(zip(csv_files_details, csv_files_statistics))
     
+    #TODO: Consider using argparse for the inputs
+    reduction = "factor"
+    algorithm = "xgb"
     
-    no_of_factors = sum(i > eigenvalue_threshold for i in ev)
-    print(f"The analysis resulted in {no_of_factors} factors.")
-    fa = FactorAnalyzer(n_factors=no_of_factors, rotation=rotation)
-    fa.fit(TrainDF)
-    
-    train_results_array = fa.transform(TrainDF)
-    train_result = pd.DataFrame(train_results_array)
-    train_result["Target"] = train_target
-    
-    test_results_array = fa.transform(TestDF)
-    test_result = pd.DataFrame(test_results_array)
-    test_result["Target"] = test_target
-    
-    return train_result, test_result
-
-
-train_df, test_df = factoranalysis(train_df, test_df)
-
-
-
-#%%
-pr = MLPipeline(train_df, test_df, algorithm="xgb")
-pr.run()
-
-
-
+    main(csv_files, reduction, algorithm)

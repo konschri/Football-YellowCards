@@ -13,18 +13,13 @@ class process():
         self.data_statistics = pd.read_csv(pair[1], encoding="latin-1")
         self.YellowLimit = yellowLimit
         self.RedLimit = redLimit
-        print(f"The shape of loaded details data: {self.data_details.shape}")
-        print(f"The shape of loaded statistics data: {self.data_statistics.shape}")
         
-        # self.targetTransformationDict = {
-        #         "ZeroToTwo": [0, 1, 2],
-        #         "ThreeOrFour": [3, 4],
-        #         "FiveOrSix": [5, 6],
-        #         "SevenOrMore": list(range(7, 20))}
+        assert self.data_details.shape[0] == self.data_statistics.shape[0]
         
         self.targetTransformationDict = {
                 "ZeroToFour": [0, 1, 2, 3, 4],
                 "FourOrMore": list(range(4, 20))}
+    
     
     def run(self):
         self.dataPreprocess()
@@ -70,30 +65,6 @@ class process():
         self.data["Reds"] = self.data["HomeReds"] + self.data["AwayReds"]
         self.data["secondYellows"] = self.data["HomeSecondYellows"] + self.data["AwaySecondYellows"]
         
-        
-    
-    def plot(self):
-        
-        """
-        Visualization of basic Yellow cards by round statistics
-        """
-        
-        yellowsByRound = self.data.groupby(["Round"])["Yellows"].mean()
-        yellowsByRound.sort_index(inplace=True)
-        
-        plt.figure(figsize=(10,6))
-        plt.plot(yellowsByRound, marker="o")
-        plt.axhline(yellowsByRound.mean(), color='red', linestyle='--')
-        plt.xlabel("Round")
-        plt.ylabel("Cards")
-        plt.title("Average Yellow Cards per round")
-        plt.xticks(yellowsByRound.index, rotation=45)
-        plt.tight_layout()
-        plt.show()
-        
-    def eda_analysis(self):
-        #TODO: Perform Analysis with plotting for further understanding of the data
-        return
     
     def featureTransformation(self):
         
@@ -274,7 +245,5 @@ class process():
         # self.testData["Target"] = self.testData["Yellows"].apply(lambda x: next((k for k, v in self.targetTransformationDict.items() if x in v), None))
         self.data.drop(["Yellows", "Reds"], axis=1, inplace=True)
         
-        return self.data.copy()
+        return self.data
         
-
-
