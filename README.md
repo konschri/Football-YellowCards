@@ -7,7 +7,7 @@ The case study of LaLiga Spain.
 ## 📝 Workflow
 - [Web Scraping](#web_scraping)
 - [Data Preprocessing](#data_preprocessing)
-- [Dimentionality Reduction](#dimentionality_reduction)
+- [Dimensionality Reduction](#dimensionality_reduction)
 - [Predictive Modeling](#predictive_modeling)
 
 ## 🕸️ Web Scraping <a name = "web_scraping"></a>
@@ -35,17 +35,42 @@ Not all essential clicks are listed.
 ![plot](web-scrapers/screenshots/Screenshot4.png)  
 
 
-The data are stored as csv files.
+The ![datasets](https://github.com/konschri/sporty/tree/main/datasets) are stored separately (details | statistics) as csv files.  
 
 ## 🧹 Data Preprocessing <a name = "data_preprocessing"></a>
 
-Our project was split into two rounds. During the first round we conducted several experiments solely based on the data under the details tab.
-Later, during the second round we also combined the available data of statistics tab.  
+Our project was split into two phases. During the first, we conducted several experiments solely based on the data under the details tab.
+Later, during the second phase we also combined the available data of statistics tab.  
 
-Due to the two phases explained above, before anything, we performed the necessary part of combining the available data.
-More specifically, .. keep from here expaining the available data and their corresponding form
+Our final dataset includes the following 21 features (numerical and binary variables).
 
-## ✂️ Dimentionality Reduction <a name = "dimentionality_reduction"></a>
+The match-related features are:  
+* Round of specific match
+* Attendance of the match
+* Difference in points between the two teams
+* Yellow card category of the referee
+* Red card category of the referee
+
+The teams-related features are:  
+* Mean value of yellow cards per team the last 3 games
+* Mean value of tackles per team the last 3 games
+* Mean value of ball possession (%) per team the last 3 games
+* Mean value of lost possesions per team the last 3 games
+* Mean value of interceptions per team the last 3 games
+* Mean value of fouls commited per team the last 3 games
+* Mean value of duels won per team the last 3 games
+* Mean value of aerial duels won per team the last 3 games
+
+Inside ![details](https://github.com/konschri/sporty/tree/main/datasets/datasets_details) data, you can also find the stadium name and the city that match occured.
+That information is not used in our final dataset, but one could utilize it, perhaps to model weather conditions during the match. Such a feature is considered without a doubt
+one that highly affects the yellow cards booked in a football game.
+
+For training purposes we used the data of 4 seasons (18/19 - 21/22) and kept out as test set the season 22/23.  
+
+Inside ![extra seasons](https://github.com/konschri/sporty/tree/main/datasets/extra_seasons_with_missing_values), you can also find some extra scraped seasons that were not used though, due to 
+increased number of missing values. If you are interested to drop some of the variables that we used in our approach, we suggest to search for extra seasons that may contain useful information.
+
+## ✂️ Dimensionality Reduction <a name = "dimensionality_reduction"></a>
 
 We added two option. Factor Analysis / Principal Components Analysis
 
