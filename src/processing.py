@@ -217,7 +217,7 @@ class process():
         ## Drop already processed features
         
         #self.data = self.data[self.data["Round"] > 1]
-        self.data = self.data.drop(["Date", "Location", "Stadium", 
+        self.data = self.data.drop(["Date", "Location", "Stadium",
                                     "HomeYellows", "HomeReds", "HomeSecondYellows", 
                                     "AwayYellows", "AwayReds", "AwaySecondYellows",
                                     "HomeTeam", "HomeGoals", "AwayTeam", "AwayGoals"], axis=1)

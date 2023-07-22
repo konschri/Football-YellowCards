@@ -41,7 +41,7 @@ class MLPipeline:
             print("The selected algorithm is Random Forest ... please wait!")
             self.classification_rf()
         elif self.algorithm == "xgb":
-            print("The selected algorithm is XG Boost ... please wait!")
+            print("The selected algorithm is XGBoost ... please wait!")
             self.classification_xgb() 
         elif self.algorithm == "lr":
             print("The selected algorithm is Logistic Regression ... please wait!")
