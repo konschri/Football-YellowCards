@@ -90,16 +90,16 @@ We tested:
 * Logistic Regression
 * XGBoost
 
-For the training process we used the ![grid search](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html) class along with a 5-fold cross-validation on a limited number and range of hyperparameters.
+For the training process we used the [grid search](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html) class along with a 5-fold cross-validation on a limited number and range of hyperparameters.
 
 The highest score model was achieved by the following:  
 
 * Factor Analysis (n_factors = 5)
 * XGBoost (n_estimators=140, max_depth=2, learning_rate=0.05)
 
-For the Factor Analysis we choose the number of factors based on the scree plot:  
+For the Factor Analysis we choose the number of factors based on an eigenvalue threshold (>1) and the scree plot:  
 
-  For
+![plot](https://github.com/konschri/sporty/blob/main/images/scree_plot.png)
 
 
 Results
