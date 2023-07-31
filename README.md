@@ -72,17 +72,35 @@ increased number of missing values. If you are interested to drop some of the va
 
 ## ✂️ Dimensionality Reduction <a name = "dimensionality_reduction"></a>
 
-After ending up with numerous variables (we gathered anything that seemed relevant to the prediction tastk) we also checked the correlation between them.
+After ending up with numerous variables (we gathered anything that seemed relevant to the prediction task) we also checked the correlation between them.
 Indeed for a significant number of them we observed high correlation.  
 
+![correlation matrix](https://github.com/konschri/sporty/blob/main/correlation_matrix.png)
 
+So we decided to also perform two of the most common dimentionality reduction methods.
+Factor Analysis and Principal Components Analysis are quite similar, if you are not familiar with those techniques we suggest you to read this ![article](https://www.analytixlabs.co.in/blog/factor-analysis-vs-pca/) that provides a side by side explanation.  
 
-We added two option. Factor Analysis / Principal Components Analysis
+In general, our purpose is to decrease the number of variables before feeding the algorithms with data.
 
 ## 🎯 Predictive Modeling <a name = "predictive_modeling"></a>
 
-We tested rf / lr / xgb ...
-gridsearch
+Our tests included the comparison between three of the most popular algorithms for tabular data.
+We tested:  
+* Random Forest
+* Logistic Regression
+* XGBoost
+
+For the training process we used the ![grid search](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html) class along with a 5-fold cross-validation on a limited number and range of hyperparameters.
+
+The highest score model was achieved by the following:  
+
+* Factor Analysis (n_factors = 5)
+* XGBoost (n_estimators=140, max_depth=2, learning_rate=0.05)
+
+For the Factor Analysis we choose the number of factors based on the scree plot:  
+
+  For
+
 
 Results
 
