@@ -75,7 +75,7 @@ increased number of missing values. If you are interested to drop some of the va
 After ending up with numerous variables (we gathered anything that seemed relevant to the prediction task) we also checked the correlation between them.
 Indeed for a significant number of them we observed high correlation.  
 
-![correlation matrix](https://github.com/konschri/sporty/blob/main/correlation_matrix.png)
+![plot](https://github.com/konschri/sporty/blob/main/images/correlation_matrix.png)
 
 So we decided to also perform two of the most common dimentionality reduction methods.
 Factor Analysis and Principal Components Analysis are quite similar, if you are not familiar with those techniques we suggest you to read this ![article](https://www.analytixlabs.co.in/blog/factor-analysis-vs-pca/) that provides a side by side explanation.  
