@@ -72,6 +72,11 @@ increased number of missing values. If you are interested to drop some of the va
 
 ## ✂️ Dimensionality Reduction <a name = "dimensionality_reduction"></a>
 
+After ending up with numerous variables (we gathered anything that seemed relevant to the prediction tastk) we also checked the correlation between them.
+Indeed for a significant number of them we observed high correlation.  
+
+
+
 We added two option. Factor Analysis / Principal Components Analysis
 
 ## 🎯 Predictive Modeling <a name = "predictive_modeling"></a>
