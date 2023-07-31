@@ -1,4 +1,4 @@
-# sporty
+# Yellow card Prediction
 A sports analytics project that aims to examine the intuition that the yellow cards of a football game are a factor possible to predict via features describing each team's certain statistics.
 Indicatively, we used features shaped from the past three games of each team, such as fouls, yellow cards, ball possession etc. but also referee related features.
 
@@ -62,6 +62,8 @@ For training purposes we used the data of 4 seasons (18/19 - 21/22) and kept out
 
 Inside ![extra seasons](https://github.com/konschri/sporty/tree/main/datasets/extra_seasons_with_missing_values), you can also find some extra scraped seasons that were not used though, due to 
 increased number of missing values. If you are interested to drop some of the variables that we used in our approach, we suggest to search for extra seasons that may contain useful information.
+
+The final step of this process is the transformation of the numerical target variable into a binary variable (over/under) 4.5 yellow cards.
 
 ## ✂️ Dimensionality Reduction <a name = "dimensionality_reduction"></a>
 
