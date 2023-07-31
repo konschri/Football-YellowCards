@@ -9,6 +9,7 @@ The case study of LaLiga Spain.
 - [Data Preprocessing](#data_preprocessing)
 - [Dimensionality Reduction](#dimensionality_reduction)
 - [Predictive Modeling](#predictive_modeling)
+- [Future Ideas](#future_ideas)
 
 ## 🕸️ Web Scraping <a name = "web_scraping"></a>
 
@@ -18,21 +19,13 @@ By using the selenium webdriver we tried to mimic the consecutive clicks a human
 The 4 basic simple steps/clicks are illustrated below:
 Not all essential clicks are listed.
 
-**1. Click the button to choose the season of interest**
-   
-![plot](web-scrapers/screenshots/Screenshot1.png)  
+**1. [Click](web-scrapers/screenshots/Screenshot1.png) the button to choose the season of interest** 
   
-**2. Click the season of interest**  
+**2. [Click](web-scrapers/screenshots/Screenshot2.png) the season of interest**  
   
-![plot](web-scrapers/screenshots/Screenshot2.png)  
+**3. [Click](web-scrapers/screenshots/Screenshot3.png) the sort by round button**  
   
-**3. Click the sort by round button**  
-
-![plot](web-scrapers/screenshots/Screenshot3.png)  
-  
-**4. Click one after the other the tabs containing the information we thought to relevant**  
-
-![plot](web-scrapers/screenshots/Screenshot4.png)  
+**4. [Click](web-scrapers/screenshots/Screenshot4.png) one after the other the tabs containing the information we thought to relevant**  
 
 
 The ![datasets](https://github.com/konschri/sporty/tree/main/datasets) are stored separately (details | statistics) as csv files.  
@@ -101,8 +94,24 @@ For the Factor Analysis we choose the number of factors based on an eigenvalue t
 
 ![plot](https://github.com/konschri/sporty/blob/main/images/scree_plot.png)
 
+Below you can also see the confusion matrix that highlights the fact that the final model can achieve a significant higher score than a baseline model for both classes.
 
-Results
+![plot](https://github.com/konschri/sporty/blob/main/images/confusion_matrix.png)
+
+Finally, the ROC-curve.  
+
+![plot](https://github.com/konschri/sporty/blob/main/images/roc_curve.png)
+
+
+## 💡 Future Ideas <a name = "future_ideas"></a>
+
+The problem of predicting the yellow cards in a football game is a very challenging task. There are numerous unpredicting reasons in a game that can cause a yellow card.
+Our effort resulted in some very specific conclusions and future ideas.
+* It is essential for such a model to also contain information regarding specific key-players of a team.
+* Game conditions such as the weather can also affect the final number of yellow cards. Rainy terrains drive players to rely more on their physicality.
+* A different approach of modeling a specific club might have a positive impact. In our case we did not modelled the exact teams of a game rather than their respective difference in the leaderboard.
+* Focusing on specific rounds can also increase the predictability of the model.
+
 
 
 
