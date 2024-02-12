@@ -9,6 +9,7 @@ The case study of LaLiga Spain.
 - [Data Preprocessing](#data_preprocessing)
 - [Dimensionality Reduction](#dimensionality_reduction)
 - [Predictive Modeling](#predictive_modeling)
+- [Model Deployment](#model_deploy)
 - [Future Ideas](#future_ideas)
 
 ## 🕸️ Web Scraping <a name = "web_scraping"></a>
@@ -29,6 +30,7 @@ Not all essential clicks are listed.
 
 
 The ![datasets](https://github.com/konschri/sporty/tree/main/datasets) are stored separately (details | statistics) as csv files.  
+
 
 ## 🧹 Data Preprocessing <a name = "data_preprocessing"></a>
 
@@ -103,6 +105,18 @@ Below you can also see the confusion matrix that highlights the fact that the fi
 Finally, the ROC-curve.  
 
 ![plot](https://github.com/konschri/sporty/blob/main/images/roc_curve.png)
+
+## 🚀 Model Deployment <a name = "model_deploy"></a>
+
+The last part of this project is to provide a simple way to deploy a fully-trained predictive model as a web application served locally with the assistance of the Flask library. Based on this ![template](https://github.com/konschri/Football-YellowCards/blob/main/templates/index.html) we created an interface for a user to insert the needed metrics (21 in total). Afterwards, through the supportive tasks of ![factor analysis](https://github.com/konschri/Football-YellowCards/blob/main/models/factoranalysis_parameters.pkl) and ![feature scaling](https://github.com/konschri/Football-YellowCards/blob/main/models/scaler.pkl) we transform the data before we can finally pass them in our ![trained model](https://github.com/konschri/Football-YellowCards/blob/main/models/model.pkl)!
+
+![plot](https://github.com/konschri/Football-YellowCards/blob/main/images/Screenshot1_app.png)
+
+If we insert the necessary values and hit the predict button we can get our final prediction regarding the OVER/UNDER 4.5 yellow cards in the upcoming game. Finally, we also provide the probability that our model predicts the corresponding value and we also highlight the fair odds simply by dividing 1 over the extracted probability.  
+
+   
+
+![plot](https://github.com/konschri/Football-YellowCards/blob/main/images/Screenshot2_app.png)
 
 
 ## 💡 Future Ideas <a name = "future_ideas"></a>
