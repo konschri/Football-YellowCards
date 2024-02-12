@@ -30,7 +30,7 @@ def predict():
     
     prediction = "MORE" if prediction == 1 else "LESS"
     
-    prediction_text = "I predict that" + prediction + " than 4.5 yellow cards will be booked in this football match with a probability "+ str(class_probability) +". The fair betting odds should be " + str(round(1/class_probability, 1))
+    prediction_text = "I predict that " + prediction + " than 4.5 yellow cards will be booked in this football match with a probability "+ str(class_probability) +". The fair betting odds should be " + str(round(1/class_probability, 1))
     print(prediction_text)
     return render_template("index.html", prediction_text = prediction_text)
 
