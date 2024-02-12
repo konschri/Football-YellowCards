@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sporty</title>
+  <style>
+    body {
+      background-color: #000;
+      font-family: Arial, sans-serif;
+    }
+    .login {
+      margin: 0 auto;
+      width: 80%;
+      max-width: 500px;
+      padding: 20px;
+      background-color: #fff;
+      border-radius: 10px;
+      text-align: center;
+      color: violet;
+    }
+    input[type="text"] {
+      width: 100%;
+      padding: 10px;
+      margin: 5px 0;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      box-sizing: border-box;
+    }
+    button[type="submit"] {
+      width: 100%;
+      padding: 10px;
+      margin: 10px 0;
+      border: none;
+      border-radius: 5px;
+      background-color: violet;
+      color: #fff;
+      font-size: 16px;
+      cursor: pointer;
+    }
+    button[type="submit"]:hover {
+      background-color: darkviolet;
+    }
+    h1 {
+      margin-bottom: 20px;
+    }
+    h4 {
+      margin-top: 20px;
+    }
+    .section-header {
+      font-size: 18px;
+      font-weight: bold;
+      margin-top: 30px;
+      color: darkviolet;
+    }
+  </style>
+</head>
+<body>
+  <div class="login">
+    <h1>Yellow Card Prediction</h1>
+    <form action="{{ url_for('predict')}}" method="post">
+	  <div class="section-header">1. Current Round</div>
+	  <input type="text" name="league round" placeholder="Round" required><br>
+	  
+	  <div class="section-header">2. Expected Attendance</div>
+	  <input type="text" name="Expected Attendance" placeholder="Attendance" required><br>
+	  
+	  <div class="section-header">3. Difference in points</div>
+	  <input type="text" name="Points Difference" placeholder="Points" required><br>
+	  
+	  <div class="section-header">4. Average Yellow cards for the last 3 games</div>
+      <input type="text" name="Home Average Yellows" placeholder="Home Team" required><br>
+      <input type="text" name="Away Average Yellows" placeholder="Away Team" required><br>
+	  
+      <div class="section-header">5. Average Tackles for the last 3 games</div>
+      <input type="text" name="Home Average Tackles" placeholder="Home Team" required><br>
+      <input type="text" name="Away Average Tackles" placeholder="Away Team" required><br>
+
+      <div class="section-header">6. Average Ball Possession in % for the last 3 games</div>
+      <input type="text" name="Home Average ball possession" placeholder="Home Team" required><br>
+      <input type="text" name="Away Average ball possession" placeholder="Away Team" required><br>
+	  
+	  <div class="section-header">7. Average Lost Possessions for the last 3 games</div>
+      <input type="text" name="Home Average lost possessions" placeholder="Home Team" required><br>
+      <input type="text" name="Away Average lost possessions" placeholder="Away Team" required><br>
+
+	  <div class="section-header">8. Average Interceptions for the last 3 games</div>
+      <input type="text" name="Home Average Interceptions" placeholder="Home Team" required><br>
+      <input type="text" name="Away Average Interceptions" placeholder="Away Team" required><br>      
+      
+	  <div class="section-header">9. Average Fouls for the last 3 games</div>
+      <input type="text" name="Home Average Fouls" placeholder="Home Team" required><br>
+      <input type="text" name="Away Average Fouls" placeholder="Away Team" required><br>      
+      
+	  <div class="section-header">10. Average Duels won for the last 3 games</div>
+      <input type="text" name="Home Average Duels Won" placeholder="Home Team" required><br>
+      <input type="text" name="Away Average Duels Won" placeholder="Away Team" required><br>      
+      
+	  <div class="section-header">11. Average Aerial Duels won for the last 3 games</div>
+      <input type="text" name="Home Average Aerial Duels won" placeholder="Home Team" required><br>
+      <input type="text" name="Away Average Aerial Duels won" placeholder="Away Team" required><br>      
+      
+	  <div class="section-header">12. Referee Yellow Cards Category (margin 5)</div>
+	  <label><input type="radio" name="Referee yellow cards category" value="1" required> Over</label>
+	  <label><input type="radio" name="Referee yellow cards category" value="0" required> Under</label><br>
+	  
+	  <div class="section-header">13. Referee Red Cards Category (margin 0.25)</div>
+	  <label><input type="radio" name="Referee red cards category" value="1" required> Over</label>
+	  <label><input type="radio" name="Referee red cards category" value="0" required> Under</label><br>
+	  
+	  <!-- Add more sections and inputs as needed -->
+
+      <button type="submit">Predict Yellow Card Status</button>
+    </form>
+    <h4>{{ prediction_text }}</h4>
+  </div>
+</body>
+</html>

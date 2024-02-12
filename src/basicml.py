@@ -6,6 +6,7 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.metrics import accuracy_score, plot_confusion_matrix, roc_curve, auc
 import matplotlib.pyplot as plt
 import xgboost as xgb
+import pickle
 
 
 class MLPipeline:
@@ -52,6 +53,11 @@ class MLPipeline:
     def scaleMethod(self):
         scaler = StandardScaler()
         self.X = scaler.fit_transform(self.X)
+        
+        with open('models/scaler.pkl','wb') as f:
+            pickle.dump(scaler, f)
+        
+        
         self.X_test = scaler.transform(self.X_test)
         
     
@@ -67,6 +73,10 @@ class MLPipeline:
         
         self.grid = GridSearchCV(estimator=clf, param_grid=param_grid, n_jobs=1, verbose=self.verbose, cv=self.cv)
         self.grid.fit(self.X, self.Y)
+        
+        with open('models/model.pkl','wb') as f:
+            pickle.dump(self.grid, f)
+        
         print(f"The best parameters combination was {self.grid.best_estimator_}")
         
     

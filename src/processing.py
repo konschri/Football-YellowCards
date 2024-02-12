@@ -244,5 +244,8 @@ class process():
         self.data["Target"] = self.data["Yellows"].apply(lambda x: next((k for k, v in self.targetTransformationDict.items() if x in v), None))
         self.data.drop(["Yellows", "Reds"], axis=1, inplace=True)
         
+        #print(self.data.head())
+        #print(self.data.columns)
+        
         return self.data
         

@@ -5,6 +5,7 @@ from sklearn.decomposition import PCA
 from sklearn import preprocessing
 import matplotlib.pyplot as plt
 import pandas as pd
+import pickle
 
 
 
@@ -101,6 +102,8 @@ class Analyzer:
         print(f"The analysis resulted in {no_of_factors} factors.")
         fa = FactorAnalyzer(n_factors=no_of_factors, rotation=rotation)
         fa.fit(TrainDF)
+        with open("models/factoranalysis_parameters.pkl", "wb") as f:
+            pickle.dump(fa, f)
         
         # Add the isolated target variable to the transformed data
         train_results_array = fa.transform(TrainDF)
